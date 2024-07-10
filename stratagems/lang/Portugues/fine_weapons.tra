@@ -1,0 +1,912 @@
+
+//@402 vanilla format
+@401 = ~A versão mais comum do machado de batalha é um poste robusto com cerca de quatro pés de comprimento, com uma lâmina de único gume em forma de trombeta montada em uma extremidade. Os machados de batalha também são chamados de machados largos.
+
+Este machado de batalha é excepcionalmente bem feito, com uma lâmina perfeitamente equilibrada afiada até a espessura de uma navalha. Embora não seja mágico, ele atingirá com mais precisão e cortará mais profundamente do que um machado inferior.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D8 +1
+Tipo de dano: cortante
+Peso: 7
+Fator de velocidade: 7
+Tipo de proficiência: Machado
+Tipo: 1 mão
+Requer: 10 de Força
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@402 EE format
+@? = ~A versão mais comum do machado de batalha é um poste robusto com cerca de quatro pés de comprimento, com uma lâmina de único gume em forma de trombeta montada em uma extremidade. Os machados de batalha também são chamados de machados largos.
+
+Este machado de batalha é excepcionalmente bem feito, com uma lâmina perfeitamente equilibrada afiada até a espessura de uma navalha. Embora não seja mágico, ele atingirá com mais precisão e cortará mais profundamente do que um machado inferior.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d8+1 (cortante)
+Fator de velocidade: 7
+Tipo de proficiência: Machado
+Tipo: Uma mão
+Requer:
+ 10 de Força
+
+Peso: 7~
+*/
+@402 = ~Excelente machado de batalha~
+
+//@404 vanilla format
+@403 = ~A maça-estrela é um cabo de madeira com uma cabeça de metal composta por uma capa de ferro pontiaguda. As maças-estrelas têm um comprimento total de cerca de quatro pés. Algumas dessas armas têm uma cabeça redonda, oval ou cilíndrica cravejada com pontas. Saindo da maioria das cabeças das maças-estrelas, independentemente do design, está uma longa ponta para perfurar.
+
+Foi dedicado um cuidado especial à fabricação desta maça-estrela. Ela não possui nenhum encantamento, mas ainda assim é uma arma bonita e mortal.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 2D4 +1
+Tipo de dano: esmagamento
+Peso: 12
+Fator de velocidade: 7
+Tipo de proficiência: Mangual/Maçã-estrela
+Tipo: 1 mão
+Requer: 11 de Força
+Não utilizável por:
+ Druida
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@404 EE format
+@? = ~A maça-estrela é um cabo de madeira com uma cabeça de metal composta por uma capa de ferro pontiaguda. As maças-estrelas têm um comprimento total de cerca de quatro pés. Algumas dessas armas têm uma cabeça redonda, oval ou cilíndrica cravejada com pontas. Saindo da maioria das cabeças das maças-estrelas, independentemente do design, está uma longa ponta para perfurar.
+
+Foi dedicado um cuidado especial à fabricação desta maça-de-manhã. Ela não possui nenhum encantamento, mas ainda assim é uma arma bonita e mortal.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 2d4+1 (esmagamento)
+Fator de velocidade: 7
+Tipo de proficiência: Mangual/Maçã-estrela
+Tipo: Uma mão
+Requer:
+ 11 Força
+
+Peso: 12~
+*/
+@404 = ~Excelente maça-estrela~
+
+//@406 vanilla format
+@405 = ~O arco longo é semelhante ao arco curto, exceto que o cabo é aproximadamente tão alto quanto o arqueiro, geralmente de 6 a 6,5 pés. Ele tem duas vantagens sobre o arco curto: maior alcance e, portanto, muito mais precisão.
+
+Este arco em particular foi feito com cuidado incomum e é ainda mais preciso e poderoso do que um arco longo normal, mesmo que não tenha sido encantado.
+
+ESTATISTICAS:
+
+PACA0: +2 bonus
+Peso: 3
+Fator de velocidade: 7
+Tipo de proficiência: Arco Longo
+Tipo: 2 mãos
+Requer: Força 6
+Não utilizável por:
+ Druida
+ Clérigo
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Kensai
+ Cavaleiro~
+/*
+//@406 EE format
+@? = ~O arco longo é semelhante ao arco curto, exceto que o cabo é aproximadamente tão alto quanto o arqueiro, geralmente de 6 a 6,5 pés. Ele tem duas vantagens sobre o arco curto: maior alcance e, portanto, muito mais precisão.
+
+Este arco em particular foi feito com cuidado incomum e é ainda mais preciso e poderoso do que um arco longo normal, mesmo que não tenha sido encantado.
+
+ESTATISTICAS:
+
+PACA0: +2
+Fator de velocidade: 7
+Tipo de proficiência: Arco Longo 
+Tipo: Duas mãos
+Requer:
+ 6 Força
+
+Weight: 3~
+*/
+@406 = ~Excelente Arco longo~
+
+//@408 vanilla format
+@407 = ~Arcos curtos foram os primeiros a ser desenvolvidos, embora não fossem chamados assim. Este é mais um termo padrão que se refere a qualquer coisa que não seja um arco longo. Os estiques de arcos curtos têm em média cerca de 1,5 metros de comprimento. Com o passar dos anos, tentativas foram feitas para aumentar o alcance dos arcos. Os arcos receberam estiques mais longos ou flexibilidade foi aumentada sem mudança no comprimento. O primeiro resultou no que agora é chamado de arco longo.
+
+Esse arco em particular é feito de uma madeira incomum das terras do sul, muito procurada por arqueiros: apesar do seu tamanho pequeno, é tão preciso quanto um arco longo e um pouco mais poderoso.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Peso: 2
+Fator de velocidade: 6
+Tipo de proficiência: Arco Curto
+Tipo: 2 mãos
+Requer: Força 3
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago 
+ Feiticeiro
+ Monge
+ Kensai
+ Cavaleiro~
+/*
+//@408 EE format
+@? = ~Arcos curtos foram os primeiros a ser desenvolvidos, embora não fossem chamados assim. Este é mais um termo padrão que se refere a qualquer coisa que não seja um arco longo. Os estiques de arcos curtos têm em média cerca de 1,5 metros de comprimento. Com o passar dos anos, tentativas foram feitas para aumentar o alcance dos arcos. Os arcos receberam estiques mais longos ou flexibilidade foi aumentada sem mudança no comprimento. O primeiro resultou no que agora é chamado de arco longo.
+
+Esse arco em particular é feito de uma madeira incomum das terras do sul, muito procurada por arqueiros: apesar do seu tamanho pequeno, é tão preciso quanto um arco longo e um pouco mais poderoso.
+
+ESTATISTICAS:
+
+PACA0: +1
+Fator de velocidade: 6
+Tipo de proficiência: Arco Curto
+Tipo: Duas mãos
+Requer:
+ 3 Força
+
+Peso: 2~
+*/
+@408 = ~Excelente Arco Curto~
+
+//@410 vanilla format
+@409 = ~A típica adaga possui uma lâmina pontiaguda, geralmente de duplo gume, ao contrário de uma faca, que tem apenas um gume e é um pouco mais curta que a adaga.
+
+Esta adaga é obra de um artesão mestre. Apesar de não ser encantada, seu equilíbrio perfeito e lâmina afiada a tornam uma arma bela e letal.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D4 +1
+Tipo de dano: perfuração
+Peso: 1
+Fator de velocidade: 2
+Tipo de proficiência: Adaga
+Tipo: 1 mão
+Requer: Força 3
+Não utilizável por:
+ Clérigo 
+ Mestre dos Animais~
+/*
+//@410 EE format
+@? = ~A típica adaga possui uma lâmina pontiaguda, geralmente de duplo gume, ao contrário de uma faca, que tem apenas um gume e é um pouco mais curta que a adaga.
+
+Esta adaga é obra de um artesão mestre. Apesar de não ser encantada, seu equilíbrio perfeito e lâmina afiada a tornam uma arma bela e letal.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d4+1 (perfurante)
+Fator de velocidade: 2
+Tipo de proficiência: Adaga
+Tipo: Uma mão
+Requer:
+3 Força
+
+Peso: 1~
+*/
+@410 = ~Adaga Excelente~
+
+//@412 vanilla format
+@411 = ~De longe, o mais antigo e frequentemente utilizado arpão, a alabarda consiste em uma lâmina de machado semelhante a uma foice montada em um eixo com uma média de seis pés de comprimento. A lâmina do machado é equilibrada na parte traseira com uma ponta, e é sobrepujada por uma ponta afiada, geralmente de design quadrangular. Às vezes, a ponta é substituída por um gancho usado para desmontar a cavalaria. Uma alabarda pode ser melhor descrita como uma combinação entre uma lança e um machado.
+
+Essa alabarda foi feita com cuidado especial: desde a entalhadura no cabo até o brilho espelhado de sua lâmina, é uma arma tão excelente quanto você poderia esperar forjar sem encantamento.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D10 +1
+Tipo de dano: cortante ou perfurante
+Peso: 15
+Fator de velocidade: 9
+Tipo de proficiência: Alabarda
+Tipo: 2 mãos
+Requer: 13 de Força
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@412 EE format
+@? = ~De longe, o mais antigo e frequentemente utilizado arpão, a alabarda consiste em uma lâmina de machado semelhante a uma foice montada em um eixo com uma média de seis pés de comprimento. A lâmina do machado é equilibrada na parte traseira com uma ponta, e é sobrepujada por uma ponta afiada, geralmente de design quadrangular. Às vezes, a ponta é substituída por um gancho usado para desmontar a cavalaria. Uma alabarda pode ser melhor descrita como uma combinação entre uma lança e um machado.
+
+Essa alabarda foi feita com cuidado especial: desde a entalhadura no cabo até o brilho espelhado de sua lâmina, é uma arma tão excelente quanto você poderia esperar forjar sem encantamento.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d10+1 (cortante ou perfurante)
+Fator de velocidade: 9
+Tipo de proficiência: Alabarda
+Tipo: Duas mãos
+Requer:
+ 13 Força
+
+Peso: 15~
+*/
+@412 = ~Excelente Alabarda~
+
+//@414 vanilla format
+@413 = ~Cavaleiros montados não podem usar efetivamente armas de extremidade longa enquanto estão a cavalo e, como resultado, muitas armas foram adaptadas com extremidades mais curtas para que possam ser empunhadas com apenas uma mão. Maças e manguais são dois exemplos disso - o martelo de guerra é outro. O martelo de guerra do cavaleiro é o descendente do martelo de Lucerna. Ele é feito inteiramente de aço, com rondéis que protegem e fortalecem o cabo. Rondéis são pequenos discos de metal, muitas vezes moldados em designs decorativos. O cabo tem cerca de 18 polegadas de comprimento.
+
+Este é um martelo de guerra particularmente bom. Sua cabeça é perfeitamente equilibrada, de modo que o peso e a força do portador estão concentrados no alvo e para que possa ser balançado com precisão, sem comprometer a força do golpe.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D4 +2
+Tipo de dano: esmagamento
+Peso: 6
+Fator de velocidade: 4
+Tipo de proficiência: Martelo de guerra
+Tipo: 1 mão
+Requer: 9 de Força
+Não utilizável por:
+ Druida
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@414 EE format
+@? = ~Cavaleiros montados não podem usar efetivamente armas de extremidade longa enquanto estão a cavalo e, como resultado, muitas armas foram adaptadas com extremidades mais curtas para que possam ser empunhadas com apenas uma mão. Maças e manguais são dois exemplos disso - o martelo de guerra é outro. O martelo de guerra do cavaleiro é o descendente do martelo de Lucerna. Ele é feito inteiramente de aço, com rondéis que protegem e fortalecem o cabo. Rondéis são pequenos discos de metal, muitas vezes moldados em designs decorativos. O cabo tem cerca de 18 polegadas de comprimento.
+
+Este é um martelo de guerra particularmente bom. Sua cabeça é perfeitamente equilibrada, de modo que o peso e a força do portador estão concentrados no alvo e para que possa ser balançado com precisão, sem comprometer a força do golpe.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d4+2 (esmagamento)
+Fator de velocidade: 4
+Tipo de proficiência: Martelo de guerra
+Tipo: Uma mão
+Requer:
+ 9 Força
+
+Peso: 6~
+*/
+@414 = ~Excelente Martelo de Guerra~
+
+//@416 vanilla format
+@415 = ~O bastão longo, simples e modesto entre as armas de haste, tem aproximadamente de 1,80 a 2,70 metros. Bastões longos de alta qualidade são feitos de carvalho resistente e possuem metal nas duas extremidades. O bastão longo deve ser empunhado com as duas mãos.
+
+Este bastão é feito de uma madeira incomumente resistente, esculpido com grande cuidado e reforçado com faixas de aço. Apesar de sua simplicidade, é uma arma bastante poderosa.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D6 +1
+Tipo de dano: esmagamento
+Peso: 4
+Fator de velocidade: 4
+Tipo de proficiência: Cajado 
+Tipo: 2 mãos
+Requer: Força 5
+Não utilizável por:
+ Monge~
+/*
+//@416 EE format
+@? = ~O bastão longo, simples e modesto entre as armas de haste, tem aproximadamente de 1,80 a 2,70 metros. Bastões longos de alta qualidade são feitos de carvalho resistente e possuem metal nas duas extremidades. O bastão longo deve ser empunhado com as duas mãos.
+
+Este bastão é feito de uma madeira incomumente resistente, esculpido com grande cuidado e reforçado com faixas de aço. Apesar de sua simplicidade, é uma arma bastante poderosa.
+
+ESTATISTICAS :
+
+PACA0: +1
+Dano: 1d6+1 (esmagamento)
+Fator de velocidade: 4
+Tipo de Proficiência: Cajado
+Tipo: Duas mãos
+Requer:
+ 5 Força
+
+Peso: 4~
+*/
+@416 = ~Cajado excelente~
+
+//@418 vanilla format
+@417 = ~Também conhecida como espada de mão e meia, a espada bastarda é assim chamada por ser um meio-termo entre a espada de duas mãos e a espada longa. A espada bastarda tem uma lâmina de dois gumes e um cabo longo, que pode acomodar ambas as mãos, se preferido. O comprimento total da espada bastarda varia entre quatro pés e quatro pés e dez polegadas.
+
+Esta é uma espada bastarda particularmente fina e bem equilibrada; sua lâmina, forjada por um mestre ferreiro, cortará profundamente e com precisão.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 2D4 +1
+Tipo de dano: cortante
+Peso: 10
+Fator de velocidade: 8
+Tipo de proficiência: Espada bastarda
+Tipo: 1 mão
+Requer: 11 de Força
+Não utilizável por:
+ Druida
+ Clérigo
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@418 EE format
+@? = ~Também conhecida como espada de mão e meia, a espada bastarda é assim chamada por ser um meio-termo entre a espada de duas mãos e a espada longa. A espada bastarda tem uma lâmina de dois gumes e um cabo longo, que pode acomodar ambas as mãos, se preferido. O comprimento total da espada bastarda varia entre quatro pés e quatro pés e dez polegadas.
+
+Esta é uma espada bastarda particularmente fina e bem equilibrada; sua lâmina, forjada por um mestre ferreiro, cortará profundamente e com precisão.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 2d4+1 (cortante)
+Fator de velocidade: 8
+Tipo de proficiência: Espada bastarda
+Tipo: Uma mão
+Requer:
+ 11 Força
+
+Peso: 10~
+*/
+@418 = ~Excelente Espada Bastarda~
+
+//@420 vanilla format
+@419 = ~Essas espadas são geralmente conhecidas como espadas de dois gumes, espadas de guerra ou espadas militares. Em muitos casos, a espada longa possui uma lâmina de um único gume. Não há uma única versão da espada longa; o design e o comprimento variam de cultura para cultura e podem variar dentro da mesma cultura, dependendo da era. Entre as características mais comuns de todas as espadas longas está o seu comprimento, que varia de 35 polegadas a 47 polegadas. No último caso, a lâmina costuma ocupar 40 polegadas do comprimento total. A maioria das espadas longas possui uma lâmina de dois gumes e uma ponta afiada. Apesar da ponta, a espada longa é projetada para cortar, não para perfurar.
+
+Esta espada longa em particular é excepcionalmente bem feita. Seu equilíbrio é quase perfeito, e sua lâmina alcança uma afiação de excepcional nitidez.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D8 +1
+Tipo de dano: cortante
+Peso: 4
+Fator de velocidade: 5
+Tipo de proficiência: Espada Longa
+Tipo: 1 mão
+Requires: 6 Strength
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Mestre dos Animais~
+/*
+//@420 EE format
+@? = ~Essas espadas são geralmente conhecidas como espadas de dois gumes, espadas de guerra ou espadas militares. Em muitos casos, a espada longa possui uma lâmina de um único gume. Não há uma única versão da espada longa; o design e o comprimento variam de cultura para cultura e podem variar dentro da mesma cultura, dependendo da era. Entre as características mais comuns de todas as espadas longas está o seu comprimento, que varia de 35 polegadas a 47 polegadas. No último caso, a lâmina costuma ocupar 40 polegadas do comprimento total. A maioria das espadas longas possui uma lâmina de dois gumes e uma ponta afiada. Apesar da ponta, a espada longa é projetada para cortar, não para perfurar.
+
+Esta espada longa em particular é excepcionalmente bem feita. Seu equilíbrio é quase perfeito, e sua lâmina alcança uma afiação de excepcional nitidez.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d8+1 (cortante)
+Fator de velocidade: 5
+Tipo de proficiência: Espada Longa
+Tipo: Uma mão
+Requer:
+ 6 Força
+
+Peso: 4~
+*/
+@420 = ~Excelente Espada Longa~
+
+//@422 vanilla format
+@421 = ~A espada curta é o primeiro tipo de espada a surgir. Em termos simples, uma espada curta pode ser considerada uma adaga com uma lâmina tão longa que não pode mais ser chamada de adaga. O termo "espada curta" não existe nas classificações de espadas. No entanto, passou a ser usado para descrever uma lâmina de dois pés de comprimento. A ponta da espada é geralmente afiada, ideal para perfurar.
+
+Esta espada curta em particular é extraordinariamente bem feita. Seu equilíbrio é quase perfeito e sua lâmina chega a uma afiação extremamente afiada.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D6 +1
+Tipo de dano: perfuração
+Peso: 3
+Fator de velocidade: 3
+Tipo de proficiência: Espada curta
+Tipo: 1 mão
+Requer: Força 5
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Mestre dos Animais~
+/*
+//@422 EE format
+@? = ~A espada curta é o primeiro tipo de espada a surgir. Em termos simples, uma espada curta pode ser considerada uma adaga com uma lâmina tão longa que não pode mais ser chamada de adaga. O termo "espada curta" não existe nas classificações de espadas. No entanto, passou a ser usado para descrever uma lâmina de dois pés de comprimento. A ponta da espada é geralmente afiada, ideal para perfurar.
+
+Esta espada curta em particular é extraordinariamente bem feita. Seu equilíbrio é quase perfeito e sua lâmina chega a uma afiação extremamente afiada.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d6+1 (perfurante)
+Fator de velocidade: 3
+Tipo de proficiência: Espada curta
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 3~
+*/
+@422 = ~Espada Curta excelente~
+
+//@424 vanilla format
+@423 = ~Uma das armas mais antigas do homem, remontando aos tempos mais primitivos, as primeiras lanças eram simplesmente postes ou estacas de madeira afiadas em uma extremidade. Quando o homem dominou os metais, as pontas das lanças passaram a ser feitas de ferro e aço. Tendo alcançado esse ponto, os fabricantes de armas começaram a experimentar diferentes tipos de pontas de lança, levando assim ao desenvolvimento de certos tipos de armas de longa distância.
+
+A maioria das lanças é feita de maneira rude, em produção em massa, mas um cuidado incomum foi dispensado a esta. A ponta é feita de aço de alta qualidade e o equilíbrio é excelente.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D6 +1
+Tipo de dano: perfuração
+Peso: 5
+Fator de velocidade: 6
+Tipo de proficiência: Lança
+Tipo: 2 mãos
+Requer: Força 5
+Não utilizável por:
+ Clérigo 
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@424 EE format
+@? = ~Uma das armas mais antigas do homem, remontando aos tempos mais primitivos, as primeiras lanças eram simplesmente postes ou estacas de madeira afiadas em uma extremidade. Quando o homem dominou os metais, as pontas das lanças passaram a ser feitas de ferro e aço. Tendo alcançado esse ponto, os fabricantes de armas começaram a experimentar diferentes tipos de pontas de lança, levando assim ao desenvolvimento de certos tipos de armas de longa distância.
+
+A maioria das lanças é feita de maneira rude, em produção em massa, mas um cuidado incomum foi dispensado a esta. A ponta é feita de aço de alta qualidade e o equilíbrio é excelente.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d6+1 (perfurante)
+Fator de velocidade: 6
+Tipo de proficiência: Lança
+Tipo: Duas mãos
+Requer:
+ 5 Força
+
+Peso: 5~
+*/
+@424 = ~Lança Excelente~
+
+//@426 vanilla format
+@425 = ~A maça é um descendente direto da clava básico, sendo nada mais do que um eixo de madeira com uma cabeça de ferro montada na extremidade.
+
+Nesse caso, a cabeça é piramidal e forjada com cuidado incomum, tornando essa maça bastante eficaz em combate, apesar de não ter nenhum encantamento.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D6 +2
+Tipo de dano: esmagamento
+Peso: 8
+Fator de velocidade: 7
+Tipo de proficiência: Maça
+Tipo: 1 mão
+Requer: 10 de Força
+Não utilizável por:
+ Druida
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@426 EE format
+@? = ~A maça é um descendente direto da clava básico, sendo nada mais do que um eixo de madeira com uma cabeça de ferro montada na extremidade.
+
+Nesse caso, a cabeça é piramidal e forjada com cuidado incomum, tornando essa maça bastante eficaz em combate, apesar de não ter nenhum encantamento.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d6+2 (esmagamento)
+Fator de velocidade: 7
+Tipo de proficiência: Maça
+Tipo: Uma mão
+Requer:
+ 10 Força
+
+Peso: 8~
+*/
+@426 = ~Excelente maça~
+
+//@428 vanilla format
+@427 = ~A espada de duas mãos é um derivado da espada longa. Os ferreiros sempre procuraram maneiras de melhorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para balançar adequadamente a espada. A função principal das espadas de duas mãos é abater cavaleiros montados e quebrar formações de lanças.
+
+Este é especialmente bom em seu trabalho, pois foi feito do melhor aço anão.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D10 +1
+Tipo de dano: cortante
+Peso: 12
+Fator de velocidade: 10
+Tipo de proficiência: Espada de duas mãos
+Tipo: 2 mãos
+Requer: 14 de Força
+Não utilizável por:
+ Druida
+ Clérigo
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge
+ Mestre dos Animais~
+/*
+//@428 EE format
+@? = ~A espada de duas mãos é um derivado da espada longa. Os ferreiros sempre procuraram maneiras de melhorar as armas existentes. Em um esforço para aprimorar a espada longa, a lâmina foi alongada. Eventualmente, o cabo teve que ser estendido e duas mãos se tornaram necessárias para balançar adequadamente a espada. A função principal das espadas de duas mãos é abater cavaleiros montados e quebrar formações de lanças.
+
+Este é especialmente bom em seu trabalho, pois foi feito do melhor aço anão.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d10+1 (cortante)
+Fator de velocidade: 10
+Tipo de proficiência: Espada de duas mãos
+Tipo: Duas mãos
+Requer:
+ 14 Força
+
+Peso: 12~
+*/
+@428 = ~Excelente Espada de Duas Mãos~
+
+//@430 vanilla format
+@429 = ~A cimitarra, ou "shamshir", como era originalmente chamada, tem uma lâmina de um único gume com uma curvatura significativa e é afilada até uma ponta alongada e afiada. Talvez seja mais lenta do que outras armas do mesmo tipo, mas compensa pela quantidade de dano que é capaz de causar.
+
+Esta arma em particular tem uma qualidade excepcional, mesmo apesar da falta de encantamento.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D8 +1
+Tipo de dano: cortante
+Peso: 3
+Fator de velocidade: 5
+Tipo de proficiência: Cimitarra/Wakizashi/Ninja-To
+Tipo: 1 mão
+Requer: 10 de Força
+Não utilizável por:
+ Clérigo 
+ Mago
+ Feiticeiro
+ Mestre dos Animais~
+/*
+//@430 EE format
+@? = ~A cimitarra, ou "shamshir", como era originalmente chamada, tem uma lâmina de um único gume com uma curvatura significativa e é afilada até uma ponta alongada e afiada. Talvez seja mais lenta do que outras armas do mesmo tipo, mas compensa pela quantidade de dano que é capaz de causar.
+
+Esta arma em particular tem uma qualidade excepcional, mesmo apesar da falta de encantamento.
+
+ESTATISTICAS :
+
+PACA0: +1
+Dano: 1d8+1 (cortante)
+Fator de velocidade: 5
+Tipo de proficiência: Cimitarra/Wakizashi/Ninja-To
+Tipo: Uma mão
+Requer:
+ 10 Força
+
+Peso: 3~
+*/
+@430 = ~Excelente Cimitarra~
+
+//@432 vanilla format
+@431 = ~Arcos compostos são arcos longos ou curtos cujos mastros são feitos de mais de um tipo de material. Isso proporciona maior flexibilidade e, consequentemente, maior alcance. Eles foram desenvolvidos após o arco longo comum.
+
+Este arco em particular, embora não seja mágico, foi feito com grande cuidado dos melhores materiais. Requer uma força de 18 para empunhar.
+
+ESTATISTICAS :
+
+PACA0: +2 bonus
+Dano: +2
+Tipo de dano: projétil (perfurante)
+Peso: 9
+Fator de velocidade: 7
+Tipo de proficiência: Arco Longo 
+Tipo: 2 mãos
+Requer: 18 de Força
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Ladrão
+ Bardo
+ Monge 
+ Cavaleiro 
+ Kensai~
+/*
+//@432 EE format
+@? = ~Arcos compostos são arcos longos ou curtos cujos mastros são feitos de mais de um tipo de material. Isso proporciona maior flexibilidade e, consequentemente, maior alcance. Eles foram desenvolvidos após o arco longo comum.
+
+Este arco em particular, embora não seja mágico, foi feito com grande cuidado dos melhores materiais. Requer uma força de 18 para empunhar.
+
+ESTATISTICAS:
+
+PACA0: +2
+Damage: +2 (projétil)
+Fator de velocidade: 7
+Tipo de proficiência: arco longo
+Tipo: Duas mãos
+Requer:
+ 18 Força
+
+Peso: 9~
+*/
+@432 = ~Excelente Arco Composto~
+
+//@434 vanilla format
+@433 = ~O mangual é um cabo de madeira resistente ligado a uma extremidade de ferro, um bastão de madeira com pontas ou uma bola de ferro com espinhos. Entre o cabo e o implemento há uma dobradiça ou elo de corrente.
+
+A arma foi feita de aço e teixo de alta qualidade; é leve para usar, bem balanceada e muito eficaz, apesar de não ser encantada.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D6 +2
+Tipo de dano: esmagamento
+Peso: 12
+Fator de velocidade: 7
+Tipo de proficiência: Mangual/Maçã-estrela 
+Tipo: 1 mão
+Requer: 13 de Força
+Não utilizável por:
+ Druida
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge 
+ Mestre dos Animais ~
+/*
+//@434 EE format
+@? = ~O mangual é um cabo de madeira resistente ligado a uma extremidade de ferro, um bastão de madeira com pontas ou uma bola de ferro com espinhos. Entre o cabo e o implemento há uma dobradiça ou elo da corrente.
+
+A arma foi feita de aço e teixo de alta qualidade; é leve para usar, bem balanceada e muito eficaz, apesar de não ser encantada.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d6+2 (esmagamento)
+Fator de velocidade: 7
+Tipo de proficiência: Mangual/Maçã-estrela 
+Tipo: Uma mão
+Requer:
+ 13 Força
+
+Peso: 12~
+*/
+@434 = ~Excelente Mangual~
+
+//@436 vanilla format
+@435 = ~A katana é uma espada de um só gume, ligeiramente curvada, que termina com uma ponta chanfrada. A katana é talvez uma das melhores espadas já feitas, o processo de sua criação é longo e secreto, mais uma forma de arte do que qualquer outra coisa. Esta lâmina é um aspecto importante da cultura de Kara-Turan. Tocar ou empunhar a katana de um samurai é insultar o samurai e incitar sua ira. Para um gaijin, ou estrangeiro, possuir tal lâmina é uma ocorrência rara. Ou o gaijin é um grande amigo honrado de um importante ministro, ou o gaijin matou um samurai.
+
+A habilidade de fabricação desta bela katana é surpreendente, mesmo que ela não tenha encantamento. Poucos ferreiros têm a habilidade de criar uma arma tão qualificada.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D10 +1
+Tipo de dano: cortante
+Peso: 6
+Fator de velocidade: 4
+Tipo de proficiência: Katana
+Tipo: 1 mão
+Requer: Força 6
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Mestre dos Animais ~
+/*
+//@436 EE format
+@? = ~A katana é uma espada de um só gume, ligeiramente curvada, que termina com uma ponta chanfrada. A katana é talvez uma das melhores espadas já feitas, o processo de sua criação é longo e secreto, mais uma forma de arte do que qualquer outra coisa. Esta lâmina é um aspecto importante da cultura de Kara-Turan. Tocar ou empunhar a katana de um samurai é insultar o samurai e incitar sua ira. Para um gaijin, ou estrangeiro, possuir tal lâmina é uma ocorrência rara. Ou o gaijin é um grande amigo honrado de um importante ministro, ou o gaijin matou um samurai.
+
+A habilidade de fabricação desta bela katana é surpreendente, mesmo que ela não tenha encantamento. Poucos ferreiros têm a habilidade de criar uma arma tão qualificada.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d10+1 (cortante)
+Fator de velocidade: 4
+Tipo de proficiência: Katana
+Tipo: Uma mão
+Requer:
+ 6 Força
+
+Peso: 6~
+*/
+@436 = ~Excelente Katana~
+
+//@438 vanilla format
+@437 = ~A wakizashi, ou espada companheira, é extremamente importante para os samurais. Ela é carregada o tempo todo, mesmo dentro de casa, e fica perto do samurai quando ele dorme à noite. Tão bem feita quanto a katana, a wakizashi, uma espada mais curta com um comprimento entre doze e vinte e quatro polegadas, é uma arma perigosa nas mãos de um usuário habilidoso.
+
+Esta Wakizashi é excepcionalmente bem elaborada, embora não possua nenhum encantamento.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D8 +1
+Tipo de dano: perfuração
+Peso: 3
+Fator de velocidade: 3
+Tipo de proficiência: Cimitarra/Wakizashi/Ninja-To
+Tipo: 1 mão
+Requer: Força 5
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Mestre dos Animais ~
+/*
+//@438 EE format
+@? = ~A wakizashi, ou espada companheira, é extremamente importante para os samurais. Ela é carregada o tempo todo, mesmo dentro de casa, e fica perto do samurai quando ele dorme à noite. Tão bem feita quanto a katana, a wakizashi, uma espada mais curta com um comprimento entre doze e vinte e quatro polegadas, é uma arma perigosa nas mãos de um usuário habilidoso
+
+Esta wakizashi é excepcionalmente bem elaborada, embora não possua nenhum encantamento.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d8+1 (perfurante)
+Fator de velocidade: 3
+Tipo de proficiência: Cimitarra/Wakizashi/Ninja-To 
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 3~
+*/
+@438 = ~Excelente Wakizashi~
+
+//@440 vanilla format
+@439 = ~A maioria das clavas são bastões de madeira resistente, estreitos na empunhadura e mais largos na extremidade. Esta arma simples tem sido usada desde que as pessoas começaram a usar ferramentas. Qualquer um pode encontrar um bom pedaço de madeira resistente e balançá-lo; daí o uso generalizado das clavas.
+
+Esta clavas está envolto em faixas de ferro para dar mais peso e possui um equilíbrio excepcional.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D6 +1
+Tipo de dano: esmagamento
+Peso: 3
+Fator de velocidade: 4
+Tipo de proficiência: Clava
+Tipo: 1 mão
+Requer: 5 de Força
+Não utilizável por:
+ Mago
+ Feiticeiro~
+/*
+//@440 EE format
+@? = ~A maioria das clavas são bastões de madeira resistente, estreitos na empunhadura e mais largos na extremidade. Esta arma simples tem sido usada desde que as pessoas começaram a usar ferramentas. Qualquer um pode encontrar um bom pedaço de madeira resistente e balançá-lo; daí o uso generalizado das clavas.
+
+Esta clavas está envolto em faixas de ferro para dar mais peso e possui um equilíbrio excepcional.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d6+1 (esmagamento)
+Fator de velocidade: 4
+Tipo de proficiência: Clavas
+Tipo: Uma mão
+Requer:
+ 5 Força
+
+Peso: 3~
+*/
+@440 = ~Clava Excelente~
+
+//@442 vanilla format
+@441 = ~Uma besta é um arco montado transversalmente em um eixo de madeira ou metal, este último chamado de coronha. O arco costuma ser feito de freixo ou teixo. A besta dispara uma virote (também chamada de seta).
+
+Esta besta foi construída com habilidade requintada e os melhores materiais.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: +3
+Tipo de dano: míssil (perfurante)
+Peso: 14
+Fator de velocidade: 10
+Tipo de proficiência: Besta
+Tipo: 2 mãos
+Requer: Força 12
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Ladrão
+ Monge 
+ Kensai
+ Cavaleiro~
+/*
+//@442 EE format
+@? = ~Uma besta é um arco montado transversalmente em um eixo de madeira ou metal, este último chamado de coronha. O arco costuma ser feito de freixo ou teixo. A besta dispara uma virote (também chamada de seta).
+
+This crossbow is constructed with exquisite skill and the finest of materials.
+
+ESTATISTICAS :
+
+PACA0: +1
+Dano: +3 (projétil)
+Fator de velocidade: 10
+Tipo de proficiência: Besta
+Tipo: Duas mãos
+Requer:
+ 12 Força
+
+Peso: 14~
+*/
+@442 = ~Excelente Besta Pesada~
+
+//@444 vanilla format
+@443 = ~Uma besta é um arco montado transversalmente em um eixo de madeira ou metal, este último chamado de espigão. O arco é geralmente feito de freixo ou teixo. A besta dispara um virote (também chamado de seta).
+
+Esta besta foi construída com habilidade requintada e os melhores materiais.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: +1
+Tipo de dano: míssil (perfurante)
+Peso: 7
+Fator de velocidade: 5
+Tipo de proficiência: Besta
+Tipo: 2 mãos
+Requer: Força 8
+Não utilizável por:
+ Druida
+ Clérigo 
+ Mago
+ Feiticeiro
+ Monge 
+ Kensai
+ Cavaleiro~
+/*
+//@444 EE format
+@? = ~Uma besta é um arco montado transversalmente em um eixo de madeira ou metal, este último chamado de espigão. O arco é geralmente feito de freixo ou teixo. A besta dispara um virote (também chamado de seta).
+
+Esta besta foi construída com habilidade requintada e os melhores materiais.
+
+ESTATISTICAS :
+
+PACA0: +1
+Dano: +1 (projétil)
+Fator de velocidade: 5
+Tipo de proficiência: Besta
+Tipo: Duas mãos
+Requer:
+ 8 Força
+
+Peso: 7~
+*/
+@444 = ~Excelente Besta Leve~

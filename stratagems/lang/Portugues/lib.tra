@@ -1,0 +1,10 @@
+
+@50018 = ~Ajustar as configurações de dificuldade~
+@50019 = ~Deixe a dificuldade desta parte do jogo inalterada.~
+@50030 = ~Qual configuração de dificuldade você deseja alterar?~
+@50031 = ~Eu não quero fazer nenhuma mudança agora.~
+@50032 = ~Você pode fazer alterações adicionais a qualquer momento ou usar o controle deslizante de dificuldade para fazer alterações globais em qualquer elemento que não foi ajustado individualmente.~
+@50033 = ~Remova o controle de dificuldade das minhas Habilidades Especiais.~
+@50034 = ~Restaure o controle de dificuldade para as Minhas Habilidades Especiais.~
+@50035 = ~O controle de dificuldade foi removido. Você ainda pode acessar este menu no console, digitando C:CreateCreature("dw#diffi").~
+@50036 = ~O controle de dificuldade foi restaurado.~

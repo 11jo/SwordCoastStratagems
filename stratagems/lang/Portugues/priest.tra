@@ -1,0 +1,84 @@
+// mage and priest need to be non-overlapping so that clericmage can call both
+// new strings in priest should go at @10000+
+
+@1105 = ~Estranho... consigo sentir algo...~
+@1106 = ~Sou um servo dos deuses. Você não pode se esconder.~
+@1107 = ~Pelo poder concedido a mim, eu ordeno que você se mostre!~
+@1108 = ~Estranho... vamos ver o que um pouco de adivinhação pode revelar...~
+@4300 = ~Uzrith~
+@4301 = ~Chlimbia~
+@4302 = ~Irithlin~
+@4303 = ~Quem clama por Uzrith, Príncipe da Terra?~
+@4304 = ~Quem convoca Chlimbia, Príncipe do Fogo?~
+@4305 = ~Quem chama Irithlin, Príncipe do Ar?~
+@4307 = ~Quem convoca Alyolvoy, Príncipe da Água?~
+
+@5000="Eu confio na Senhora!"
+@5001="Tymora, preserve-me!"
+@5002="Sorria para mim, Tymora!"
+
+@5010="Por Tempus!"
+@5011="Pelo Senhor da Batalha!"
+@5012="Tempus, abençoe esta batalha hoje!"
+
+@5020="Pelo Sol Negro!"
+@5021="Que a maldição de Cyric caia sobre você!"
+
+@5030="A mão negra de Bane irá esmagar você!"
+@5031="Em nome do Senhor Negro!"
+
+@5040="Pelo Godson! Por Xvim!"
+@5041="Eu trago a ira de Iyachtu Xvim!"
+@5042="Filho de Bane, derrube meu inimigo!"
+
+@5050="Queime no fogo de Kossuth!"
+@5051="Senhor das chamas, queime meu inimigo!"
+@5052="Que a ira do Senhor do Fogo te consuma!"
+
+@5060="Que Helm me proteja!"
+@5061="Em nome de Helm!"
+@5062="Para o Vigilante!"
+
+@5070="Para o Senhor da Manhã!"
+@5071="Para Lathander!"
+@5072="Pela luz do amanhecer!"
+
+@5080="Para o Senhor da Tempestade!"
+@5081="Por Talos!"
+@5082="Sinta a ira de Talos!"
+
+@5090="Que Talona amaldiçoe você!"
+@5091="Pela Mãe de Todas as Pragas!"
+
+@5100="Sinta o beijo gelado de Auril!"
+@5101="Que Auril congele seu sangue!"
+@5102="Para a Donzela da Geada!"
+
+@5110="Provem a fúria de Malar!"
+@5111="Para o Senhor das Feras!"
+@5112="Malar, eu caço em seu nome!"
+
+@5120="Ajude-me, Senhor das Sombras."
+@5121="Em nome de Mask, eu ataco!"
+
+@5130="Para a Senhora da Prata!"
+@5131="Selûne, concede-me tua bênção!"
+@5132="Em nome da Deusa Lua!"
+
+@5140="Que as trevas de Shar te ceguem!"
+@5141="Para o Cantor da Noite!"
+
+@5150="Que Umberlee o amaldiçoe!"
+@5151="Afogue-se na ira de Umberlee!"
+@5152="Pela Rainha do Mar!"
+
+@5160="Eu trarei a justiça de Tyr até você!"
+@5161="Tyr me guie!"
+@5162="Para Tyr, o Justo!"
+@5163="Em nome de Tyr!"
+
+@5170="Ilmater, deixe-me suportar isso!"
+@5171="O Deus Chorão me protegerá!"
+
+@5180="O Senhor dos Ossos vai te levar..."
+@5181="Sinta o toque de Myrkul e morra..."

@@ -1,0 +1,13 @@
+
+@2100 = ~Fogo Devastador~
+@2101 = ~Resistência ao fogo reduzida~
+@2102 = ~Enxofre~
+@2103 = ~Chama Estelar~
+@3000 = ~Chuva de Cinzas
+
+Esse poder invoca uma chuva de cinzas nos inimigos, queimando-os e distraindo-os. A chuva de cinzas inflige 4d10 pontos de dano de fogo e impõe uma penalidade de 4 pontos ao THAC0 e uma penalidade de 2 pontos à Destreza, cada uma por 5 rodadas.~
+
+@3001 = ~Fogo Devastador
+
+Com esse poder, o Homem Ardente impõe uma maldição sobre seus inimigos que remove todas as suas proteções e aprimoramentos mágicos.~
+

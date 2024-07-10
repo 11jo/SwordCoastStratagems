@@ -9,7 +9,7 @@ DEFINE_ACTION_FUNCTION language_grabber BEGIN
 //// Not used in live SCS; here for reference
 /////////////////////////////////////////////////////////////////////////
      OUTER_SPRINT tra_in_loc "tra_old"
-     OUTER_SPRINT language_list "UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN KOREAN SCHINESE SPANISH"
+     OUTER_SPRINT language_list "UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN PORTUGUES KOREAN SCHINESE SPANISH"
 
      // do the shared files
      
@@ -147,7 +147,7 @@ DEFINE_ACTION_FUNCTION grab_tra_tweaks BEGIN
         OUTER_SPRINT tra_entries "%tra_entries% 20840"
 
 
-        LAF extract_from_tra INT_VAR relativise_tra_in=1 STR_VAR language_list="UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN KOREAN SCHINESE" tra_in_loc="%MOD_FOLDER%/tra" tra_out="dw_components.tra" tra_out_loc="%workspace%/cd_lang" tra_entries END
+        LAF extract_from_tra INT_VAR relativise_tra_in=1 STR_VAR language_list="UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN PORTUGUES KOREAN SCHINESE" tra_in_loc="%MOD_FOLDER%/tra" tra_out="dw_components.tra" tra_out_loc="%workspace%/cd_lang" tra_entries END
 
 
 
@@ -162,7 +162,7 @@ DEFINE_ACTION_FUNCTION grab_tra_tweaks BEGIN
 /////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\/////\\\\\
 >>>>>>>>
 
-       ACTION_FOR_EACH language IN UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN KOREAN SCHINESE BEGIN
+       ACTION_FOR_EACH language IN UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN PORTUGUES KOREAN SCHINESE BEGIN
           COPY "cdtweaks/languages/%language%/setup.tra" "%workspace%/cd_lang/%language%"
              APPEND_FILE TEXT ".../stratagems-inline/top.txt"
           BUT_ONLY
@@ -186,7 +186,7 @@ DEFINE_ACTION_FUNCTION grab_tra_tweaks BEGIN
              3341=>507008 // wizard stronghold
        END
        ACTION_PHP_EACH setup_tra AS tra_entries=>force_ref BEGIN
-          LAF extract_from_tra INT_VAR relativise_tra_in=1 force_ref STR_VAR tra_entries language_list="UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN KOREAN SCHINESE" tra_in_loc="%MOD_FOLDER%/tra" tra_out="setup.tra" tra_out_loc="%workspace%/cd_lang" END
+          LAF extract_from_tra INT_VAR relativise_tra_in=1 force_ref STR_VAR tra_entries language_list="UKISH FRENCH GERMAN POLISH ITALIAN RUSSIAN PORTUGUES KOREAN SCHINESE" tra_in_loc="%MOD_FOLDER%/tra" tra_out="setup.tra" tra_out_loc="%workspace%/cd_lang" END
        END
 END
 

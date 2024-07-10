@@ -1,0 +1,139 @@
+
+@20305 = ~Flecha do Mestre Armeiro~
+//@20305 vanilla format
+@20306 = ~A flecha de voo, como o nome indica, foi feita para alcançar longas distâncias. Estas são flechas leves e frequentemente usadas para caça. A maioria dessas flechas é feita de freixo ou bétula e tem trinta a quarenta polegadas de comprimento.
+
+Essa flecha, no entanto, é de uma qualidade de fabricação incomumente alta.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D6 +1
+Tipo de dano: projétil (perfurante)
+Peso: 0
+Lançador: Arco
+Não utilizável por:
+ Clérigo
+ Druida
+ Mago
+ Feiticeiro
+ Monge
+ Kensai
+ Cavaleiro~
+/*
+//@20305 EE format
+@? = ~A flecha de voo, como o nome sugere, é construída para distância. Essas são flechas leves e frequentemente usadas para caça. A maioria delas é feita de freixo ou bétula e tem entre trinta e quarenta polegadas de comprimento.
+
+Esta flecha, no entanto, é de uma qualidade de fabricação excepcionalmente alta.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d6+1 (projétil)
+Lançador: Arco
+
+Peso: 0~
+*/
+
+@20307 = ~Seta de qualidade ~
+//@20307 vanilla format
+@20308 = ~"Quarrels" ou "setas" são a munição disparada por bestas, independentemente do tamanho da arma.
+
+No entanto, está seta possui uma qualidade de fabricação incomumente alta.
+
+STATISTICS:
+
+PACA0: +1 bonus
+Dano: 1D8 +1
+Tipo de dano: projétil (perfurante)
+Peso: 0
+Lançador: Besta
+Não utilizável por:
+ Clérigo 
+ Druida
+ Mago
+ Feiticeiro
+ Monge
+ Kensai
+ Cavaleiro~
+/*
+//@20307 EE format
+@? = ~Projéteis ou setas são a munição disparada por bestas, independentemente do tamanho da arma.
+
+No entanto, esta seta tem uma qualidade de fabricação excepcionalmente alta.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d8+1 (projétil )
+Lançador: Besta
+
+Peso: 0~
+*/
+
+@20309 = ~Dardo de qualidade~
+//@20309 vanilla format
+@20310 = ~O dardo é uma pequena e facilmente ocultável arma de arremesso que é lançada, em vez de disparada por um arco ou outro lançador.
+
+Este dardo é de uma qualidade excepcionalmente alta na sua fabricação.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D3 +1
+Tipo de dano: projétil (perfurante)
+Peso: 0
+Fator de velocidade: 1
+Tipo de proficiência: Dardo
+Tipo: 1 mão
+Não utilizável por:
+ Clérigo 
+ Kensai
+ Cavaleiro~
+/*
+//@20309 EE format
+@? = ~O dardo é uma pequena e facilmente ocultável arma de arremesso que é lançada, em vez de disparada por um arco ou outro lançador.
+
+Este dardo possui uma qualidade de fabricação excepcionalmente alta..
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d3+1 (projétil)
+Fator de velocidade: 1
+Tipo de proficiência: Dardo
+Tipo: Uma mão
+
+Peso: 0~
+*/
+
+@20311 = ~Bala de qualidade ~
+//@20311 vanilla format
+@20312 = ~A bala típica é simplesmente uma pedra arredondada e bem equilibrada.
+
+Esta bala, no entanto, é encapada de aço, o que melhora sua precisão e dano.
+
+ESTATISTICAS:
+
+PACA0: +1 bonus
+Dano: 1D4 +2
+Tipo de dano: projétil (perfurante)
+Peso: 0
+Lançador: Funda
+Não utilizável por:
+ Kensai
+ Cavaleiro~
+/*
+//@20311 EE format
+@? = ~A bala típica é simplesmente uma pedra arredondada e bem equilibrada.
+
+Esta bala, no entanto, é encapada de aço, o que melhora sua precisão e dano.
+
+ESTATISTICAS:
+
+PACA0: +1
+Dano: 1d4+2 (projétil)
+Lançador: Funda 
+
+Peso: 0~
+*/

@@ -1,0 +1,128 @@
+
+@214 = ~, concede invisibilidade~ //remove this part 39627 bg2/bg2ee
+@215 = ~Invisibilidade~ //remove this part 39627 bg2/bg2ee
+
+//Carsomyr vanilla format (39473 bg2)
+@4100 = ~O Vingador Sagrado: Carsomyr
+
+Carsomyr é uma arma lendária, talvez uma das espadas mais poderosas já forjadas em Faerûn, embora sua origem e história tenham sido intencionalmente esquecidas para que a própria espada nunca sobrepuje a importância das lutas que devem ser travadas hoje. Ela é infundida com a essência da virtude e exige o mesmo de qualquer paladino que deseje empunhá-la. Os males dos reinos devem verdadeiramente se curvar quando esta arma é usada, sua magia dissipada com uma palavra, resistida com facilidade. Carsomyr também nutre um especial desgosto pelas forças do mal e do caos, e tais criaturas devem temer dano adicional de seu toque em batalha.
+
+ESTATISTICAS:
+
+Habilidades Equipadas:
+ 50% de resistência mágica
+ Dissipar magia 3 vezes por dia
+
+Habilidades de combate:
+ +5 de dano cortante a oponentes caóticos malignos, além de outros bônus
+ Dissipa magias sempre que a espada atinge um oponente (resista vs. magia para evitar)
+
+PACA0: +5 bonus
+Dano: 1D12 +5
+Tipo de dano: cortante
+Peso: 7
+Fator de velocidade: 5
+Tipo de proficiência: Espada de duas mãos
+Tipo: 2 mãos
+Requer: 14 de Força
+Utilizável por:
+ Paladino~
+/*
+//Carsomyr EE format (39473 bg2ee)
+@? = ~O Santo Vingador: Carsomyr
+
+Carsomyr é uma arma lendária, talvez uma das espadas mais poderosas já forjadas em Faerûn, embora sua origem e história tenham sido intencionalmente esquecidas para que a própria espada nunca sobrepuje a importância das lutas que devem ser travadas hoje. Ela é infundida com a essência da virtude e exige o mesmo de qualquer paladino que deseje empunhá-la. Os males dos reinos devem verdadeiramente se curvar quando esta arma é usada, sua magia dissipada com uma palavra, resistida com facilidade. Carsomyr também nutre um especial desgosto pelas forças do mal e do caos, e tais criaturas devem temer dano adicional de seu toque em batalha.
+
+ESTATISTICAS:
+
+Habilidades equipadas:
+– Resistência mágica: 50%
+
+Habilidades de combate:
+– Dispersar Magia no nível 30 a cada golpe (Salve vs. Magia anula)
+
+Habilidades de carga:
+– Desfazer Magia no nível 15 três vezes por dia
+Alcance: 40 pés.
+  Área de Efeito: raio de 15 pés
+
+PACA0: +5
+Dano: 1d12+5 (cortante), +5 (cortante) vs. caótico maligno
+Fator de velocidade: 5
+Tipo de proficiência: Espada de duas mãos
+Tipo: Duas mãos
+Requer:
+ 14 Força
+
+Peso: 7~
+*/
+//Cespenar's enhanced Carsomyr vanilla format (66301 bg2)
+@4101 = ~O Santo Vingador: Carsomyr
+
+Carsomyr é uma arma lendária, talvez uma das espadas mais poderosas já forjadas em Faerûn, embora sua origem e história tenham sido intencionalmente esquecidas para que a própria espada nunca sobrepuje a importância das lutas que devem ser travadas hoje. Ela é infundida com a essência da virtude e exige o mesmo de qualquer paladino que deseje empunhá-la. Os males dos reinos devem verdadeiramente se curvar quando esta arma é usada, sua magia dissipada com uma palavra, resistida com facilidade. Carsomyr também nutre um especial desgosto pelas forças do mal e do caos, e tais criaturas devem temer dano adicional de seu toque em batalha.
+
+Mesmo um Relicário Sagrado tão poderoso quanto o Carsomyr se torna ainda maior quando combinado com o Olho de Tyr.
+
+ESTATISTICAS:
+
+Habilidades equipadas:
+ 50% de resistência mágica
+ Dissipar magia 3 vezes por dia
+
+Habilidades de combate:
++6 de dano de corte a oponentes caóticos malignos, além de outros bônus.
+ Dissipa magia sempre que a espada atinge um oponente (teste de resistência vs. magia com -2 para evitar)
+
+PACA0: +6 bonus
+Dano: 1D12 +6
+Tipo de dano: cortante
+Peso: 6
+Fator de velocidade: 4
+Tipo de proficiência: Espada de duas mãos
+Tipo: 2 mãos
+Requer: 14 de Força
+Utilizável por:
+ Paladino~
+/*
+//Cespenar's enhanced Carsomyr EE format (66301 bg2ee)
+@? = ~O Santo Vingador: Carsomyr
+
+Carsomyr é uma arma lendária, talvez uma das espadas mais poderosas já forjadas em Faerûn, embora sua origem e história tenham sido intencionalmente esquecidas para que a própria espada nunca sobrepuje a importância das lutas que devem ser travadas hoje. Ela é infundida com a essência da virtude e exige o mesmo de qualquer paladino que deseje empunhá-la. Os males dos reinos devem verdadeiramente se curvar quando esta arma é usada, sua magia dissipada com uma palavra, resistida com facilidade. Carsomyr também nutre um especial desgosto pelas forças do mal e do caos, e tais criaturas devem temer dano adicional de seu toque em batalha.
+
+Mesmo um Relicário Sagrado tão poderoso quanto o Carsomyr se torna ainda maior quando combinado com o Olho de Tyr.
+
+ESTATISTICAS:
+
+Habilidades equipadas:
+– Resistência mágica: 50%
+
+Habilidades de combate:
+– Dispersar Magia no nível 30 a cada golpe (Salve vs. Magia anula)
+
+Habilidades de carga:
+– Desfazer Magia no nível 15 três vezes por dia
+Alcance: 40 pés.
+  Área de Efeito: raio de 15 pés
+
+PACA0: +6
+Dano: 1d12+6 (cortante), +6 (cortante) vs. mal caótico
+Fator de velocidade: 4
+Tipo de proficiência: Espada de duas mãos
+Tipo: Duas mãos
+Requer:
+ 14 Força
+
+Peso: 6~
+*/
+//Rod of Resurrection vanilla format (39620 bg2), EE format not needed; installed only on obg2
+@5100 = ~Cajado da Ressurreição
+
+This rod enables anyone to resurrect the dead and heal the injured as if they were of high enough level to cast the Raise Dead and Heal spells and as if they were a priest. No rest is required, as the rod bestows the life giving effects. Each use of the rod expends one charge.
+
+ESTATISTICAS:
+
+Habilidades Especiais (um uso):
+ Ressuscitar os Mortos
+ Curar
+
+Peso: 3~

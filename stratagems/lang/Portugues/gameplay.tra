@@ -1,0 +1,121 @@
+
+@10 = ~LANGUAGE_CAN_SUBSTITUTE~
+@601 = ~Modo de pré-conjuração ativado; não beber poções de cura~
+@602 = ~Modo de pré-lançamento desativado~
+@603 = ~Modo de pré-lançamento ativado; bebendo poções de cura~
+@604 = ~Modo de pré-lançamento ativado; bebendo poções de cura extra~
+@605 = ~SCS Ease-of-Use IA : ~
+@606 = ~A IA tem 5 funções:
+1) O personagem vai lutar, priorizando oponentes que não estão imóveis e indefesos, não lutando se estiverem tentando expulsar mortos-vivos e não desperdiçando Meteoros Miúdos de Melf, Lâminas de energia ou Invisibilidade. Você pode alternar o personagem entre armas corpo a corpo (D) e armas de longo alcance (F) usando os atalhos. Se preferir que seu personagem não entre em combate corpo a corpo, você pode desativar o combate corpo a corpo pressionando (K). Personagens com o combate corpo a corpo desativado vão lutar se os inimigos estiverem dentro do alcance da arma, mas não tomarão a iniciativa de se aproximar.
+2) O personagem lançará alguns feitiços de longa duração quando estiver fora de combate. Existem 4 configurações para isso, que você pode alternar usando (S). Na configuração 1, o personagem não usará feitiços. Na configuração 2 e posteriores, o personagem lançará todos os seguintes feitiços se estiverem memorizados (e não estiverem ativos): Pele de Pedra, Pele de Ferro, Armadura, Meteoros Miúdos de Melf, Goodberry.
+3) No modo 2 e acima, o personagem consumirá Goodberries se estiver ferido e fora de combate. No modo 3 e acima, o personagem também consumirá poções de cura. No modo 4, o personagem consumirá poções de cura extra.
+4) Na configuração 2 e acima, o personagem ativará automaticamente os seguintes itens uma vez por dia: o Manto das Estrelas; as Botas de Gárgula; o Cinto da Fortitude.
+5) No ajuste 2 ou superior, o personagem irá automaticamente lançar feitiços de cura de baixo nível no grupo se tiverem esses feitiços. O lançamento é altamente acelerado e não pode ser feito durante o combate; os personagens só lançarão feitiços de cura de um nível 2 ou mais abaixo do mais alto nível de feitiços que eles podem lançar.
+6) O personagem lançará alguns feitiços, por atalho, em todo o grupo. Esse lançamento é altamente acelerado, não pode ser feito em combate e só lança em personagens que não estão protegidos. Sua função principal é para mais tarde no jogo, quando você puder carregar feitiços suficientes para proteger o grupo inteiro. Os atalhos são: (C) para Comandos Caóticos; (V) para Guarda da Morte; (B) para Proteção Contra Fogo, Proteção Contra Raios e Proteção Contra Energia Mágica; (Z) para a Proteção contra o Mal de um paladino.~
+@607 = ~Modo sem combate ativado~
+@608 = ~Modo sem combate desativado~
+@609 = ~O personagem prefere usar armas de combate corpo a corpo, como espadas ou maças. Você pode ativar esta opção para o(s) personagem(ns) selecionado(s) pressionando a tecla de atalho (D), caso eles estejam prontos para atacar inimigos.~
+@610 = ~O personagem preferirá usar armas de longo alcance, como arcos ou atiradeiras. Você pode ativar isso para o(s) personagem(ns) selecionado(s) usando a tecla de atalho (F), se estiverem designados para atacar inimigos.~
+
+@611 = ~Se ativado, o personagem atacará inimigos assim que os avistar. Se desativado, o personagem só atacará quando os inimigos estiverem dentro do alcance corpo a corpo. Você pode ativar e desativar isso para o(s) personagem(ns) selecionado(s) usando a tecla de atalho (K).~
+@612="Alternar ataque automático corpo a corpo"
+@613="Use armas de combate corpo a corpo"
+@614="Use armas de longo alcance"
+@615="Alternar entre feitiços de longa duração"
+@616="Lança-rápido Comandos Caóticos"
+@617="Rápido, conjure Proteção contra a Morte"
+@618="Proteção rápida contra fogo/raio/energia mágica"
+@619="Rápido, invoque a proteção contra o mal do paladino"
+@620="SCS Ease-of-Use AI (Somente A-Z)"
+
+@700= "Sem cura automática"
+@701="Usar feitiços de cura / goodberries"
+@702="Use poções de cura"
+@703="Use poções de cura extra"
+@704="Magias defensivas pessoais"
+@705="Magias defensivas de grupo"
+@706="Meteoros Miúdos"
+@707="Criar itens"
+
+
+@710="O personagem não lançará automaticamente feitiços de cura ou usará poções de cura."
+@711="Fora de combate, o personagem lançará feitiços de cura em membros do grupo feridos (embora não seus feitiços de nível mais alto) e consumirá Goodberries se estiver ferido."
+@712="Fora de combate, o personagem lançará feitiços de cura em membros feridos do grupo (embora não use seus feitiços de nível mais alto), e consumirá Goodberries e poções de cura se estiver ferido."
+@713="Fora de combate, o personagem lançará feitiços de cura em membros feridos do grupo (embora não use seus feitiços de nível mais alto), e consumirá Goodberries e poções de cura ou cura extra se estiver ferido."
+@714="Fora de combate, o personagem lançará feitiços defensivos pessoais de longa duração, se os tiver. Os feitiços usados são Pele de Pedra, Pele de Ferro e Armadura."
+@715="Fora de combate, o personagem lançará feitiços defensivos de longa duração no grupo, se eles os tiverem. Os feitiços usados são Comandos Caóticos, Proteção Contra a Morte, Proteção Contra Fogo/Raio/Energia Mágica e a habilidade de Proteção Contra o Mal do paladino. Essa configuração será desativada automaticamente após o lançamento dos feitiços. Você também pode ativar esses feitiços defensivos através de teclas de atalho: (C) para Comandos Caóticos, (V) para Proteção Contra a Morte, (B) para os feitiços de proteção contra elementos, (Z) para Proteção Contra o Mal."
+@716="Fora de combate, o personagem irá lançar 'Meteoros Miúdos de Melf' se ele tiver, e se não tiver meteoros."
+@717="Fora de combate, o personagem ativará automaticamente (alguns) itens mágicos que tenham efeito de longo prazo ou que criem munição mágica ou similar.."
+
+@724="Fora de combate, o personagem lançará feitiços defensivos pessoais de longa duração, se os tiver. Os feitiços utilizados são Pele de Pedra, Pele de Ferro, Armadura e Mente Blindada."
+@734="Fora do combate, o personagem lançará feitiços de defesa pessoal de longa duração se tiver disponíveis. Os feitiços utilizados são Pele de Pedra, Pele de Ferro, Armadura, Mente Blindada e Santidade Imperturbável da Mente."
+
+@750="ESTRATAGENS EASE-OF-USE IA"
+@751="Este script tem funções de combate bastante minimalistas: o personagem atacará em combate corpo a corpo ou à distância, priorizando oponentes não indefesos, não lutando se estiver afastando mortos-vivos e não desperdiçando Meteoros Miúdos, Lâminas de energia ou Invisibilidade. Fora do combate, o personagem usará recursos de cura de baixo nível, se necessário, ativará itens de longa duração usáveis uma vez por dia, e pode ser instruído a lançar feitiços defensivos de longa duração no grupo, por tecla de atalho: (C) para Comandos Caóticos, (V) para Guarda da Morte, (B) para Proteção contra Fogo e Proteção contra Energia Mágica, (Z) para a Proteção contra o Mal de um paladino. (Estes feitiços são lançados em uma taxa altamente acelerada e não serão lançados em personagens que já estão protegidos.) Você pode personalizar a ação do personagem ajustando as configurações no menu acima."
+
+@1601 = ~Quinze mil~
+@1602 = ~Vinte mil~
+@1603 = ~Trinta mil~
+@1604 = ~Quarenta mil~
+@1605 = ~Quarenta e cinco mil~
+@1606 = ~Sessenta mil~
+@1607 = ~Oitenta mil~
+@1608 = ~Setenta e cinco mil~
+@1609 = ~Cem mil~
+@1610 = ~Noventa mil~
+@1611 = ~Cento e vinte mil~
+
+@4200 = ~O diário é grosso e preenchido com várias entradas que, a princípio, são legíveis em élfico... relacionando o horror do escritor por estar preso no labirinto, sua frustração com o fato de que mesmo retraçando seus passos por um portal que acabou de atravessar, não o levará de volta para a área de onde veio. O escritor claramente está melancólico e culpado por abandonar seus camaradas mortos, e sua escrita sofre ao longo do tempo... degenerando lentamente em rabiscos loucos, delírios paranoicos sobre demônios e repetidas referências selvagens a "Yakman" escritas por todo o diário.
+
+ESTATISTICAS:
+
+Peso: 0~
+@20501 = ~Esse personagem agora está no nível 0. Avance-o de nível para escolher suas proficiências iniciais e habilidades. Até que você faça isso, seus pontos de vida e equipamento podem estar um pouco estranhos; não se preocupe com isso. Uma vez que você avance o nível, ele poderá ganhar mais níveis (dependendo da sua própria experiência).~
+@22201 = ~Olá, <CHARNAME>! Seu pai adotivo Gorion me disse que você precisa sair do Forte imediatamente. Sua vida está em perigo e não há tempo a perder.~
+@22202 = ~Mas antes disso, é provavelmente uma boa ideia se você passear pelo Forte calmamente encontrando propriedades perdidas e fazendo mandados, tudo por uma recompensa em dinheiro economicamente implausível e uma quantidade impressionante de experiência.~
+@22203 = ~Entendido, estou nessa.~
+@22204 = ~Não consigo apenas receber o dinheiro e a experiência agora? Quanto mais eu esperar, maior será a chance de que aqueles assassinos de primeiro nível no Forte me eliminem.~
+@22205 = ~Boa sorte, <CHARNAME>, e cuidado com esses ratos. Vejo você no Capítulo Seis.~
+@22206 = ~Não vejo por que não. Afinal, o que você realmente vai aprender sobre lançamento de feitiços e esgrima ao buscar setas de besta?~
+@22207 = ~Aqui está o dinheiro e algumas poções, e um monte de bugigangas que você provavelmente pode vender para alguém. Vá às compras e depois eu te levarei até Gorion.~
+@22208 = ~Pronto para ir, <CHARNAME>?~
+@22209 = ~Sim, me leve até Gorion.~
+@22210 = ~Não, eu ainda não terminei de fazer compras.~
+@22211 = ~Na verdade, pensei em fazer todas as missões de qualquer forma e ganhar o dobro de experiência.~
+@22212 = ~Por aqui, por favor.~
+@22213 = ~Muito bem, <CHARNAME>, mas se apresse, eu não tenho o dia todo.~
+@22214 = ~Em todo caso, você não percebe o quão perigoso é aqui para você. Esses caçadores de recompensas podem causar até um ponto de dano por golpe!~
+@22215 = ~Entendo completamente, <CHARNAME>. Heróis maiores que você sucumbiram à tentação diante da possibilidade de obter duas Gemas dos Olhos de Lince.~
+@22300 = ~~
+
+@23000 = ~Para que este feitiço funcione, o corpo da criatura alvo deve estar substancialmente intacto. Criaturas desintegradas, desmembradas ou incineradas não podem ser restauradas.~
+@23001 = ~O corpo deste personagem sofreu danos terríveis e é necessária uma magia mais poderosa para restaurá-lo à vida.~
+@23002 = ~Apenas um pequeno pedaço do corpo do personagem é necessário, então o feitiço pode restaurar até mesmo personagens que foram desintegrados, incinerados ou desmembrados. Ele não pode ser lançado em combate.~
+@23003 = ~Este feitiço requer um diamante para ser lançado. Como você não tem um, o feitiço está perdido.~
+@23004 = ~Este feitiço requer um diamante como componente material.~
+@23005 = ~O personagem selecionado é trazido de volta dos mortos, desde que seu corpo esteja substancialmente intacto. Este feitiço não pode restaurar criaturas desintegradas, desmembradas ou incineradas.~
+@23006 = ~A ressurreição traz um personagem de volta à vida e o cura de todas as feridas. Apenas um pequeno pedaço do corpo do personagem é necessário, então o feitiço pode restaurar até mesmo personagens que tenham sido desintegrados, incinerados ou desmembrados.~
+@23007 = ~Uma presença sombria se agita dentro de você. Não será contida...~
+
+@24000 = ~Você não pode descansar até reabastecer suas provisões em uma estalagem.~
+@24001 = ~Descansar (provisões restantes): <DW_SIGNAL_PROVISIONS_COUNT>)~
+@24002 = ~Você reabasteceu suas provisões na estalagem.~
+@24004 = ~Você obteve suprimentos com sucesso durante o seu descanso. Suas provisões aumentaram em 1.~
+@24005 = ~Você conseguiu encontrar suprimentos durante seu descanso. Suas provisões permanecem inalteradas.~
+@24006 = ~Estamos com poucas provisões. Você pode ajudar?~
+@24007 = ~Nossa comida é simples, mas vocês são nossos convidados e são bem-vindos ao que temos.~
+@24008 = ~Mmmmm, urso! Um pouco gorduroso e difícil de cozinhar bem, mas carne suficiente para te manter alimentado por um tempo.~
+@24009 = ~Você reabasteceu suas provisões com os suprimentos do navio.~
+@24010 = ~Você reabasteceu suas provisões com os suprimentos do esconderijo.~
+@24011 = ~Você reabasteceu suas provisões a partir dos suprimentos do forte.~
+@24012 = ~Você reabasteceu suas provisões nos suprimentos do templo.~
+@24013 = ~Você reabasteceu suas provisões a partir dos suprimentos da Ordem.~
+@24014 = ~Você reabasteceu suas provisões com os suprimentos da cabana.~
+@24015 = ~Você reabasteceu suas provisões com os suprimentos da estalagem.~
+@24016 = ~Você reabasteceu suas provisões com a generosidade da natureza.~
+
+
+@24100 = "Bem Descansado"
+@24101 = "Benefício do Descanso (8 horas): +5 para os pontos de vida máximos."
+@24102 = "Benefício do descanso (16 hours): +5 para pontos de vida máximos, +1 para Força / Destreza / Constituição (máximo 18)."
+@24103 = "Benefício do Descanso (24 horas): +10 pontos de vida máximos, +1 para Força / Destreza / Constituição (máximo 18), +1 para todos os testes de resistência."

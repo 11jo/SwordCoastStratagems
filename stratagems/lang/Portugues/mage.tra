@@ -1,0 +1,26 @@
+// mage and priest need to be non-overlapping so that clericmage can call both
+// new strings in mage should go below @10000
+
+@217 = ~Uma parede invisível de força bloqueou a porta.~
+@302 = ~Mente Dividida~
+@304 = ~Aura de Medo~
+@400 = ~A conjuração de magias não está desabilitada~
+@401 = ~Esconder Nas Sombras~ // note to translators: this must be, exactly, the beginning part of the 'hide in shadows' string in the description text for leat08.itm. How much of the line doesn't really matter (enough that no other line in that description starts with this string). Don't include any + signs.
+@1101 = ~Hmmm... o que foi isso?~
+@1102 = ~Estranho... Vamos ver o que uma pequena adivinhação mostrará.~
+@1103 = ~Mostre-se! Você não pode se esconder de um mago!~
+@1104 = ~Vem cá, espião... consigo sentir a sua presença.~
+@1201 = ~Desejo que as defesas mágicas dos meus inimigos sejam completamente destruídas!~
+@1202 = ~Desejo que eu e meus aliados sejam concedidos velocidade sobre-humana!~
+@1203 = ~Eu desejo que o próprio tempo se torne meu servo!~
+@1204 = ~Eu desejo que eu e meus aliados nos tornemos invulneráveis a ferimentos!~
+@1205 = ~Então eu os levarei embora, meu mestre!~
+@1206 = ~Então velocidade você terá!~
+@1207 = ~O tempo agora é seu aliado, meu mestre!~
+@1208 = ~Então ninguém te fará mal!~
+@1209 = ~Desejo que os males meus e dos meus aliados sejam curado!~
+@1210 = ~Será como se você nunca tivesse se ferido, meu mestre!~
+@1211 = ~ Desejo que meus feitiços sejam restaurados, para que eu possa lançá-los novamente!~
+@1212 = ~Será feito, meu mestre!~
+@1213 = ~Desejo que as habilidades minhas e de meus aliados sejam aprimoradas!~
+@1214 = ~Força e agilidade, sabedoria e astúcia, resistência e charme - tudo será seu, pelo menos por um tempo.~

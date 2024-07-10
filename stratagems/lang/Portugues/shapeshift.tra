@@ -1,0 +1,229 @@
+
+@13120 = ~Símbolo do Lobisomen Menor~
+@13121 = ~Símbolo do Lobisomem~
+@13122 = ~Símbolo do Lobisomem Maior~
+@13123 = ~Símbolo da Transformação em Urso~
+@13124 = ~Símbolo da Transformação em Lobo~
+@13125 = ~Símbolo da Transformação em Wyvern~
+@13126 = ~Símbolo da Transformação em salamandra.~
+@13127 = ~Símbolo da Transformação em aranha~
+@13128 = ~Símbolo do Elemental de Fogo~
+@13129 = ~Símbolo do Elemental da Terra~
+@13140 = ~Esse símbolo permite que o druida metamorfo criador se transforme à vontade em um lobisomem inferior. Enquanto estiver nessa forma, o druida não pode falar ou conjurar feitiços, mas ganha a força e velocidade prodigiosas do lobisomem. No entanto, ao contrário de um lobisomem verdadeiro, o druida ainda é afetado por armas não mágicas.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 18/76
+Destreza: 16
+
+Classe de armadura base: 4
+Número de ataques: 1
+Dano de Ataque: 1d6 (cortante)
+
+Habilidades especiais:
+ – Resistência mágica: 10%
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13141 = ~Esse símbolo permite que o druida metamorfo criador se transforme à vontade em um lobisomem inferior. Enquanto estiver nessa forma, o druida não pode falar ou conjurar feitiços, mas ganha a força e velocidade prodigiosas do lobisomem. No entanto, ao contrário de um lobisomem verdadeiro, o druida ainda é afetado por armas não mágicas.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 19
+Destreza: 17
+
+Classe de armadura base: 1
+Número de ataques: 2
+Dano de Ataque: 1d8 (cortante), ataca como uma arma +1
+
+Habilidades especiais:
+ – Resistência mágica: 20%
+ – Acelerado 
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13142 = ~Esse símbolo permite que o druida metamorfo criador se transforme à vontade em um lobisomem inferior. Enquanto estiver nessa forma, o druida não pode falar ou conjurar feitiços, mas ganha a força e velocidade prodigiosas do lobisomem. No entanto, ao contrário de um lobisomem verdadeiro, o druida ainda é afetado por armas não mágicas.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 21
+Destreza: 20
+
+Classe de armadura base: -4
+Número de ataques: 2
+Dano de Ataque: 2d6 (cortante), ataca como uma arma +3
+
+Habilidades especiais:
+ – Resistência mágica: 40%
+ – Resistência ao fogo: 50%
+ – Resistência elétrica: 50%
+ – Resistência a ácido: 50%
+ – Resistência ao frio: 50%
+ – Acelerado 
+ – Regenera 6 pontos de vida por rodada
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13143 = ~Este símbolo permite ao druida que o criou se transformar à vontade em um urso marrom. Enquanto estiver nessa forma, o druida não pode falar ou conjurar feitiços.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 18/00
+Destreza: 12
+
+Classe de armadura base: 7
+Número de ataques: 2
+Dano de Ataque: 1d6 (cortante)
+
+Habilidades especiais:
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13144 = ~Este símbolo permite que o druida que o criou se transforme à vontade em um lobo. Enquanto nessa forma, o druida é incapaz de falar ou conjurar feitiços.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 17
+Destreza: 18
+
+Classe de armadura base: 6
+Número de ataques: 2
+Dano de Ataque: 1d8 (perfurante)
+
+Habilidades especiais:
+ – Aumento da taxa de movimento
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13145 = ~Este símbolo permite ao druida vingador que o criou se transforme à vontade em um pequeno wyvern. Enquanto estiver nessa forma, o druida não pode falar ou lançar feitiços.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 18/76
+Destreza: 17
+
+Classe de armadura base: 3
+Número de ataques: 2
+Dano de Ataque: 2d4 (perfurante), +25% de chance de 3 pontos de dano de veneno, ataca como uma arma +2
+
+Habilidades especiais:
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13146 = ~Este símbolo permite ao druida vingador que o criou se transformar à vontade em um salamandra de fogo. Enquanto estiver nessa forma, o druida não poderá falar ou lançar feitiços.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 18/76
+Destreza: 19
+
+Classe de armadura base: 2
+Número de ataques: 1
+Dano de Ataque: 1d8 (perfurante), ataca como uma arma +2
+
+Habilidades especiais:
+ – Resistência ao fogo: 100%
+ – Acelerado 
+ – Protegido contra fogo
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13147 = ~Este símbolo permite ao druida vingador que o criou se transforme à vontade em uma aranha gigante. Enquanto estiver nessa forma, o druida não consegue falar ou lançar feitiços.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 16
+Destreza: 16
+
+Classe de armadura base: 2
+Número de ataques: 3
+Dano de Ataque: 1d4 (perfurante), veneno (2 de dano por rodada durante 6 rodadas; Teste de Resistência contra Veneno nega), ataca como uma arma +2
+
+Habilidades especiais:
+ – Acelerado 
+ – Imunidade a teias
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13148 = ~Este símbolo permite ao druida que o criou se transformar à vontade em um elemental de fogo. Enquanto estiver nessa forma, o druida não consegue falar ou lançar feitiços.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 22
+Destreza: 25
+
+Classe de armadura base: -5
+Número de ataques: 2
+Dano de Ataque: 1d10 (esmagamento), +1d10 (fogo), ataca como uma arma +4
+
+Habilidades especiais:
+ – Taxa de movimento aumentada
+ – Resistência ao fogo: 100%
+ – Resistência ao fogo mágico: 100%
+ – Protegido contra fogo
+ – Imune a quaisquer efeitos que modifiquem Força ou Destreza
+
+Utilizável por:
+ Criador~
+@13149 = ~Este amuleto permite ao druida que o criou se transformar à vontade em um elemental da terra. Enquanto estiver nessa forma, o druida não poderá falar ou lançar feitiços.
+
+ESTATISTICAS:
+
+Na forma transformada (equipar como uma arma para usar):
+
+Força: 25
+Destreza: 10
+
+Classe de armadura base: -5
+Número de ataques: 2
+Dano de Ataque: 2d10 (esmagamento), ataca como uma arma +4
+
+Habilidades especiais:
+ – Taxa de movimento diminuída
+ – Resistência a dano cortante: 50%
+ – Resistência a danos por esmagamento: 50%
+ – Resistência a danos perfurantes: 50%
+ – Resistência a danos de projéteis: 50%
+ – Imune a quaisquer efeitos que modifiquem Força, Destreza ou resistência a dano físico
+
+Utilizável por:
+ Criador~
+@13150 = ~Transformação Elemental de Fogo
+
+Aproveitando o poder do fogo, esta poderosa habilidade de metamorfose permite que o druida se torne um elemental de fogo de 24 DV de força imensa.
+
+A forma elemental tem uma CA de -5, um PACA0 de 2 e causa 1d10 de dano de esmagamento e 1d10 de dano de fogo com seus ataques. O elemental tem uma Força de 22, uma Destreza de 25, é imune a 100% de dano de fogo e causa dano de fogo a qualquer atacante.~
+
+@13151 = ~Transformação Elemental de Terra
+
+Usando o poder da terra, essa habilidade poderosa de metamorfose permite que o druida se transforme em um elemental da terra com 24 DV de força imensa.
+
+A forma elemental tem uma CA de -5, uma PACA0 de 2 e causa 2d10 de dano contundente com seus ataques. O elemental tem uma Força de 25, uma Destreza de 10 e é 50% imune a todos os danos corpo a corpo e de projéteis.~
+
+@13152 = ~A resistência não tem efeito quando você está na forma de Elemental da Terra~

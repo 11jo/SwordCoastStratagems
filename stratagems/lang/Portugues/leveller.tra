@@ -1,0 +1,71 @@
+@1 = "Esse personagem é de dupla classe; sua classe final é MAGO."
+@2 = "Esse personagem é de dupla classe; sua classe final é LUTADOR."
+@3 = "Esse personagem tem duas classes; a classe final dele é CLÉRIGO."
+@4 = "Esse personagem tem duas classes; a classe final dele é LADRÃO."
+@5 = "Esse personagem tem duas classes; sua classe final é RANGER."
+@6 = "Esse personagem tem duas classes; sua classe final é DRUIDA."
+@7 = "Aumente-os de nível em sua classe original até ser impedido de fazê-lo; em seguida, dupla-classe-os imediatamente; então, aumente-os de nível em sua classe final."
+@8 = "+5% para se Esconder nas Sombras"
+@9 = "+5% para Detectar Ilusões"
+@10 = "+5% para Armar Armadilhas"
+@11 = "+5% em Mover-se Silenciosamente"
+@12 = "+5% para Abrir Fechaduras"
+@13 = "+5% para Encontrar Armadilhas"
+@14 = "+5% para Bater Carteiras"
+@15 = "Definir habilidades de ladrão"
+@16 = "Esse personagem tem pontos de habilidade de ladrão não gastos, que podem ser utilizados na guia de Habilidades Especiais."
+@17= "Poção de Aprimoramento"
+@18 = "Essa poção contém a sabedoria destilada das eras. Quem a beber ganha experiência suficiente para avançar para o próximo nível.
+
+Personagens de múltiplas classes ganham experiência suficiente para alcançar o próximo nível em uma classe, seguindo esta ordem de prioridade: Thief>Fighter=Ranger>Cleric=Druid>Mage.
+
+ESTATISTICAS:
+
+Peso: 1"
+@19="Os seguintes kits estão disponíveis:"
+@20="Verdadeira classe (ou seja, sem kit)"
+@21="Você pode usar este menu para selecionar a classe e especialização do personagem.
+
+Essa função não tenta impor mínimos de pontuação de habilidade ou requisitos de alinhamento. Você está no sistema de honra! Restrições de raça/classe estão atualmente sendo aplicadas, mas você pode desativá-las se desejar.
+
+NOTA: se estiver jogando com a IA do grupo desativada, ative-a brevemente antes de aprimorar seu personagem, caso esteja alterando a classe dele."
+@22="Sair sem fazer mais alterações."
+@23="Você pode selecionar este poder novamente para mudar suas escolhas, desde que o personagem não tenha alcançado o primeiro nível."
+@24="Selecione a classe."
+@25="Selecione o kit."
+@26="Classe está definida."
+@27="O kit está definido."
+@28="As seguintes classes estão disponíveis."
+@29="Você tem a opção de personalizar sua classe/kit.""
+@30="Esse personagem é de dupla classe. Você pode alterar o kit da classe original do personagem, mas não pode alterar a classe original ou final (a menos que abandone a classe original por completo)."
+@31="Abandone a classe original (o personagem não é mais de dupla classe)."
+@32="Você tem certeza? Isso não pode ser desfeito."
+@33="A classe original foi abandonada."
+@34="Não, permaneça dupla classe."
+@36="Este poder único permite que você gaste mais 5 pontos em suas habilidades de ladrão."
+@37="Ativar este poder permite que você personalize a escolha de classe e kit deste personagem. Tenha em mente que a história do jogo faz várias suposições sobre o personagem que esta opção de personalização pode contradizer, e que alguns dos equipamentos do personagem podem ficar inutilizáveis ​​após o poder ser ativado.
+
+Esse poder só pode ser usada antes de o personagem subir de nível."
+@38="Este poder único aumenta permanentemente sua habilidade de se esconder nas sombras em 5%."
+@39="Este poder único aumenta permanentemente sua habilidade de Detectar Ilusões em 5%."
+@40="Este poder único aumenta permanentemente sua habilidade de Armar Armadilhas em 5%."
+@41="Este poder único aumenta permanentemente sua habilidade de Mover-se Silenciosamente em 5%."
+@42="Este poder único aumenta permanentemente sua habilidade de Abrir Fechaduras em 5%."
+@43="Este poder único aumenta permanentemente sua habilidade de Encontrar Armadilhas em 5%."
+@44="Este poder único aumenta permanentemente a sua habilidade de Bater Carteiras em 5%."
+@45="Para aplicar os feitiços específicos do mago selvagem para o personagem, salve e recarregue o jogo."
+
+@46="Na verdade, não faça nenhuma alteração agora."
+@47="Parar de impor restrições de raça/classe e permita-me que eu escolha classes proibidas."
+@48="Restaurar restrições de raça/classe e evitar que classes ilegais sejam selecionadas."
+@49="Você pode usar este menu para selecionar a classe e kit do personagem.
+
+Essa função não tenta impor os requisitos mínimos de pontuação de habilidades ou de alinhamento. Você está por conta própria! As restrições de raça/classe também não estão sendo impostas no momento, mas você pode reativá-las se desejar.
+
+Nota: se estiver jogando com a IA da equipe desativada, ative-a brevemente antes de evoluir o personagem, caso esteja mudando a classe dele."
+@50="Restrições de classe/raça removidas. Não deixe ninguém impedir você de seguir seu sonho!"
+@51="Restrições de classe/raça restauradas. Bem-vindo de volta para AD&D, estávamos com saudades de você."
+@52="Ranger (você não pode selecionar um inimigo racial)"
+@53="Clérigo/Ranger (você não pode selecionar um inimigo racial)"
+@54="Mago Selvagem (você deve salvar e recarregar para obter seus feitiços bônus)"
+@55="Classe original"

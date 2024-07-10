@@ -1,0 +1,164 @@
+
+@2200 = ~Hsss! Você não sairá deste lugar com vida, Bhaalspawn. Abazigal assim ordena!~ [raver01]
+@2201 = ~Golem Tirano~
+@2702 = ~Um enorme bloco de pedra caiu sobre a saída.~
+@3000 = ~Eu escondi uma corda na bainha das minhas túnicas, mas os homens-peixe a tiraram de mim. Eles a queimaram na minha frente. *tosse* *tosse*. Foi aí que eu soube que nunca conseguiria escapar deste lugar horrível. *tosse* Mas os moradores de Amkethran certamente terão uma adequada. *tosse*~
+@3001 = ~Valeu pela dica, otário! Vou deixar você aqui e seguir meu caminho!~
+@3002 = ~Na verdade, eu gostaria de saber se você tem uma bobina de corda que eu possa comprar.~
+@3003 = ~Corda?!~
+@3004 = ~Eu não sei quem você é, estranho, mas posso dizer que você é um aventureiro, e posso dizer pelo jeito que os soldados olham para você que você é uma força a ser reconhecida. Seu equipamento provavelmente vale mais do que esta vila, e o que você quer comprar? Uma corda. Talvez os deuses tenham um senso de humor.~
+@3005 = ~Aqui está sua corda, meu caro. Não cobrarei nada - vou jantar com essa história por semanas.~
+@3006 = ~Posso interessá-lo em meus produtos, meu caro?~
+@3007 = ~Eu estava esperando comprar um pouco de corda de você.~
+@3008 = ~É melhor você ter uma corda, idiota, ou você é um homem morto.~
+@3009 = ~Ummm... sim, eu tenho um pouco de corda aqui.~
+@3010 = ~Haveria uma cobrança, mas olhando o que você fez com o pobre Zakee, acho que não vou cobrar nada....~
+@3011 = ~Descobri um dos seguidores de Balthazar aprisionado aqui. Antes de morrer, o monge explicou como posso encontrar e derrotar Abazigal. Preciso encontrar o Pergaminho de Reversão para quebrar a compulsão que escraviza um dragão guardião e sela a entrada para o enclave interior de Abazigal.
+
+As cavernas aqui estão todas conectadas por túneis subaquáticos. Felizmente agora tenho mais poção de respiração aquática para me permitir explorar os vários túneis. Gostando ou não, acho que vou espeleologia... assim que eu conseguir arrumar uma corda. Parece bobagem ter que voltar para Amkethran por algo tão mundano, mas acho que não tenho muita escolha... o que mais é novidade, no entanto?~
+@3012 = ~Sabe, eu nunca pensei que sentiria pena de um dragão, mas coitadinho parece tão miserável.~
+@3013 = ~Bah. Meu irmão, temos assuntos muito mais importantes do que trocar palavras com um dragão deprimido!~
+@3014 = ~Escamas de Dragão Amarelo~
+@3015 = ~Essas escamas estão secas e finas ao toque. Foram retiradas do cadáver do dragão amarelo Anadramatis... de acordo com a lenda, poderiam ser forjadas em uma poderosa armadura.
+
+ESTATISTICAS:
+
+Peso: 15~
+
+@3016 = ~Armadura de Escamas de Dragão Amarelo~
+//@3016 vanilla format
+@3017 = ~Armadura de Escamas de Dragão Amarelo
+
+Esta armadura é feita de escamas interligadas de Dragão Amarelo. Os Dragões Amarelos são conhecidos por seus ataques de areia ardente e resistência a armas perfurantes.
+
+Este traje em particular foi forjado a partir das escamas do dragão amarelo Anadramatis.
+
+ESTATISTICAS:
+
+Bônus: +50% de resistência a dano perfurante e de projétil.
+Classe de Armadura: -1
+Peso: 10
+Requer: Força 6
+Não utilizável por:
+ Mago
+ Feiticeiro
+ Monge
+ Metamorfo
+ Kensai~
+/*
+//@3016 EE format
+@? = ~Esta armadura é feita de escamas interligadas de Dragão Amarelo. Os Dragões Amarelos são conhecidos por seus ataques de areia ardente e resistência a armas perfurantes.
+
+Este traje em particular foi forjado a partir das escamas do dragão amarelo Anadramatis.
+
+ESTATISTICAS:
+
+Habilidades Equipadas:
+– Resistência a Danos de Projétil: +50%
+– Resistência a dano perfurante: +50%
+
+Classe de Armadura: -1 (2 contra cortes, 1 contra perfurações e ataques à distância)
+Requer:
+ 6 Força
+
+Peso: 10~
+*/
+
+@3018 = ~Amuleto de Anadramatis~
+//@3018 vanilla format
+@3019 = ~Amuleto de Anadramatis
+
+Este belo colar dourado foi imbuido pelo dragão Anadramatis com sua fúria em relação ao dragão Abazigal, descendente de Bhaal. Seu usuário estará protegido, até certo ponto, da presença furiosa de um dragão.
+
+ESTATISTICAS:
+
+Especial: O usuário é imune a golpes de asas.
+
+Peso: 1~
+/*
+//@3018 EE format
+@? = ~Este belo colar dourado foi imbuido pelo dragão Anadramatis com sua fúria em relação ao dragão Abazigal, descendente de Bhaal. Seu usuário estará protegido, até certo ponto, da presença furiosa de um dragão.
+
+ESTATISTICAS:
+
+Habilidades equipadas:
+– O usuário é imune a golpes de asas
+
+Peso: 1~
+*/
+
+@3020 = ~Você não pode pegar a poção e lutar contra um dragão ao mesmo tempo.~
+@3021 = ~Olinissimous~
+@3022 = ~Zirimanat'ryl~
+@3023 = ~Ithy'nassendra~
+@3024 = ~Carnifex~
+@3026 = ~Um dos dragões parece estar bloqueando a entrada com um feitiço.~
+@3027 = ~O dragão parece estar bloqueando a entrada com um feitiço.~
+@3031 = ~Ninguém deve entrar no santuário do grande Abazigal!~ [black01]
+@3032 = ~A vingança será servida ao assassino do Lord Draconis!~ [black03]
+@3033 = ~Dois dragões? Boo está se oferecendo para segurar um deles, mas não tenho certeza se isso é uma boa ideia.~
+@3034 = ~Eu assisti do céu enquanto você lutava contra esses irmãos inferiores. Não confunda as investidas inábeis deles com a fúria de um verdadeiro dragão!~ [black01]
+@3035 = ~Agora, <PRO_RACE>, encolha-se diante dos senhores da criação!~ [black03]
+@3036 = ~Mas, Carnifex, eu posso precisar da sua ajuda. Esse intruso pode ser o Filho de Bhaal!~
+@3037 = ~Você... está certo, é claro. Prepare-se para enfrentar seu destino, mamífero!~
+@3038 = ~Nunca envie um lagarto para fazer o trabalho de um dragão, Ithy'nassendra.~
+@3039 = ~Pouco precisará de mim para isso, Ithy'nassendra, e suas nuvens de veneno nojentas mancharão minhas belas escamas. Vou observar de longe.~
+@3040 = ~Ithy'nassendra, você é um dragão ou um lagarto do pântano? Bhaalspawn ou não, este é um mamífero insignificante. Não é páreo para nenhum de nós.~
+@3041 = ~E, se for o Bhaalspawn, e na remota hipótese de ele conseguir vencer, farei questão de vingar você, é claro.~
+@3042 = ~Você é o Bhaalspawn. Nenhum outro teria conseguido fazer isso. Mas, seja um filho de Bhaal ou não, você não resistirá ao meu ataque.~
+@3043 = ~Hum... Acho que você não se importaria em negociar?~
+@3044 = ~Há quatro dragões mortos aqui, incluindo Draconis. O que te fez pensar que com você seria diferente?~
+@3045 = ~Vamos acabar logo com isso, então.~
+@3046 = ~Nós já passamos dessa fase, <PRO_RACE>. Você não tem nada a me oferecer, e não tenho escolha a não ser atacar. Eu temo a ira de Abazigal mais do que a morte.~
+@3047 = ~Mas você está cansado e ferido, e eu estou fresco para a luta... e isso não importa de qualquer forma, pois temo mais a ira de Abazigal do que a própria morte.~
+@3048 = ~Chega de conversa. Queime nas chamas da minha ira!~ [red01]
+@3049 = ~Mais dragões? Esta batalha será digna das maiores histórias da Ordem. Só espero que estejamos à altura.~
+@3050 = ~É esse o fim? Se não, que música eu farei disso!~
+@3055 = ~Um Bhaalspawn? Eu deveria me sentir honrado? Você pelo menos se livrou do pirralho de Abazigal?~
+@3056 = ~Sim, Draconis está morto.~
+@3057 = ~Não se preocupe com Draconis. Apenas me diga onde posso encontrar a poção de respiração?~
+@3058 = ~Morra, wyrm!~
+@3059 = ~Eu admiro sua franqueza, <PRO_RACE>, apesar de não admirar seus modos. Sendo assim, que seja - no meu estado miserável, eu aceito distrações.~ [silv02]
+@3060 = ~Fico... satisfeito. Ele foi uma vergonha para a raça dos dragões, maior ainda do que seu pai mestiço. Mas agora, criança de Bhaal, o que te traz à minha caverna?~ [silv01]
+@3061 = ~Grande dragão, você me honra com suas palavras. Eu busco alguma forma de explorar mais essas cavernas - há uma poção que me permitirá viajar pelos canais subaquáticos. Poderia nos conceder a dádiva de sua ajuda, assim como sua magnífica presença?~
+@3062 = ~Eu não estou interessado em conversa. Eu só quero acessar o caldeirão de poções atrás de você.~
+@3063 = ~Sem mais palavras, dragão, é hora de morrer!~
+@3064 = ~Hum, na verdade eu acho que peguei o caminho errado. Você não viu um par de demônios ósseos por aqui, viu?~
+@3065 = ~Por mais caído e humilhado que eu esteja, mas não sou tão tolo a ponto de ser tão facilmente enganado. O que é que você quer?~
+@3066 = ~Como caí. Banido para esta caverna miserável e úmida, obrigado a proteger esta caldeira desgraçada. Sou um cão de guarda, não um dragão.~
+@3067 = ~Verdadeiramente, poderoso dragão, seu esplendor brilha mesmo nestas pobres redondezas. Sinto-me honrado em contemplar sua magnífica forma.~
+@3068 = ~Não estou interessado em suas lamentações, wyrm. Saia do meu caminho e deixe-me pegar a poção.~
+@3069 = ~Bem, wyrm, parece que você está entre mim e meu objetivo. Isso significa que é hora de você morrer!~
+@3070 = ~Você fala bem, <PRO_RACE>. Mas agora sou uma criatura miserável, derrotada e humilhada por um mestiço maldito, minha casa invadida, meu tesouro roubado. Agora estou exilado nesta caverna úmida, forçado a proteger este caldeirão miserável. Sou apenas um cão de guarda, não um dragão, e cães não precisam de bajulação.~
+@3071 = ~Talvez eu possa restaurar o seu orgulho, grande dragão. Se você me permitir passagem até a Poção de Sopro, eu ficaria honrado em matar Abazigal em seu nome.~
+@3072 = ~Você fala bem, <PRO_RACE>. Mas agora sou uma criatura miserável - derrotada e humilhada por um mestiço desprezível, meu tesouro roubado de mim, meu orgulho humilhado. Cachorros não têm necessidade de lisonja.~
+@3073 = ~Então saia do meu caminho, você e sua desculpa patética dragão.~
+@3074 = ~Como ousa falar assim com um dragão, <PRO_RACE>? Posso estar ferido, mas ainda tenho presas e garras, e vou te ensinar a respeitar a nossa espécie!~ [silv02]
+@3075 = ~Suas palavras são corteses, <PRO_RACE>, e eu gostaria de acreditar nelas. Mas você realmente pode derrotar Abazigal? Se eu lhe der a poção, ele ficará sabendo. Eu... não consigo enfrentá-lo novamente.~
+@3076 = ~Mas eu lhe darei uma chance de provar seu valor. Se puder me derrotar em combate, talvez tenha chance contra o usurpador ralé. E se não, a distração da batalha pode aliviar um pouco minha miséria. Defenda-se, filho de Bhaal.~ [silv02]
+@3077 = ~Eu me rendo! Verdadeiramente estou impressionado, <PRO_RACE>. Tenho vivido por mais de mil anos, e nunca antes alguém de sua espécie me superou. Talvez você seja capaz de matar o usurpador afinal. Eu honrarei nosso acordo.~
+@3078 = ~Você me honra com suas palavras, grande dragão - Eu não enfrentei um oponente mais digno.~
+@3079 = ~Chega de conversa, dragão. Você está derrotado, agora me deixe pegar a poção.~
+@3080 = ~Prefiro apenas acabar com você, mesmo que você não tenha um tesouro, tenho certeza de que sua pele será útil para algo.~
+@3081 = ~Como ousa falar assim com um dragão, <PRO_RACE>? Quem dera pudesse despedaçá-lo... mas você é mais do que meu par. Maldiçoados sejam todos os Bhaalspawn. Tome a sua maldita poção, então. Que ela o engasgue.~
+@3082 = ~Tão cortês quanto poderoso, Descendente de Bhaal. Leve, então, com a minha bênção, e leve também isso. E mate o maldito cão vira-lata que roubou minha casa e meu orgulho!~
+@3083 = ~Ingrato! Até a morte, então, Bhaalspawn - talvez eu ainda possa te despedaçar.~ [silv02]
+@3084 = ~O usurpador mestiço está morto! Você me fez um grande serviço, filho de Bhaal. Mas agora eu desejo descansar, refletir e talvez dormir. Deixe este lugar com a minha bênção.~
+@3085 = ~Não temos mais negócios, <PRO_RACE>.~
+@3086 = ~Sinto muito por tê-lo perturbado, poderoso dragão.~
+@3087 = ~É tudo o que você tem a dizer por si próprio?~
+@3088 = ~Minha morte é problema seu, verme!~
+@3089 = ~Como ousa falar com um dragão desse jeito, <PRO_RACE>? Quem me dera poder te despedaçar... mas você é mais do que meu oponente. Amaldiçoo a todos os Bhaalspawn.~
+@3090 = ~Vá então, e deixe-me dormir..~
+@3091 = ~Ha! Que coisas eu tenho visto em sua companhia, minha coruja! Este dragão está realmente emburrado?~
+@3092 = ~Você tem... o que? Amarelo, azul e branco? Muitas cores! Eu posso fazer armaduras de Escama de Dragão Branco, armaduras de Dragão Amarelo e, hmm, Elmo de Placas de Dragão Azul. 5.000 gp cada, depende de você.~
+@3093 = ~Criar a armadura de escamas do Dragão Amarelo.~
+@3094 = ~Nenhum deles. O que mais?~
+@3095 = ~Você tem... o quê? Amarelo e branco? Eca, fedorento. Posso fazer armadura com Escama de Dragão Branco e, hum, armadura com Escama de Dragão Amarelo. 5.000 gp peças de ouro cada, você decide.~
+@3096 = ~Você tem... o quê? Amarelo e azul? Eca, fedorento. Eu posso fazer armadura de Dragão Amarelo e, hum, armadura de Placa de Dragão Azul. 5.000 gp peças de ouro cada, você decide.~
+@3097 = ~Ah, escamas de dragão amarelo, é? Eu faço uma boa armadura de escamas, boa contra coisas afiadas. Apenas 5.000 gp, você quer??~
+
+@3200 = ~Através desta ampla entrada da caverna, penhascos verticais caem em direção ao chão do deserto, milhares de metros abaixo.~
+@3201 = ~Mais profundamente no Enclave~
+@3202 = ~Entrada do penhasco~
+@16050 = ~Anadramatis~

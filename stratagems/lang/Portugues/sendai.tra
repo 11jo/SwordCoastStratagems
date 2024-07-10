@@ -1,0 +1,44 @@
+
+@501 = ~Mago Escravo~
+@502 = ~Lutador Escravo~
+@503 = ~Venham, meus servos... acordem e provem o sangue fresco.~
+@700 = ~Katana Drow +3~
+//@700 vanilla format
+@701 = ~A katana é uma espada de lâmina única levemente curva que termina em um ponto de cinzel. A katana talvez seja uma das melhores espadas já feitas, os passos para sua criação são um processo longo e secreto que é mais uma forma de arte do que qualquer outra coisa. Esta lâmina é um aspecto importante da cultura Kara-Turana e geralmente produzida apenas por seus ferreiros; como os elfos negros criaram esta é uma incógnita para você.
+
+Este item, como a maioria dos equipamentos drow, é criado usando adamantine, uma liga de adamantita que rapidamente se transforma em pó se removida de Underdark.
+
+ESTATISTICAS:
+
+THAC0: +3 bonus
+Dano: 1D10 +3
+Tipo de dano: cortante
+Peso: 6
+Fator de velocidade: 1
+Tipo de proficiência: Katana
+Tipo: 1 mão
+Requer: Força 6
+Não utilizável por:
+ Druida
+ Clérigo
+ Mago
+ Feiticeiro
+Mestre dos Animais ~
+/*
+//@700 EE format
+@? = ~A katana é uma espada de lâmina única levemente curva que termina em um ponto de cinzel. A katana talvez seja uma das melhores espadas já feitas, os passos para sua criação são um processo longo e secreto que é mais uma forma de arte do que qualquer outra coisa. Esta lâmina é um aspecto importante da cultura Kara-Turana e geralmente produzida apenas por seus ferreiros; como os elfos negros criaram esta é uma incógnita para você.
+
+Este item, como a maioria dos equipamentos drow, é criado usando adamantine, uma liga de adamantita que rapidamente se transforma em pó se removida de Underdark.
+
+ESTATISTICAS:
+
+THAC0: +3
+Dano: 1d10+3 (cortante)
+Fator de velocidade: 1
+Tipo de proficiência: Katana
+Tipo: Uma mão
+Requer:
+6 Força
+
+Peso: 6~
+*/

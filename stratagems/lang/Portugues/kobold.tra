@@ -1,0 +1,111 @@
+// Nome Stikka = Gnome sticker - Deth Stik = Death Stick
+@21301 = ~Chefe Kobold~
+@21302 = ~Guarda Kobold~
+@21303 = ~Kobold Xamã~
+@21304 = ~Daga~
+@21305 = ~"Nome Stikka"~
+
+//@21304 vanilla format
+@21306 = ~A típica adaga tem uma lâmina pontiaguda, geralmente de duplo fio, em oposição a uma faca, que tem um único fio e é um pouco mais curta do que a adaga.
+
+ESTATISTICAS:
+
+Dano: 1D4
+Tipo de dano: perfuração
+Peso: 1
+Fator de velocidade: 2
+Tipo de proficiência: Adaga
+Tipo: 1 mão
+Requer: Força 3
+Não utilizável por:
+ Clérigo
+ Mestre dos Animais ~
+//@21305 vanilla format
+@21307 = ~Adaga "Nome Stikka"
+
+Embora os kobolds normalmente não empunhem adagas envenenadas, é evidente que eles foram providos dos meios para fabricá-las. A grosseria na construção dessa arma, no entanto, não diminui sua letalidade - na verdade, ela pode ser tão mortal para o usuário quanto para a vítima!
+
+ESTATISTICAS:
+
+Habilidades de combate:
+O alvo atingido sofre 1 ponto de dano por segundo por 1 rodada (5% de chance do usuário se envenenar, teste contra veneno para evitar)
+
+Dano: 1D4
+Tipo de dano: perfuração
+Peso: 1
+Fator de velocidade: 2
+Tipo de proficiência: Adaga
+Tipo: 1 mão
+Requer: Força 3
+Não utilizável por:
+ Clérigo
+ Mestre dos Animais~
+
+@21308 = ~Flecha envenenada~
+//@21308 vanilla format
+@21309 = ~Flecha "Pau da Morte"
+
+Esta flecha não é de qualidade excepcional e, de fato, é bastante grosseiramente feita. No entanto, ela foi encharcada em um veneno mortal que a torna especialmente perigosa tanto para o usuário quanto para o alvo.
+
+ESTATISTICAS:
+
+Habilidades de combate:
+ O alvo atingido sofre 2 de dano de veneno por segundo por 1 rodada (5% de chance de que o usuário se envenene, teste de jogada de salvamento contra veneno para evitar)
+
+Dano: 1D6
+Tipo de Dano: projétil (perfurante)
+Peso: 0
+Lançador: Arco
+Não utilizável por:
+ Clérigo
+ Druida
+ Mago
+ Feiticeiro
+ Monge
+ Kensai
+ Cavaleiro~
+//@21304 EE format
+@21316 = ~A típica adaga tem uma lâmina pontiaguda, geralmente de dois gumes, ao contrário de uma faca, que tem apenas um gume e é um pouco mais curta que a adaga.
+
+ESTATISTICAS:
+
+Dano: 1d4 (perfurante)
+Fator de velocidade: 2
+Tipo de proficiência: Adaga
+Tipo: Uma mão
+Requer:
+ 3 Força
+
+Peso: 1~
+//@21305 EE format
+@21317 = ~"Nome Stikka"
+
+Embora os kobolds normalmente não empunhem adagas envenenadas, é evidente que eles foram providos dos meios para fabricá-las. A grosseria na construção dessa arma, no entanto, não diminui sua letalidade - na verdade, ela pode ser tão mortal para o usuário quanto para a vítima!
+
+ESTATISTICAS:
+
+Habilidades de combate:
+– O alvo atingido sofre 1 ponto de dano de veneno por segundo durante 1 rodada (5% de chance de o usuário se envenenar, Salvar vs. Veneno nega o efeito)
+
+Dano: 1d4 (perfurante)
+Fator de velocidade: 2
+Tipo de proficiência: Adaga
+Tipo: Uma mão
+Requer:
+3 Força
+
+Peso: 1~
+//@21308 EE format
+@21319 = ~"Bastão da Morte"
+
+Esta flecha não é de qualidade excepcional e, de fato, é bastante grosseiramente feita. No entanto, ela foi encharcada em um veneno mortal que a torna especialmente perigosa tanto para o usuário quanto para o alvo.
+
+ESTATISTICAS:
+
+Habilidades de Combate:
+– O alvo sofre 2 de dano de veneno por segundo por 1 rodada (5% de chance de que o usuário se envenene, Salvamento contra Veneno nega)
+
+Dano: 1d6 (míssil)
+Lançador: Arco
+
+Peso: 0~

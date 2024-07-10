@@ -1,0 +1,330 @@
+
+// general AI
+
+@101="Inimigos têm uma inteligência bastante limitada e mostram pouca discriminação em como usam seus ataques e habilidades. Inimigos humanos e semihumanos não usam suas habilidades de classe e itens mágicos. Grupos de criaturas atacarão juntos, mas não pedirão ajuda de outros grupos."
+@102="Inimigos se tornam um pouco mais inteligentes, evitando regiões perigosas e escolhendo seus alvos de forma mais inteligente; eles ainda não usam itens e habilidades de classe. Ladrões tentarão se esconder se estiverem fora da vista do grupo."
+@103="Inimigos usam poções e habilidades de classe, se tiverem; em particular, ladrões usarão poções de invisibilidade, se tiverem, para sair de vista durante o combate. Os inimigos frequentemente escolhem começar o combate à distância em vez de se aproximar para uma conversa. Oponentes inteligentes às vezes pedirão ajuda de grupos próximos. Ladrões e lutadores de alto nível selecionados usam Habilidades de Alto Nível."
+@104="Todos os ladrões e lutadores elegíveis usam habilidades de alto nível."
+
+// mage AI
+
+@111="Os magos têm uma inteligência bastante limitada; eles renovarão suas defesas periodicamente e em certa medida evitarão usos realmente imprudentes de sua magia, mas nada além disso. Eles usam apenas sequenciadores defensivos e contingências."
+@112="Os magos usam seus feitiços de forma inteligente, escolhendo os alvos mais apropriados e prestando atenção cuidadosa às próprias defesas mágicas. Eles geralmente evitam usar seqüências ofensivas e contingências."
+@113="Os magos agora também usam sequenciadores e contingências ofensivas. Eles têm alguma chance de detectar a presença de oponentes invisíveis e usar adivinhações para revelá-los."
+@114="Magos capazes de conjurá-lo normalmente usarão Meteoros Miúdos de Melf (e feitiços similares) entre conjurar feitiços."
+
+// mage buffing
+
+@121="Os magos lançam feitiços antecipadamente ao combate (embora ainda possam usar Sequenciadores e Contingências para rapidamente elevar suas defesas uma vez que o combate comece)."
+@122="Magos lançam antecipadamente um pequeno número de feitiços com uma duração de pelo menos várias horas (como Pele de Pedra)."
+@123="Magos lançam antecipadamente quaisquer feitiços defensivos com uma duração de pelo menos um turno por nível. Se eles aparecerem à vista do grupo, também lançam antecipadamente feitiços defensivos com uma duração de pelo menos três rodadas por nível; se eles aparecerem fora da vista do grupo, também podem lançar alguns feitiços de invocação de longa duração antecipadamente."
+@124="Magos lançam antecipadamente quaisquer feitiços defensivos com uma duração de pelo menos três rodadas por nível. Se eles aparecerem à vista do grupo, também lançarão antecipadamente feitiços defensivos com duração de pelo menos uma rodada por nível."
+@125="Magos lançam antecipadamente qualquer magia defensiva com a duração de pelo menos um round por nível."
+
+// mage HLAs
+
+@133="Nenhum mago usa habilidades de alto nível."
+@134="Magos especialmente poderosos usam Habilidades de Alto Nível, mas apenas na seção Trono de Bhaal do jogo."
+@135="Magos especialmente poderosos utilizam Habilidades de Alto Nível ao longo do jogo."
+@136="No trono de Bhaal, todos os magos podem lançar magias de 9º nível usando Habilidades de Nível Superior. No restante do jogo, apenas os magos especialmente poderosos as utilizam."
+@137="Qualquer mago no jogo capaz de lançar magias de nono nível utiliza Habilidades de Alto Nível."
+
+// priest AI
+
+@141="Clérigos e druidas têm inteligência bastante limitada; eles renovarão suas defesas periodicamente e até certo ponto, evitarão usos realmente imprudentes de suas magias, mas apenas isso."
+@142="Clérigos e druidas utilizam seus feitiços de forma inteligente, escolhendo os alvos mais apropriados, prestando atenção às suas próprias defesas mágicas e curando seus aliados feridos ou incapacitados. Clérigos irão repelir ou controlar mortos-vivos hostis; druidas usarão suas habilidades de metamorfose."
+@143="Clérigos e druidas têm algumas chances de sentir a presença de oponentes invisíveis e usar adivinhação para revelá-los."
+
+
+// priest buffing
+
+@151="Clérigos ou druidas não lançam feitiços antecipadamente antes do combate."
+@152="Clérigos e druidas lançam antecipadamente um pequeno número de feitiços com duração de pelo menos várias horas (como Peles de Ferro)."
+@153="Clérigos e druidas lançam antecipadamente qualquer magia defensiva com uma duração de no mínimo um turno por nível. Se eles aparecem à vista do grupo, também lançam antecipadamente magias defensivas com uma duração de no mínimo três rodadas por nível; se eles aparecem fora da visão do grupo, eles também podem lançar antecipadamente algumas magias de invocação de longa duração."
+@154="Clérigos e druidas antecipam lançar quaisquer magias defensivas com uma duração de pelo menos três rodadas por nível. Se eles aparecem à vista do grupo, eles também antecipam lançar magias defensivas com uma duração de pelo menos uma rodada por nível."
+@155="Clérigos e druidas lançam antecipadamente qualquer feitiço defensivo com uma duração de pelo menos um round por nível."
+
+// priest HLAs
+
+@163="Clérigos ou druidas não usam habilidades de alto nível."
+@164="Clérigos e druidas especialmente poderosos utilizam habilidades de alto nível, mas somente na seção do Trono de Bhaal do jogo."
+@165="Clérigos e druidas especialmente poderosos usam Habilidades de Alto Nível ao longo do jogo."
+@166="Todos os clérigos e druidas na seção do Trono de Bhaal do jogo que podem lançar magias de sétimo nível usam Habilidades de Alto Nível. No resto do jogo, apenas clérigos e druidas especialmente poderosos as usam."
+@167="Clérigos ou druidas no jogo capazes de lançar magias de sétimo nível usam Habilidades de Alto Nível."
+
+
+// spiders
+
+@171="As aranhas se comportam essencialmente como fazem no jogo não modificado."
+@172="Aranhas Translocadoras usam sua habilidade de teletransporta de modo razoavelmente inteligente para atacar oponentes e às vezes a usam estando fora da tela."
+@173="Aranhas gigantes ganham a habilidade de cuspir teias."
+@174="Aranhas gigantes recebem um ataque de mordida modificado que causa menos dano venenoso, mas envolve o alvo em teias."
+
+// vampires
+
+@181="Os vampiros lutam de forma bastante ininteligente e não usam suas habilidades sobrenaturais, além de uma eventual capacidade de mudança de forma."
+@182="Vampiros mostram mais cuidado na escolha de seus alvos, buscando ativamente alvos vulneráveis; eles usam seu olhar dominador em oponentes."
+@183="Alguns vampiros invocam ratos, morcegos ou lobos para ajudá-los. Todos os vampiros ganham a habilidade de beber sangue (drenando Constituição) e também atacam com dreno de energia. Alguns vampiros poderosos ganham outros poderes sobrenaturais."
+@184="Alguns vampiros mais poderosos ganham poderes sobrenaturais adicionais, hipnotizando seus oponentes ou assumindo a forma de névoa para se aproximar sorrateiramente deles."
+
+// Bodhi
+
+@191="Bodhi é protegido apenas por vampiros novatos e por alguns outros mortos-vivos, e usa poucas habilidades sobrenaturais."
+@192="Bodhi usa seus poderes sobrenaturais Enterrado Vivo (enfraquecimento e desaceleração), Toque da Morte (toque vampírico) e Chamado da Senhora (controle de mortos-vivos); seus aliados incluem dois vampiros de plena força."
+@193="Bodhi também usa sua Nuvem de Morcegos (similar à Praga de Insetos), Escuridão Abissal (cegueira) e Sono Sepulcral (inconsciência). Seus aliados agora incluem quatro vampiros adultos."
+@194="Bodhi também usa seu poder sobrenatural de Congelamento da Sepultura (dano de frio); ela é servida por dois magos vampiros."
+@195="As habilidades físicas e resistências de Bodhi são substancialmente aprimoradas; ela ganha um Manto Mortal (escudo de fogo gélido) permanente e é imune a feitiços de primeiro e segundo níveis. Dois vampiros antigos se juntam aos seus defensores."
+
+// Dragons
+
+@201="Os dragões se comportam essencialmente como no jogo não modificado, embora não usem sequenciadores de feitiços e disparadores."
+@202="Dragões usam sequenciadores e gatilhos mágicos, e são inteligentes o suficiente para atacar preventivamente se o grupo estiver claramente se preparando para atacá-los."
+@203="Dragões adquirem o poder de lançar seus feitiços instantaneamente e sem risco de falha no feitiço."
+@204="Dragões ganham um aumento significativo (+200%) nos pontos de vida."
+@205="Dragões têm 50% de chance a cada rodada de recuperar o uso de seu sopro."
+
+// Drow
+
+@211="Ust Natha é defendida por dois grupos desorganizados de drows e uma força de elite de magos e clérigos."
+@212="Ust Natha é defendida por quatro grupos desorganizados de drows e uma força de elite composta de magos e clérigos."
+@213="Ust Natha é defendida por quatro grupos desorganizados, uma festa de guerra organizada e três grupos de elite."
+@214="Ust Natha é defendida por quatro grupos desorganizados, três grupos de guerra organizados, um grupo de elite de magos e uma Matrona mãe com aliados demoníacos."
+@215="Ust Natha é defendida por quatro grupos desorganizados, sete grupos de guerra organizados, dois grupos de elite de magos e clérigos, um grupo de elite de magos e uma Matrona Mãe com aliados demoníacos."
+
+// Durlag's Tower
+
+@221="Os guardiões do primeiro nível (Amor, Orgulho, etc.) não usam habilidades sobrenaturais."
+@222="Os guardiões usam seus poderes sobrenaturais, mas com pouca frequência."
+@223="Os guardiões usam seus poderes sobrenaturais com mais frequência."
+@224="Os guardiões usam seus poderes quase constantemente. O espelho do Cavaleiro Demônio gera cópias do grupo, não Guardiões do Espelho genéricos, e o próprio Cavaleiro Demônio é significativamente aprimorado."
+
+// Beholders
+
+@231="Os Beholders usam principalmente seus olhos de haste menos letais (Encanto, Medo, Dominação, Paralisia, Causa ferimentos, Lentidão) e não usam seu olho central que suprime magia. As Mães Colmeia usam apenas sua magia mais fraca."
+@232="Os Beholders também usam seu olho central contra magos e defesas de grupo. As Mães Colmeia usam sua gama completa de feitiços."
+@233="Beholders usam seus apêndices oculares de Morte, Petrificação e Telecinese."
+@234="Os Beholders usam seus tentáculos de Telecinese para roubar alguns itens do grupo (notavelmente, o Escudo de Balduran, se você o tiver). Eles usam seu tentáculo de Desintegração se você tiver instalado os 'Efeitos de Morte Revisados'"
+@235="Beholders usam seu olho com o Feixe de Desintegração, quer você tenha instalado 'Efeitos Mortais Revisados' ou não'."
+
+// Illithids
+
+@241="Os illithids usam poucos poderes e os usam de forma relativamente pouco inteligente."
+@242="Os illithids usam o feitiço Labirinto e ataques telecinéticos; seu direcionamento geral de inteligência melhora."
+@243="A inteligência inumanamente alta dos Illithids significa que eles podem ignorar feitiços de Invisibilidade. Eles usam Viagem Astral para se mover rapidamente pelo campo de batalha, se escondem com invisibilidade psíquica e estão muito alertas para que o descanso seja viável em suas cidades."
+@244="A estranha fisiologia e as proteções psíquicas dos Illithids concedem a eles 50% de resistência a danos físicos. Os Illithids usam suas habilidades psíquicas para rapidamente destruir oponentes não-vivos, como esqueletos."
+
+// Spawns
+
+@252="Os spawns aleatórios de monstros ocorrem conforme o jogo não modificado (ou seja, vinculados ao nível e progressão do jogo)."
+@253="Os spawns aleatórios de monstros são ligeiramente aprimorados em relação ao jogo não modificado."
+@254="Os spawns aleatórios de monstros são significativamente aprimorados em relação ao jogo não modificado."
+@255="Spawns de monstros aleatórios são significativamente aumentados em relação ao jogo original, e algumas aparições excepcionalmente perigosas podem ocorrer mais adiante no jogo."
+@256="Os spawns aleatórios de monstros são muito fortes ao longo do jogo, e os spawns excepcionalmente perigosos agora ocorrem mais cedo no jogo."
+@257="Os spawns dos monstros mais perigosos sempre aparecem, independentemente da parte do jogo em que você esteja."
+
+// Fiends
+
+@261="Os Demônios atacarão de forma relativamente não inteligente. Eles usarão alguns de seus poderes mágicos ofensivos, mas não os mais letais, e principalmente não irão teletransportar, atacar suas defesas mágicas ou renovar suas próprias defesas mágicas."
+@262="Demônios escolherão seus alvos de forma inteligente, atacarão suas defesas mágicas e usarão a maioria de seus poderes mágicos ofensivos."
+@263="Os demônios podem usar seus poderes mágicos instantaneamente e sem risco de falha de feitiço. Eles se teleportarão pelo campo de batalha para obter vantagem tática, tentarão renovar suas defesas e usarão praticamente todos os seus poderes mágicos. Príncipes demoníacos irão invocar demônios uma vez a cada três rodadas."
+@264="Os monstros recebem um aumento modesto (+50%) em seus pontos de vida. Balors usarão seu poder de Implosão, mas apenas no Trono de Bhaal. Príncipes Demônios irão invocar demônios uma vez a cada dois turnos."
+@265="Balors usarão seu poder de Implosão sempre que forem encontrados. Príncipes Demônios invocarão demônios uma vez por round."
+
+// Genies
+
+@271="Os gênios atacarão de forma bastante desinteligente e em sua maioria não usarão seus poderes de invisibilidade ou proteção."
+@272="Os gênios atacam de maneira inteligente e usam todos os seus poderes mágicos."
+@273="Gênios podem usar seus poderes mágicos instantaneamente e sem risco de falha de feitiço."
+@274="Gênios recebem um aumento modesto (+50%) em seus pontos de vida."
+
+// Beholder hive
+
+@281="A Esfera Anciã se move para um lugar mais sensato na colmeia, mas não há outras mudanças."
+@282="Um Beholder é adicionado à colmeia."
+@283="Uma Mãe do Enxame e um beholder são adicionados à colmeia."
+@284="Uma Mãe do Enxame, um beholder e dois tiranos da morte são adicionados à colmeia."
+@285="Uma Mãe do Enxame, três beholders, dois tiranos da Morte e dois gauth são adicionados à colmeia."
+
+// Spellholditems
+
+@293="Um Golem de Argila (difícil de ferir e com ferimentos amaldiçoados no mod SCS) é removido do Asilo."
+@294="O Golem de Argila fica no lugar."
+
+
+// d'Arnise trolls
+
+@301="Trolls adicionais podem ser encontrados em toda a Fortaleza; os trolls espirituais têm resistência a danos aprimorada."
+@302="Torgal é apoiada por um guarda-costas umber hulk."
+@303="Torgal também conta com o apoio de um aliado mago Yuan-Ti e pode invocar um Manto do Medo. Trolls espirituais possuem poderes clericais destrutivos, utilizáveis uma vez a cada 10 rodadas."
+@304="Torgal agora tem dois magos Yuan-Ti. Os trolls espirituais podem usar seus poderes a cada 3-4 rodadas."
+@305="Torgal's mages e umber hulk ganham um aumento de poder. Os trolls espirituais podem usar seus poderes a cada 2-3 rodadas."
+
+// doppelgangers
+
+@313="Doppelgangers estão em seu nível básico."
+@314="Alguns doppelgangers recebem um aumento em seus valores de habilidade."
+
+// Ascension
+
+@321="Os poderes de Melissan são muito restritos, e ela só aparece no final da batalha final; você recupera feitiços e habilidades três vezes antes da batalha final; Os Cinco evitam usar principalmente suas habilidades mais poderosas."
+@322="Melissan e os Cinco tiveram ligeiramente as restrições em suas habilidades diminuídas."
+@323="Melissan e os Cinco recebem a maioria de suas habilidades, e Melissan pode invocar demônios. Melissan aparece no meio da batalha com os Cinco. Você recupera feitiços e habilidades duas vezes antes da batalha final."
+@324="Melissan e os Cinco utilizam todas as suas habilidades; Yaga-Shura começa com 100% de resistência à maioria das formas de dano (diminuindo ao longo do tempo); Melissan aparece no início da batalha com os Cinco e invoca demônios mais rapidamente; Sarevok considerará trair você se ele estiver no grupo. Você recupera feitiços e habilidades apenas uma vez antes da batalha final."
+@325="Melissan aparece assim que um dos Cinco é morto, invoca demônios ainda mais rapidamente e é capaz de convocar Solares caídos. Você não consegue descansar em nenhum momento no capítulo 10."
+
+// camping
+// do not change the numbers here
+// TRANSLATORS: do not translate 'DW_PLACEHOLDER_x'
+
+@331="Você pode ter no máximo DW_PLACEHOLDER_1 provisões."
+@332="Você pode ter no máximo DW_PLACEHOLDER_2 provisões."
+@333="Você pode ter no máximo DW_PLACEHOLDER_3 provisões."
+@334="Você pode ter no máximo DW_PLACEHOLDER_4 provisões."
+@335="Você pode ter no máximo DW_PLACEHOLDER_5 provisões."
+@336="Você pode ter no máximo DW_PLACEHOLDER_6 provisões."
+@337="Você pode ter no máximo DW_PLACEHOLDER_7 provisões."
+
+// dragons (IWD)
+
+@401="Os dragões se comportam essencialmente como no jogo não modificado, embora não usem sequenciadores de feitiços e disparadores."
+@402="Um dragão pode usar um pequeno número de feitiços e poderes mágicos."
+@403="Um dragão ganha a habilidade de lançar seus feitiços instantaneamente e sem risco de falha do feitiço; o número e o poder de seus feitiços aumentam."
+@404="Um dragão pode fazer uso de sequenciadores de feitiços."
+@405="Dragões têm 50% de chance a cada rodada de recuperar o uso de seu sopro."
+
+
+@1010=~Esta dificuldade está atualmente definida como PADRÃO (dificuldade determinada pelo controle deslizante geral de dificuldade).~
+@1011=~A dificuldade para esta parte do jogo está atualmente definida como BÁSICA.~
+@1012=~A dificuldade para esta parte do jogo está atualmente definida como MELHORADA.~
+@1013=~A dificuldade para esta parte do jogo está atualmente definida como TÁTICA.~
+@1014=~A dificuldade para esta parte do jogo está atualmente definida como DIFÍCIL.~
+@1015=~A dificuldade para esta parte do jogo está atualmente definida como INSANO.~
+@1016=~A dificuldade desta parte do jogo está atualmente definida como INSANO PLUS.~
+@1017=~A dificuldade para esta parte do jogo está atualmente definida como LEGADO DE BHAAL.~
+@1018=~Ajustar as configurações de dificuldade~
+@1019=~Deixe a dificuldade desta parte do jogo inalterada.~
+@1020=~Mudar a dificuldade para PADRÃO (dificuldade determinada pelo controle deslizante de dificuldade geral).~
+@1021=~Mudar a dificuldade para BÁSICO: ~
+@1022=~Mudar a dificuldade para MELHORADA: ~
+@1023=~Mudar a dificuldade para TÁTICO: ~
+@1024=~Mudar dificuldade para DIFÍCIL: ~
+@1025=~Mudar a dificuldade para INSANO: ~
+@1026=~Mudar a dificuldade para INSANO PLUS: ~
+@1027=~Mudar a dificuldade para LEGADO DE BHAAL: ~
+@1028=~A dificuldade para esta parte do jogo está atualmente definida como CORAÇÃO DA FÚRIA.~
+@1029=~Mudar dificuldade para CORAÇÃO DA FÚRIA: ~
+@1030=~Em qual configuração de dificuldade você deseja fazer a alteração?~
+@1031=~Eu não quero fazer alterações agora.~
+@1032=~Você pode fazer mudanças adicionais a qualquer momento ou usar o controle deslizante de dificuldade para fazer alterações globais em qualquer componente que não tenha sido configurado individualmente.~
+@1033=~Remova o controle de dificuldade das minhas Habilidades Especiais.~
+@1034=~Restaure o controle de dificuldade das minhas habilidades especiais.~
+@1035=~O controle de dificuldade foi removido. Ainda é possível acessar este menu no console, inserindo C:CreateCreature("dw#diffi").~
+@1036=~O controle de dificuldade foi restaurado.~
+@1040=~Magos (IA geral; conjuração avançada e habilidades de alto nível são controladas separadamente).~
+@1041=~Magos (lançamento antecipado de feitiços antes da batalha).~
+@1042=~Magos (uso de habilidades de alto nível).~
+@1043=~Sacerdotes (IA geral; conjuração avançada e habilidades de alto nível são controladas separadamente).~
+@1044=~Sacerdotes (lançamento antecipado de feitiços antes da batalha).~
+@1045=~Sacerdotes (usar habilidades de alto nível).~
+@1046=~Lutadores, ladrões e IA geral/diversa.~
+@1047=~Demônios e outras criaturas de planos externos.~
+@1048=~Dragões.~
+@1049=~Torre de Durlag.~
+@1050=~A dificuldade desta parte agora está definida como PADRÃO.~
+@1051=~A dificuldade desta parte agora está definida como BÁSICA.~
+@1052=~A dificuldade desta parte agora está definida como MELHORADA.~
+@1053=~A dificuldade desta parte agora está definida como TÁTICO.~
+@1054=~A dificuldade desta parte agora está definida DIFÍCIL.~
+@1055=~A dificuldade desta parte agora está definida INSANO.~
+@1056=~A dificuldade desta parte agora está definida INSANO PLUS.~
+@1057=~A dificuldade desta parte agora está definida LEGADO DE BHAAL.~
+@1058=~A dificuldade desta parte agora está definida CORAÇÃO DA FÚRIA.~
+@1060=~Devoradores de Mentes.~
+@1061=~Aranhas gigantes.~
+@1062=~O mod Ascension.~
+@1063=~Bodhi.~
+@1064=~Vampiros (exceto Bodhi, se você tiver o "Bodhi Melhorada" instalado).~
+@1065="A cidade dos drows."
+@1066="Beholders."
+@1067="O número de beholders encontrados em sua colmeia Subterrânea."
+@1068="Gênios (djinni, efreeti e similares)."
+@1069="O último vilão do Trono de Bhaal."
+@1070="O componente 'Itens são retirados em Spellhold."
+@1071="Doppelgangers."
+@1072="Grupos de criaturas que aparecem aleatoriamente (em BG2)."
+@1073="Fortaleza de'Arnise."
+@1074="O número máximo de provisões que o seu grupo pode carregar."
+@1100="Básico"
+@1101="Melhorado"
+@1102="Tático"
+@1103="difícil"
+@1104="Insano"
+@1105="Essa barra deslizante controla o nível de dificuldade do jogo. INSANO (extremo direito): Inimigos utilizam a inteligência artificial mais sofisticada, e todas as suas habilidades, e muitos têm aumentos em seus números e poderes; conjuradores lançam muitos feitiços protetores antes do combate. DIFÍCIL (meio à direita): Inimigos usam a IA mais sofisticada, quase todas as suas habilidades, e alguns têm aumentos em seus números e poderes; os conjuradores lançam alguns feitiços protetores antecipadamente. TÁTICO (meio): Inimigos usam a IA mais sofisticada e a maioria de suas habilidades; conjuradores lançam um pequeno número de feitiços protetores antecipadamente. \n MELHORADO (meio à esquerda): Inimigos usam IA sofisticada, mas evitam usar suas habilidades mais poderosas e de pedir ajuda; Os conjuradores lançam apenas feitiços de longa duração com antecedência. BÁSICO (extremo esquerdo): Os inimigos usam uma inteligência artificial rudimentar (aproximadamente no nível do jogo não modificado) e se abstêm de usar muitas habilidades (incluindo poderes de classe). NOTA: você pode ajustar a dificuldade de forma mais detalhada para criaturas individuais usando o botão de ajuste fino da dificuldade."
+@1106="O nível de dificuldade desta característica é definido pelo controle deslizante de dificuldade principal."
+
+@1110="Este controle deslizante controla o nível de dificuldade do jogo. \n INSANO: Inimigos usam a inteligência artificial mais sofisticada, todas as suas habilidades, e muitos têm aumentos em seus números e poderes; os conjuradores lançam muitos feitiços protetores antes do combate. \n DIFÍCIL: Inimigos usam a IA mais sofisticada, e quase todas as suas habilidades, e alguns têm aumento em seus números e poderes; os conjuradores lançam alguns feitiços protetores antecipadamente. TÁTICO: Inimigos usam a IA mais sofisticada e a maioria das suas habilidades; os conjuradores lançam um pequeno número de feitiços protetores antecipadamente. MELHORADO: Inimigos usam uma inteligência artificial sofisticada, mas se abstêm de usar suas habilidades mais poderosas e de pedir ajuda; conjuradores lançam apenas as magias de duração mais longa antecipadamente. BÁSICO: Inimigos usam uma IA rudimentar (aproximadamente no nível do jogo não modificado) e se abstêm de usar muitas habilidades (incluindo poderes de classe). NOTA: Você pode ajustar a dificuldade individual para as criaturas usando o botão de ajuste fino da dificuldade."
+
+@1111="Inimigos continuam a usar inteligência em suas estratégias de ataque e agora empregam a maioria de seus poderes, frequentemente pedindo ajuda de aliados próximos. Os conjuradores começam a lançar determinados feitiços antes do combate, especialmente se chegarem à área à vista do grupo. Algumas criaturas sobrenaturais adquirem a capacidade de usar suas habilidades instantaneamente e sem possibilidade de interrupção."
+@1112="Inimigos escolhem seus alvos e usam seus feitiços de forma bastante desinteligente. Eles se abstêm de usar algumas de suas habilidades e feitiços mais perigosos. No jogo posterior, alguns dos conjuradores mais poderosos começarão a usar habilidades de nível alto. (Isso corresponde aproximadamente ao nível de dificuldade 'Core' do jogo sem modificações)"
+@1113="Inimigos agora usam todos os seus poderes de forma mais eficaz; alguns recebem um aumento na quantidade de pontos de vida. O número de inimigos é aumentado. Os conjuradores lançam magias de forma mais agressiva antecipadamente."
+@1114="Vários inimigos recebem aumentos adicionais em suas habilidades e em seu número; conjuradores lançam feitiços de forma agressiva antes do combate; o uso de Habilidades de Alto Nível agora ocorre (para os conjuradores mais poderosos) ao longo de todo o jogo."
+@1115="Os inimigos inteligentes atacam e usam seus poderes de forma bastante sensata, embora a maioria não use habilidades de classe, e algumas de suas habilidades especiais mais perigosas ainda são evitadas."
+
+@1116="TÁTICO"
+@1117="Tático"
+@1118="BÁSICO"
+@1119="Básico"
+@1120="DIFÍCIL"
+@1121="difícil"
+@1124="MELHORADO"
+@1125="Melhorado"
+@1126="Sem alterações de dano baseadas na dificuldade (altamente recomendado)"
+@1127="Impedir que o controle deslizante de dificuldade faça alterações codificadas no dano do inimigo. (Sword Coast Stratagems assume que esta opção esteja selecionada.)"
+@1128="AJUSTAR A DIFICULDADE"
+
+@1133="Inimigos agora usam todos os seus poderes de forma eficaz; um pequeno número recebe um aumento nos pontos de vida. O número de alguns inimigos é aumentado. Usuários de magia lançam feitiços mais agressivamente antecipadamente."
+@1134="Vários inimigos recebem aumentos adicionais em suas habilidades e em seus números; os conjuradores lançam feitiços agressivamente antes do combate."
+@1135="Inimigos têm todos os benefícios da dificuldade Insano, além de um número significativamente maior de Pontos de Vida, THAC0 aprimorado, melhores testes de resistência e mais ataques por rodada. Qualquer conjurador suficientemente poderoso usará Habilidades de Nível Elevado. Aviso: Legado de Bhaal só pode ser selecionado no início do jogo e, uma vez selecionado, não pode ser alterado!"
+@1136="A festa obtém todos os benefícios da dificuldade básica e eles não podem morrer em combate."
+
+
+// strings 2000-2999 reserved for short-version descriptions (must be 1000+long-version descriptions)
+@2040=~MAGO GENERAL~
+@2041=~MAGO PRECAST~
+@2042=~MAGO HLAS~
+@2043=~SACERDOTE GENERAL~
+@2044=~SACERDOTE PRECAST~
+@2045=~SACERDOTE HLAS~
+@2046=~DIVERSOS~
+@2047=~DEMÔNIOS/CELESTIAIS~
+@2048=~DRAGÕES~
+@2049=~TORRE DE DURLAG~
+
+@2060=~DEVORADORES DE MENTES~
+@2061=~ARANHAS GIGANTES~
+@2062=~ASCENSION~
+@2063=~BODHI~
+@2064=~VAMPIROS~
+@2065="CIDADE DOS DROWS"
+@2066="BEHOLDERS"
+@2067="COLMEIA DOS BEHOLDER"
+@2068="GÊNIOS"
+@2069="ToB VILÃO FINAL"
+@2070="SPELLHOLD"
+@2071="DOPPELGANGERS"
+@2072="SPAWNS ALEATÓRIOS"
+@2073="FORTALEZA De'Arnise"
+@2074="PROVISÕES"
+
+@3000="PADRÃO"
+@3001="BÁSICO"
+@3002="MELHORADO"
+@3003="TÁTICO"
+@3004="DIFÍCIL"
+@3005="INSANO"
+@3006="INSANO PLUS"
+@3007="LEGADO DE BHAAL"
+@3008="CORAÇÃO DA FÚRIA"
+
+@3100="AJUSTAR A DIFICULDADE"
+@3101="SELECIONE UM TIPO DE INIMIGO"

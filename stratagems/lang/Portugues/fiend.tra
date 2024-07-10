@@ -1,0 +1,37 @@
+
+@100 = ~Telecinese~
+@101 = ~Ataque de Chamas Abissais~
+@1027 = ~Aura de Paralisação~
+@3202 = ~Tempestade de vento~
+@3208 = ~Bolha Ácida~
+@3210 = ~Ponto~
+@3211 = ~Dissolução de Mordenkainen~
+@3212 = ~Imposição de Mãos~
+@3213 = ~Encanto em Massa~
+@40000 = ~Pequeno Grimório de Vínculo Demoníaco~
+@40001 = ~Este texto vil contém segredos proibidos das criaturas das Planícies Inferiores, incluindo os verdadeiros nomes de vários seres potentes. Por meio do estudo detalhado do grimório, um mago pode aprender a exercer um mínimo de controle sobre alguns demônios convocados. Ao usar os feitiços de mago Invocar Demônios e Cacodemônios para trazer um demônio, o personagem irá vincular o demônio convocado a obedecer à vontade dele, em vez de simplesmente permitir que ele cause estragos aleatoriamente.
+A maioria dos magos evita a ligação demoníaca por um bom motivo: aquele que trafega com demônios. Ao lidar com demônios, a alma imortal do personagem fica em risco. Cada vez que o personagem invoca e vincula um demônio, há 10% de chance de que sua orientação moral se desvie um passo em direção ao mal. Se o personagem já for malévolo, em vez disso, haverá 10% de chance de que sua alma seja perdida para os habitantes dos planos inferiores. Um personagem cuja alma é perdida dessa maneira não pode ser ressuscitado dos mortos - uma vez morto, ele está perdido para sempre.
+
+ESTATISTICAS:
+
+Especial: Ao ser usado, o livro desaparece para reaparecer em outro lugar pelos planos
+Uso: Coloque no espaço de item rápido
+
+Peso: 25~
+@40002 = ~Grimório Maior de Aprisionamento Demoníaco~
+@40003 = ~Esse terrível livro, encadernado em pele de anjo e marcado por poderosa magia, contém alguns dos segredos mais profundos dos demônios dos Planos Inferiores, incluindo os nomes verdadeiros de lordes infernais e balor. Através do estudo detalhado do grimório, um mago pode aprender como exercer um mínimo de controle sobre os demônios convocados. Ao utilizar as magias do mago "Chamar Demônio", "Cacodemônio" e "Portão" para trazer um demônio, o personagem irá amarrar o demônio convocado para obedecer à vontade dele, em vez de simplesmente deixá-lo causar estragos aleatórios.
+A maioria dos magos evita fazer pactos com demônios por uma boa razão: aquele que lida com seres malignos coloca sua alma imortal em risco. Cada vez que o personagem convoca e aprisiona um demônio, existe uma chance de 10% de que sua inclinação moral se desloque um passo em direção ao mal. Se o personagem já for maligno, em vez disso, há uma chance de 10% de que sua alma seja entregue aos habitantes dos planos inferiores. Um personagem cuja alma seja perdida dessa maneira não pode ser ressuscitado dos mortos - uma vez morto, ele está perdido para sempre. Invocar os demônios mais poderosos apenas aumenta o risco - ao usar o feitiço de Portão, essas chances são, em vez disso, de 25% cada.
+
+ESTATISTICAS:
+
+Especial: Ao ser utilizado, o livro desaparece, reaparecendo em algum outro lugar através dos planos
+Uso: Colocar no espaço de item rápido
+
+Peso: 25~
+@40004 = ~Vínculo com demônio menor aprendido~
+@40005 = ~Aprendida a ligação demoníaca maior~
+@40010="A alma do personagem foi reivindicada pelos demônios dos planos inferiores, e a ressurreição é impossível."
+@40011="Droga"
+@40012="Alinhamento mudou para o mal"
+
+

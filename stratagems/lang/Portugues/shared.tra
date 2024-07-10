@@ -1,0 +1,39 @@
+
+@101002 = ~*Bebe poção de resistência ao fogo*~
+@101003 = ~*Bebe poção da força do gigante da colina*~
+@101004 = ~*Bebe poção da força do gigante de gelo*~
+@101005 = ~*Bebe poção da força do gigante de fogo*~
+@101006 = ~*Bebe poção de força do gigante das nuvens*~
+@101007 = ~*Bebe poção de força do gigante da tempestade*~
+@101008 = ~*Bebe poção de cura*~
+@101009 = ~*Bebe poção do heroísmo*~
+@101010 = ~*Bebe poção de invisibilidade*~
+@101011 = ~*Bebe poção da invulnerabilidade*~
+@101012 = ~*Bebe poção da força do gigante de pedra*~
+@101014 = ~*Aplica óleo de velocidade*~
+@101017 = ~*Bebe elixir da saúde*~
+@101018 = ~*Bebe poção de absorção*~
+@101020 = ~*Toma antídoto*~
+@101021 = ~*Bebe a poção de clareza*~
+@101024 = ~*Bebe poção de defesa*~
+@101028 = ~*Bebe a poção de vigor*~
+@101034 = ~*Bebe poção da proteção mágica*~
+@101035 = ~*Bebe poção do escudo mágico*~
+@101041 = ~*Bebe poção do poder*~
+@101042 = ~*Bebe poção de regeneração*~
+@101045 = ~*Bebe poção da liberdade*~
+@101052 = ~*Bebe poção de cura extra*~
+@101055 = ~*Bebe poção de cura superior*~
+@100200 = ~*Usou uma varinha*~
+@100201 = ~*Usou um pergaminho*~
+@100300 = ~ (lançar anteriormente)~
+@100400 = ~Não utilizável por:~
+@100401 = ~Usable By:~
+@100402 = ~IA ativa~
+@100403 = ~IA inativa~
+@100404 = ~
+
+Esta criatura pode usar este poder uma vez a cada 99999 segundos.~
+@100405 = ~
+
+Esta criatura pode usar este poder à vontade.~

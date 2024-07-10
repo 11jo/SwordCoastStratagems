@@ -1,0 +1,46 @@
+
+@32100 = ~Portão
+(Conjuração/Invocação)
+
+Nível: 9
+Alcance: 0
+Duração: 33 rodadas
+Tempo de Conjuração: 9
+Área de efeito: Especial
+Jogadas de Salvamento: Nenhum
+
+Por meio desse feitiço, o conjurador invoca uma criatura extra-planar poderosa - um balor ou demônio do abismo - para atacar seus inimigos, mas também a si mesmo, se não tomar cuidado. O conjurador deve usar um feitiço de Proteção Contra o Mal em si mesmo (e em seus companheiros) para evitar que o demônio o perceba. Se o conjurador falhar em se proteger dessa maneira, o demônio irá despedaçar o conjurador e seus companheiros, e então se alimentar dos restos.~
+@32101 = ~Portão
+(Conjuração/Invocação)
+
+Nível: 7
+Esfera: Invocação
+Alcance: 0
+Duração: 33 rodadas
+Tempo de Conjuração: 5
+Área de efeito: Especial
+Jogadas de Salvamento: Nenhum
+
+Por meio desse feitiço, o conjurador invoca uma poderosa criatura extraplana—um balor ou pit fiend—para atacar seus inimigos, bem como a si mesmo, se não tomar cuidado. O conjurador deve usar um feitiço de Proteção Contra o Mal em si mesmo (e em seus companheiros) para impedir que o demônio perceba sua presença. Se o conjurador falhar em se proteger dessa maneira, o demônio irá despedaçar o conjurador e seus companheiros um a um, para então se banquetear com os restos.~
+@32102 = ~Invocar Demônio
+(Conjuração/Invocação)
+
+Nível: 8
+Esfera: 0
+Duração: 15 rodadas
+Tempo de Conjuração: 9
+Área de efeito: Especial
+Jogadas de Salvamento: Nenhum
+
+Este feitiço invoca um demônio ou diabo enlouquecido. Este ser demoníaco atacará qualquer pessoa na área que não esteja protegida por um feitiço de Proteção Contra o Mal. Apenas magos desesperados ou suicidas usam esse feitiço.~
+@32103 = ~Cacodemônio
+(Conjuração/Invocação)
+
+Nível: 7
+Duração: 0
+Duração: 15 rodadas
+Tempo de conjuração: 9
+Área de efeito: Especial
+Jogadas de Salvamento: Nenhum
+
+Quando este feitiço é lançado, ele invoca um demônio poderoso que partirá para um frenesi e atacará tudo que estiver à sua vista. Qualquer pessoa sob os efeitos de um feitiço ou pergaminho de Proteção Contra o Mal não será alvo do demônio. Este é um feitiço perigoso e melhor ser utilizado em momentos desesperadores.~

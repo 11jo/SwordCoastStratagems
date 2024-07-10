@@ -1,0 +1,32 @@
+
+@1400 = ~Armadilha armada~
+@14200 = ~Escudo Mágico Dissipado~
+@22500 = ~Bem, se não é o habilidoso caçador que me trouxe aquela pele de lobo do inverno! Posso lhe interessar em algo na minha modesta loja?~
+@22501 = ~Sim, o que você tem à venda?~
+@22502 = ~Nada no momento.~
+@22503 = ~Bem, se não é mais um casaco de pele de lobo do inverno! Acontece que eu já tinha um comprador para o último... não acho que eu possa comprar outro agora. Talvez algum negociante mais próximo da civilização possa te ajudar. Mas talvez eu possa te interessar em algo diferente?~
+@22504 = ~Quais são os seus produtos à venda?~
+@22505 = ~Não agora.~
+@22508 = ~Pele de Lobo do Inverno
+O Mercador de Nashkel prometeu nos dar ouro se trouxermos de volta uma pele de lobo do inverno.~
+@50074 = ~O Multiverso Emergente~ // NOTE TO TRANSLATORS: this item is an Easter Egg (a joke). 'The Emergent Multiverse' is a real book, which I wrote (it's an academic text on quantum mechanics), and the quote in the item description is from the real book. So far as I know it hasn't been translated yet! Possibly it makes sense to leave the title and quote in English? Up to you.
+@50075 = ~Este extenso tomo parece consistir principalmente de especulações selvagens sobre uma proliferação constante de universos ramificados. Um extrato:
+
+"O estado unitariamente ramificado possui uma estrutura de ramificação emergente, com cada ramo fornecendo posições e momentos aproximadamente definidos para objetos macroscópicos e com esses objetos evoluindo de maneira aproximadamente clássica dentro de seu ramo"
+
+Presumivelmente o autor é, ou foi, um ex-paciente do Asilo.
+
+ESTATISTICAS:
+
+Peso: 2~
+
+@50076 = ~Filosofia da Física: Uma Breve Introdução~ // NOTE TO TRANSLATORS: another easter egg. ('Philosophy of Physics: a very short introduction' is a semipopular book I wrote in 2020.)
+@50077 = ~Este pequeno volume expõe de forma descontraída um relato que parece improvável sobre a natureza do multiverso. Um trecho:
+
+"A essência da reversibilidade é que as leis reversíveis podem igualmente ser usadas para prever o passado - retrodizer, como os filósofos às vezes dizem. O movimento dos planetas é reversível: os dados presentes sobre os planetas podem ser usados tão facilmente para determinar eclipses passados e futuros. A mistura do leite ou o derretimento do gelo é irreversível, informações são perdidas no processo, de modo que muitos estados anteriores são compatíveis com o mesmo estado posterior."
+
+Uma observação mordaz em outra escrita critica a aparente ignorância do autor em relação ao Espaço Selvagem, o multiverso plano, ou até mesmo a teia, e sugere que o livro provavelmente se origina de uma sociedade muito primitiva para desenvolver magia.
+
+ESTATISTICAS:
+
+Peso: 2~
