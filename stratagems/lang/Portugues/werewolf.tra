@@ -8,22 +8,22 @@
 @21610 = ~Kaishas, não há necessidade disso. Não é minha escolha, mas vamos matar você se for preciso. Você realmente acha que pode nos parar quando Karoug e Daese não puderam?~
 @21611 = ~Eu... temo que não podemos. Mas vamos tentar. Não nos resta outra escolha.~
 @21612 = ~Kaishas, isso é insano. Você está indo para a sua morte, e eu não quero te matar!~
-@21613 = ~Talvez não. Mas você está ferida e cansada, e a matilha está perto de você. Mesmo os aventureiros só podem lutar por muito tempo. De qualquer forma, deve ser assim. Verdadeiramente, sinto muito.~
+@21613 = ~Talvez não. Mas você está ferido e cansado, e a matilha está perto de você. Mesmo os aventureiros só podem lutar por muito tempo. De qualquer forma, deve ser assim. Verdadeiramente, sinto muito.~
 @21614 = ~A ilha misteriosa
 Relutantemente, lutei com Kaishas. Parecia que ela achava que não havia outra maneira. Ela mencionou que talvez tivessem uma segunda chance se Selaad retornasse um dia. Ele era o chefe deles que estava desaparecido, se me lembro corretamente.~
 @21615 = ~Talvez sejamos monstros. Mas fazemos o que precisamos para sobreviver.~
 @21616 = ~Você apenas me faz lembrar que isso deve acontecer. Muita coisa aconteceu entre nós. Não sei se podemos impedir você ou não, mas a resposta será conhecida rapidamente.~
 @21617 = ~Que escolha há? Se a verdade for conhecida, a ruína virá sobre nós!~
 @21618 = ~Então, que assim seja.~
-@21619 = ~Vocês podem confiar em nós. Não contaremos a ninguém sobre o seu povo - será como se nunca tivéssemos vindo a este lugar.~
+@21619 = ~Vocês podem confiar em nós. Não contaremos a ninguém sobre o seu povo será como se nunca tivéssemos vindo a este lugar.~
 @21620 = ~Morra bem... Sinto muito que acabe assim.~
 @21621 = ~Quanto eu gostaria de acreditar em você! Mas entenda bem, o futuro do meu povo está em jogo aqui. Eu não posso correr riscos.~
-@21622 = ~Nós temos arriscado nossas vidas pelos seus malditos compatriotas todos os dias desde que chegamos aqui! O que mais precisamos fazer para persuadi-loArriscamos nossas vidas todos os dias para salvar o povo de vocês desde que chegamos aqui! O que mais precisamos fazer para persuadi-los? Quantos bebês mais precisamos salvar dos lobisomens? ~
+@21622 = ~Nós temos arriscado nossas vidas pelos seus malditos compatriotas todos os dias desde que chegamos aqui! O que mais precisamos fazer para persuadi-la? Arriscamos nossas vidas todos os dias para salvar o povo de vocês desde que chegamos aqui! O que mais precisamos fazer para persuadi-los? Quantos bebês mais precisamos salvar dos lobisomens? ~
 @21623 = ~Nós estamos arriscando nossas vidas todos os dias pelo seu maldito povo desde que chegamos aqui! O que mais temos que fazer para te persuadir?~
 @21624 = ~Você não pode fazer nada. Verdadeiramente, sinto muito.~
 @21625 = ~Você... não pode fazer nada. Maralee estará eternamente grata pela sua ação... assim como eu. Mas corajoso como foi, você o fez sem perceber a nossa verdadeira natureza.~
 @21626 = ~Prepare-se, Kaishas - isso termina agora.~
-@21627 = ~Isso está ficando ridículo. Sua ingratidão me enoja - eu esperava não precisar te enxergar como um monstro, mas parece que eu estava errado.~
+@21627 = ~Isso está ficando ridículo. Sua ingratidão me enoja eu esperava não precisar te enxergar como um monstro, mas parece que eu estava errado.~
 @21628 = ~Kaishas, você me toma por tolo? Eu sabia que vocês eram lobisomens antes mesmo de falar com Karoug... francamente, eu desconfiava desde os primeiros cinco minutos que entrei nessa vila! Se vocês estão tentando nos matar, então vá em frente, mas pelo amor de Ao, nos dê algum crédito pela inteligência!~
 @21629 = ~Parabenizo você, tanto pela inteligência quanto pela coragem. No entanto, o dever de uma líder é absoluto. Não posso correr o risco de que você minta.~
 @21630 = ~Kaishas, por favor, espere! <CHARNAME> não está mentindo - <PRO_HESHE> e eu nos aproximamos... muito depois que <PRO_HESHE> deve ter percebido a verdade sobre nós! Poupe <PRO_HIMHER> - <PRO_HESHE> pode conhecer nossa natureza, mas <PRO_HESHE> guardará nosso segredo.~ //Delainy (female) if male charname - Durlyle (male) if female charname
@@ -51,7 +51,7 @@ O mistério desta ilha tornou-se claro. Mendas/Selaad nos enviou à ilha com a f
 @21651 = ~"Liftá-la"? Meu tolo companheiro, o que você disse a eles? Não é uma maldição a ser "liftada" - é um dom a ser saboreado! Só pode ser "curado" matando o chefe dos lobisomens. Eu sou o chefe e te julgo indigno de correr com minha matilha. Você morrerá aqui hoje. Para mim, Baresh! Um acerto de contas sangrento está próximo!~
 @21652 = ~Selaad Gan é o chefe do verdadeiro povo. Ele aguarda o retorno de sua companheira, Kaishas. Por que você não retornou com ela?~
 @21653 = ~Não é da sua conta questionar a mim. Qual é o seu papel nisso?~
-@21654 = ~Parece que fomos enganados. Kaishas está morta, e sua linhagem assassina morreu com ela.~
+@21654 = ~Parece que fomos enganados. Kaishas está morta, e sua linhagem assassina morreu junto com ela.~
 @21655 = ~Fomos contratados para recuperar o diário de bordo de Balduran. Aqui o trouxemos e agora esperamos o pagamento.~
 @21656 = ~Parece que fomos enganados. Kaishas permanece na ilha. Devemos confrontar Selaad e fazê-lo remover esta maldição que sua companheira imprudentemente nos impôs.~
 @21657 = ~O mestre deseja ver sua esposa, Kaishas Gan. Ela ainda está no navio?~
@@ -62,7 +62,7 @@ O mistério desta ilha tornou-se claro. Mendas/Selaad nos enviou à ilha com a f
 @21662 = ~A tua tarefa era clara. Viajar para a ilha e recuperar a parentela do mestre. Caso falhasse, Kaishas deveria tomar os mapas marítimos de ti. Inúteis! Selaad não tolerará a sua incompetência.~
 @21663 = ~Idiota! Fomos enviados com falsas promessas e de alguma forma é nossa culpa? Kaishas nos atacou e fomos forçados a nos defender. Mendas foi traído pela própria astúcia.~
 @21664 = ~Mendas nos enganou. É ele que devemos enfrentar. Você é apenas um capanga.~
-@21665 = ~Idiota! Fomos enviados sob falsos pretextos e, de alguma forma, é nossa culpa? Agora, nos leve para Selaad.!~
+@21665 = ~Idiota! Fomos enviados sob falsos pretextos e, de alguma forma, é nossa culpa? Agora, nos leve para Selaad!~
 @21666 = ~Insolente inútil! O mestre irá devorar tua medula por isso!~
 
 @22000 = ~A ilha misteriosa

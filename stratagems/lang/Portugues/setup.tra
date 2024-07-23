@@ -35,7 +35,7 @@
 @46 = ~Gaelan quer 120,000 peças de ouro~
 @47 = ~Remova itens irrealisticamente úteis de certas áreas~
 @48 = ~Remover munição irrealisticamente conveniente do jogo~
-@49 = ~Torna a Fortaleza da vela acessível entre SoA e ToB (aviso: isso a tornará inacessível até o final de SoA)~
+@49 = ~Torna a Torre do Vigia acessível entre SoA e ToB (aviso: isso a tornará inacessível até o final de SoA)~
 @50 = ~Remova a animação do Manto de Refletir (deixe para outros feitiços e efeitos que usem o mesmo gráfico)~
 @51 = ~Mova Boo para a mochila de Minsc~
 @61 = ~Inteligência artificial mais avançada~
@@ -220,7 +220,7 @@
 @20029 = ~Verme Carniceiro ligeiramente mais inteligentes~
 @20030 = ~Basiliscos mais inteligentes~
 @20031 = ~Doppelgangers melhorados~
-@20033 = ~Soldados das garras negras e guardas do Trono de Ferro mais resistentes~
+@20033 = ~Soldados dos garra negra e guardas do Trono de Ferro mais resistentes~
 @20034 = ~Caçadores de recompensas realocados~
 @20035 = ~Ulcaster melhorado~
 @20036 = ~Ilha de Balduran melhorado~
@@ -259,7 +259,7 @@
 @24127 = ~Use o estilo de Praga de Insetos e Perdição rastejante (Creeping Doom) de Baldur's Gate ao invés das versões de Icewind Dale~
 @24128 = ~Use a Espada de Mordenkainen no estilo de Baldur's Gate em conjunto com a versão de Icewind Dale~
 @24129 = ~Faça flechas elementais como em BG2~
-@24130 = ~Inclua canções de bardos de Icewind Dale: Edição Aprimorada~
+@24130 = ~Inclua canções de bardos de Icewind Dale: Enhanced Edition~
 
 
 @50000 = ~Este componente agora está obsoleto~

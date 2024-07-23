@@ -1,164 +1,164 @@
-@1="Stormbolts"
-@2="Stormbolts
-(Evocation)
+@1="Raios da Tempestade"
+@2="Raios da Tempestade
+(Evocação)
 
-Level: 9
-Range: 0
-Duration: Instant
-Casting Time: 9
-Area of Effect: Enemies within 30ft.
-Saving Throw: Special
+Nível: 9
+Alcance: 0
+Duração: Instantânea
+Tempo de Lançamento: 9
+Área de Efeito: Inimigos dentro de 30 pés.
+Jogada de Salvamento: Especial
 
-Upon casting this spell, the wizard directs a powerful blast of electricity towards all foes within 30 feet. Each bolt inflicts 1d8 points of electrical damage per level of the caster (maximum 20d8) and stuns the target for 1 round. A successful save vs. spell halves the damage and negates the stunning effect."
+Ao conjurar este feitiço, o mago dirige uma poderosa explosão de eletricidade contra todos os inimigos dentro de 30 pés. Cada raio inflige 1d8 pontos de dano elétrico por nível do conjurador (máximo de 20d8) e atordoa o alvo por 1 rodada. Em caso de sucesso no teste de resistência contra magia, o dano é reduzido pela metade e o efeito do atordoamento é anulado."
 
-@3="Minor Lightning Bolt"
-@4="Minor Lightning Bolt
-(Evocation)
+@3="Raio Menor"
+@4="Raio Menor
+(Evocação)
 
-Level: 2
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 2
-Area of Effect: 1 creature
-Saving Throw: 1/2
+Nível: 2
+Alcance: Alcance visual do Lançador 
+Duração: Instantânea
+Tempo de Conjuração: 2
+Área de efeito: 1 criatura
+Jogada de Salvamento: 1/2
 
-Upon casting this spell, the wizard releases a bolt of energy that inflicts 3d6 points of electrical damage to a single creature. The damage increases by 1d6 for every two caster levels above 3rd level, to a maximum of 8d6 at 13th level. A successful Save vs. Spell reduces this damage to half. Unlike the more powerful Lightning Bolt spell, the minor lightning bolt cannot rebound, and injures only its single target."
+Ao conjurar este feitiço, o mago libera um raio de energia que inflige 3d6 pontos de dano elétrico a uma única criatura. O dano aumenta em 1d6 para cada dois níveis do conjurador acima do 3º nível, até um máximo de 8d6 no 13º nível. Uma Jogada de Salvamento bem-sucedida contra Feitiço reduz esse dano pela metade. Ao contrário do feitiço do Relâmpago mais poderoso, o Raio Menor não pode ricochetear e apenas fere seu alvo único."
 
-@5="Stonefist"
-@6="Stonefist
-(Conjuration)
+@5="Punho de Pedra"
+@6="Punho de Pedra
+(Conjuração)
 
-Level: 1
-Range: 0
-Duration: 5 rounds/level
+Nível: 1
+Alcance: 0
+Duração: 5 rodadas/nível
+Tempo de Lançamento: 1
+Área de efeito: O conjurador 
+Jogada de Salvamento: Nenhuma
+
+Quando este feitiço é lançado, o conjurador invoca um Pequeno Elemental da Terra e funde sua forma com ele, ganhando uma parte de sua força e resistência. Enquanto o feitiço estiver em efeito, o conjurador recebe um bônus de +2 na Classe de Armadura. As energias elementais podem ser descarregadas a qualquer momento em um poderoso soco, direcionado a qualquer criatura adjacente ao conjurador. O soco acerta automaticamente e causa 1d6 pontos de dano contundente mais 1d6 a cada dois níveis (até um máximo de 6d6 no 10º nível), e o alvo deve fazer um teste de resistência contra magia ou ficará atordoado por 1 rodada. Descarregar o feitiço dessa forma encerra o seu efeito. O soco não é considerado uma arma mágica."
+
+@7="Punho de Pedra"
+
+@8="Você está atualmente canalizando o poder de um elemental de terra menor.
+
+ESTATISTICAS:
+
+Habilidades equipadas:
+– Classe de armadura: +2
+
+PACA0: Ataca automaticamente
+Dano: 1d6 + 1d6 a cada dois níveis (máximo 6d6)
+Tipo de dano: esmagamento
+Fator de velocidade: 0
+Especial: o feitiço termina uma vez que você realiza um ataque
+
+Peso: 0"
+@9="Transformar seixo em pedregulho"
+@10="Transformar seixo em pedregulho
+(Alteração)
+
+Nível: 3
+Alcance: 0
+Duração: Permanente até ser lançado ou dissipado
+Tempo de Lançamento: 3
+Área de efeito: O conjurador
+Jogada de Salvamento: Nenhuma
+
+O conjurador encanta um pequeno seixo para que, quando lançado contra um inimigo, ele cresça e aumente a velocidade, tornando-se uma pedra mortal que inflige 3d8 pontos de dano contundente se atingir o alvo. A pedra tem um bônus de ataque de +1 por nível do conjurador e pode afetar criaturas protegidas como se fosse uma arma +2. Criaturas de tamanho humano ou menor atingidas pela pedra serão derrubadas ao chão pela força do impacto.
+
+O conjurador pode encantar mais um seixo a cada três níveis acima do 5º, até um máximo de seis seixos no nível 20."
+@11="Seixo"
+@12="Esta pedra encantada se transforma em uma pedra grande quando lançada.
+
+ESTATISTICAS:
+
+PACA0: + Nível do conjurador (máx. 20)
+Dano: 3d8
+Tipo de dano: Esmagamento
+Fator de velocidade: 0
+
+Peso: 0"
+@13="Raio Gelado de Veridon"
+@14="Raio Gelado de Veridon
+(Evocação)
+
+Nível: 9
+Alcance: alcance visual do conjurador
+Duração: instantânea
+Tempo de Lançamento: 3
+Área de efeito: linha de 60 metros
+Jogada de Salvamento: Especial
+
+Um raio azul-branco de ar gélido e gelo brota da mão do conjurador. O raio inflige 1d8 pontos de dano por frio por nível do conjurador a qualquer criatura atingida pelo raio, e congela a criatura no lugar por um turno. Um teste bem-sucedido contra magia com uma penalidade de -2 reduz à metade o dano e anula o efeito de congelamento."
+@15="Congelado no lugar."
+@16="Não está mais congelado"
+
+
+@17="Tempestade Telecinética"
+@18="Tempestade Telecinética
+(Alteração)
+
+Nível: 8
+Alcance: Alcance visual do conjurador
+Duração: Instantânea
+Tempo de Lançamento: 8
+Área de efeito: raio de 15 pés
+Jogada de Salvamento: 1/2
+
+Uma tempestade de energia telecinética intensa irrompe em um ponto especificado pelo conjurador. Os aliados na tempestade não são afetados, mas os inimigos do conjurador são arremessados e dilacerados pela descarga, sofrendo 1d6 pontos de dano mágico por nível, com um teste de resistência para reduzir pela metade o dano."
+
+@19="Combustão"
+@20="Combustão
+(Evocação)
+
+Nível: 2
+Alcance: Toque
+Duração: especial
+Tempo de Lançamento: 2
+Área de efeito: 1 criatura
+Jogada de Salvamento: especial
+
+Esse feitiço transforma uma criatura inflamável em chamas.
+
+Se o alvo for uma criatura, a erupção inicial de chama causa 3d6 pontos de dano de fogo, mais um adicional de 1d6 pontos por dois níveis de conjurador (máximo de 8d6) sem direito a teste de resistência. Além disso, a criatura deve fazer um teste contra magia ou pegar fogo, sofrendo mais 1d8 de dano a cada rodada. A criatura faz um novo teste de resistência ao final de cada rodada para apagar as chamas."
+
+@21="Faca de gelo"
+@22="Faca de gelo
+(Evocação)
+
+Nível: 1
+Alcance: Alcance visual do conjurador
+Duração: Instantânea
 Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+Área de Efeito: raio de 1,5 pés ao redor de 1 criatura
+Jogada de Salvamento: especial
 
-When this spell is cast, the caster calls up a small Earth Elemental and merges <PRO_HISHER> form with it, gaining a portion of its strength and resilience. As long as the spell is in effect, the caster receives a +2 bonus to Armor Class. The elemental energies can be discharged at any time in a powerful punch, directed at any creature adjacent to the caster. The punch automatically hits and does 1d6 points of crushing damage plus 1d6 per two levels (to a maximum of 6d6 at 10th level), and the target must make a save vs. spell or be stunned for 1 round. Discharging the spell in this way ends it. The punch does not count as a magical weapon."
+Ao conjurar este feitiço, um fragmento de gelo elemental aparece na mão do conjurador e voa infalivelmente até seu alvo. O fragmento causa 1d4 de dano perfurante e então explode em um jato de gelo em um raio de 1,5 metros. Todas as criaturas atingidas pelo jato sofrem 1d4 pontos de dano de frio, aumentando em 1d4 a cada dois níveis do conjurador, até um máximo de 5d4 no 9º nível, e podem fazer um teste de resistência contra magias para reduzir o dano pela metade."
 
-@7="Stone Fist"
+@41="Telecinese"
+@42="Telecinese
+(Alteração)
 
-@8="You are currently channelling the power of a minor earth elemental.
+Nível: 5
+Alcance: Alcance visual do conjurador
+Duração: 3 segundos
+Tempo de Lançamento: 5
+Área de Efeito: Todos os inimigos dentro de 1,5 pés da criatura alvo.
+Jogada de Salvamento: Nenhuma 
 
-STATISTICS:
+Por meio deste feitiço, o conjurador pode arremessar telecineticamente todas as criaturas hostis dentro de uma pequena região diretamente para longe de si em alta velocidade, causando 3d8 pontos de dano por esmagamento e deixando as criaturas inconscientes por alguns segundos, a menos que elas tenham sucesso ao salvar contra feitiços com uma penalidade de -2. O feitiço é ineficaz contra qualquer criatura do tamanho de um ogro ou maior e, devido à interação do campo telecinético com a matéria sólida circundante, não pode ser utilizado para lançar criaturas de falésias ou em terrenos intransponíveis."
 
-Equipped abilities:
-– Armor Class: +2
+@50="Criar Guarda-ósseo"
+@51="Criar Guarda-ósseo 
+(Necromancia)
 
-THAC0: Hits automatically
-Damage: 1d6 + 1d6 per two levels (maximum 6d6)
-Damage type: crushing
-Speed Factor: 0
-Special: the spell ends once you make an attack
+Nível: 9
+Alcance: 20 pés.
+Duração: 8 rodadas + 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Weight: 0"
-@9="Turn Pebble to Boulder"
-@10="Turn Pebble to Boulder
-(Alteration)
-
-Level: 3
-Range: 0
-Duration: Permanent until thrown or dispelled
-Casting Time: 3
-Area of Effect: The caster
-Saving Throw: None
-
-The caster enchants a tiny pebble so that when hurled at an enemy, it grows and increases in speed, becoming a deadly boulder that inflicts 3d8 points of crushing damage if it hits its target. The boulder has an attack bonus of +1 per level of the caster, and can affect protected creatures as if it were a +2 weapon. Human-size or smaller creatures struck by the boulder will be knocked to the ground by the force of the impact.
-
-The caster may enchant one further pebble per three levels above 5th, to a maximum of six pebbles at level 20."
-@11="Pebble"
-@12="This pebble is enchanted to transform into a boulder in flight.
-
-STATISTICS:
-
-THAC0: + caster level (max.20)
-Damage: 3d8
-Damage type: Crushing
-Speed Factor: 0
-
-Weight: 0"
-@13="Veridon's Icy Ray"
-@14="Veridon's Icy Ray
-(Evocation)
-
-Level: 9
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 3
-Area of Effect: 60 ft. line
-Saving Throw: Special
-
-A blue-white ray of freezing air and ice springs from the caster's hand. The ray inflicts 1d8 points of cold damage per level of the caster to any creature caught in the ray, and freezes the creature in place for one round. A successful save vs. spell at a -2 penalty halves the damage and negates the freezing effect."
-@15="Frozen in place"
-@16="No longer frozen"
-
-
-@17="Telekinetic Storm"
-@18="Telekinetic Storm
-(Alteration)
-
-Level: 8
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 8
-Area of Effect: 15-ft. radius
-Saving Throw: 1/2
-
-A storm of intense telekinetic energy erupts at a point specified by the caster. Allies in the storm are unaffected, but the caster's enemies are blasted and torn by the discharge, taking 1d6 points of magic damage per level with a saving throw for half damage."
-
-@19="Combust"
-@20="Combust
-(Evocation)
-
-Level: 2
-Range: Touch
-Duration: special
-Casting Time: 2
-Area of Effect: 1 creature
-Saving Throw: special
-
-This spell makes a combustible creature burst into flame.
-
-If the target is a creature, the initial eruption of flame causes 3d6 points of fire damage, plus an additional 1d6 points per two caster levels (maximum 8d6) with no saving throw. Further, the creature must make a save vs. spells or catch fire, taking a further 1d8 damage per round. The creature receives a further saving throw at the end of each round to extinguish the flame."
-
-@21="Ice Knife"
-@22="Ice Knife
-(Evocation)
-
-Level: 1
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 1
-Area of Effect: 5-ft. radius around 1 creature
-Saving Throw: special
-
-Upon casting this spell, a shard of elemental ice appears in the caster's hand and flies unerringly to its target. The shard inflicts 1d4 piercing damage and then bursts in a 5-foot-radius spray of ice. All creatures caught in the spray take 1d4 points of cold damage, increasing by 1d4 per two levels of the caster to a maximum of 5d4 at 9th level, and may save vs. spells for half damage."
-
-@41="Telekinesis"
-@42="Telekinesis
-(Alteration)
-
-Level: 5
-Range: Visual range of the caster
-Duration: 3 seconds
-Casting Time: 5
-Area of Effect: All enemies within 5ft. of target creature
-Saving Throw: Neg.
-
-By means of this spell, the caster can telekinetically hurl all hostile creatures within a small region directly away from <PRO_HIMHER>self at high speed, inflicting 3d8 points of crushing damage and knocking the creatures unconscious for a few seconds, unless they save vs. spells at a -2 penalty. The spell is ineffective against any creature of ogre size or larger, and - due to the interaction of the telekinetic field with surrounding solid matter - cannot be used to propel creatures off cliffs or into impassable terrain."
-
-@50="Create Boneguard"
-@51="Create Boneguard
-(Necromancy)
-
-Level: 9
-Range: 20 ft.
-Duration: 8 rounds + 1 round/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
-
-With the casting of this spell, the wizard calls forth 1d2 boneguards. These undead monstrosities appear within spell range and can be commanded to attack the caster's opponents until the spell duration expires or the monsters are destoyed."
-@52="Boneguard"
+Com a conjuração desse feitiço, o mago invoca 1d2 guardas ósseos. Essas monstruosidades mortas-vivas aparecem dentro do alcance do feitiço e podem ser comandadas para atacar os oponentes do conjurador até que a duração do feitiço expire ou até que os monstros sejam destruídos."
+@52="Guarda-ósseo "
 

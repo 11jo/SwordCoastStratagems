@@ -87,7 +87,7 @@
 
 @211="Ust Natha é defendida por dois grupos desorganizados de drows e uma força de elite de magos e clérigos."
 @212="Ust Natha é defendida por quatro grupos desorganizados de drows e uma força de elite composta de magos e clérigos."
-@213="Ust Natha é defendida por quatro grupos desorganizados, uma festa de guerra organizada e três grupos de elite."
+@213="Ust Natha é defendida por quatro grupos desorganizados, um grupo de guerra organizado e três grupos de elite."
 @214="Ust Natha é defendida por quatro grupos desorganizados, três grupos de guerra organizados, um grupo de elite de magos e uma Matrona mãe com aliados demoníacos."
 @215="Ust Natha é defendida por quatro grupos desorganizados, sete grupos de guerra organizados, dois grupos de elite de magos e clérigos, um grupo de elite de magos e uma Matrona Mãe com aliados demoníacos."
 
@@ -285,15 +285,15 @@
 @1133="Inimigos agora usam todos os seus poderes de forma eficaz; um pequeno número recebe um aumento nos pontos de vida. O número de alguns inimigos é aumentado. Usuários de magia lançam feitiços mais agressivamente antecipadamente."
 @1134="Vários inimigos recebem aumentos adicionais em suas habilidades e em seus números; os conjuradores lançam feitiços agressivamente antes do combate."
 @1135="Inimigos têm todos os benefícios da dificuldade Insano, além de um número significativamente maior de Pontos de Vida, THAC0 aprimorado, melhores testes de resistência e mais ataques por rodada. Qualquer conjurador suficientemente poderoso usará Habilidades de Nível Elevado. Aviso: Legado de Bhaal só pode ser selecionado no início do jogo e, uma vez selecionado, não pode ser alterado!"
-@1136="A festa obtém todos os benefícios da dificuldade básica e eles não podem morrer em combate."
+@1136="A equipe obtém todos os benefícios da dificuldade básica e eles não podem morrer em combate."
 
 
 // strings 2000-2999 reserved for short-version descriptions (must be 1000+long-version descriptions)
-@2040=~MAGO GENERAL~
-@2041=~MAGO PRECAST~
+@2040=~MAGO EM GERAL~
+@2041=~MAGO PRÉ-LANÇADO~
 @2042=~MAGO HLAS~
-@2043=~SACERDOTE GENERAL~
-@2044=~SACERDOTE PRECAST~
+@2043=~SACERDOTE EM GERAL~
+@2044=~SACERDOTE PRÉ-LANÇADO~
 @2045=~SACERDOTE HLAS~
 @2046=~DIVERSOS~
 @2047=~DEMÔNIOS/CELESTIAIS~

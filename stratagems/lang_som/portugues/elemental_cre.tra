@@ -1,132 +1,132 @@
-@1="Drowning"
-@2="Drenched"
-@3="Air Elemental Whirlwind"
-@4="Burning"
-@5="Conjure Lesser Water Elemental"
+@1="Afogamento"
+@2="Encharcado"
+@3="Redemoinho Elemental do Ar"
+@4="Queimando"
+@5="Conjurar Elemental da Água Menor"
 
 
-@6="Conjure Fire Elemental
-(Conjuration/Summoning)
+@6="Conjurar Elemental de Fogo
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-This spell allows the caster to summon a powerful elemental from the Elemental Plane of Fire and bind it to <PRO_HISHER> will. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
-@7="Conjure Earth Elemental
-(Conjuration/Summoning)
+Este feitiço permite ao conjurador invocar um poderoso elemental do Plano Elemental do Fogo e vinculá-lo à sua vontade. Há 60% de chance de aparecer um elemental de 12 Hit Dice, 35% de chance de aparecer um elemental de 16 Hit Dice e 5% de chance de aparecer um elemental de 24 Hit Dice. Este elemental lutará em nome do conjurador até que a duração do feitiço expire ou até que o elemental seja destruído."
+@7="Conjurar Elemental de Terra
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma 
 
-This spell allows the caster to summon a powerful elemental from the Elemental Plane of Earth and bind it to <PRO_HISHER> will. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
-@8="Conjure Air Elemental
-(Conjuration/Summoning)
+Esta magia permite ao conjurador invocar um poderoso elemental do Plano Elemental da Terra e vinculá-lo à sua vontade. Há 60% de chance de aparecer um elemental de 12 dados de vida, 35% de chance de aparecer um elemental de 16 dados de vida e 5% de chance de aparecer um elemental de 24 dados de vida. Este elemental lutará em nome do conjurador até que a duração da magia expire ou o elemental seja destruído."
+@8="Conjurar Elemental de Ar
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-This spell allows the caster to summon a powerful elemental from the Elemental Plane of Air and bind it to <PRO_HISHER> will. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
-@9="Conjure Water Elemental
-(Conjuration/Summoning)
+Este feitiço permite que o conjurador invoque um poderoso elemental do Plano Elemental do Ar e o ligue à sua vontade. Há 60% de chance de que um elemental de 12 dados de vida apareça, 35% de chance de que um elemental de 16 dados de vida apareça e 5% de chance de que um elemental de 24 dados de vida apareça. Esse elemental lutará em nome do conjurador até que a duração do feitiço expire ou o elemental seja destruído."
+@9="Conjurar Elemental de Água
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-This spell allows the caster to summon a powerful elemental from the Elemental Plane of Water and bind it to <PRO_HISHER> will. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
-@10="Lesser Water Elemental"
+Este feitiço permite que o conjurador invoque um poderoso elemental do Plano Elemental da Água e o ligue à sua vontade. Há 60% de chance de aparecer um elemental de 12 dados de vida, 35% de chance de aparecer um elemental de 16 dados de vida e 5% de chance de aparecer um elemental de 24 dados de vida. Este elemental irá lutar em nome do conjurador até que a duração do feitiço expire ou o elemental seja destruído."
+@10="Elemental da Água Menor"
 
-@11="Conjure Fire Elemental
-(Conjuration/Summoning)
+@11="Conjurar Elemental do Fogo
+(Conjuração/Invocação)
 
-Level: 6
-Sphere: Elemental (Fire), Summoning
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Esfera: Elemental (Fogo), Invocação
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Upon casting a Conjure Fire Elemental spell, the caster opens a special gate to the Elemental Plane of Fire, and a fire elemental is summoned in the vicinity of the caster. There is a 60% chance that a 12-Hit-Dice elemental appears; a 35% chance that a 16-Hit-Dice elemental appears; and a 5% chance that a 24-Hit-Dice elemental appears. The elemental will obey the commands of the priest, but the priest does not have to concentrate on it to control it, leaving <PRO_HIMHER> free to perform other actions while the fire elemental turns its enemies to cinders. The elemental will last until the spell duration expires or the elemental is slain."
-@12="Conjure Earth Elemental
-(Conjuration/Summoning)
+Ao conjurar o feitiço Elemental de Fogo, o conjurador abre um portão especial para o Plano Elemental do Fogo, e um elemental de fogo é invocado nas proximidades do conjurador. Há 60% de chance de que apareça um elemental com 12 dados de vida, 35% de chance de que apareça um elemental com 16 dados de vida e 5% de chance de que apareça um elemental com 24 dados de vida. O elemental obedecerá aos comandos do sacerdote, mas o sacerdote não precisa se concentrar nele para controlá-lo, deixando-o livre para realizar outras ações enquanto o elemental de fogo reduz seus inimigos a cinzas. O elemental durará até que a duração do feitiço expire ou até que o elemental seja morto."
+@12="Conjurar Elemental da Terra
+(Conjuração/Invocação)
 
-Level: 7
-Sphere: Elemental (Earth), Summoning
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 7
+Esfera: Elemental (Terra), Invocação
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Upon casting a Conjure Earth Elemental spell, the caster opens a special gate to the Elemental Plane of Earth, and an earth elemental is summoned in the vicinity of the caster. There is a 70% chance that a 16-Hit-Dice elemental appears and a 30% chance that a 24-Hit-Dice elemental appears. The elemental will obey the commands of the priest, but the priest does not have to concentrate on it to control it, leaving <PRO_HIMHER> free to perform other actions while the earth elemental pounds <PRO_HISHER> enemies into gravel. The elemental will last until the spell duration expires or the elemental is slain."
-@13="Conjure Water Elemental
-(Conjuration/Summoning)
+Ao lançar o feitiço Conjuramento de Elemental da Terra, o conjurador abre um portão especial para o Plano Elemental da Terra, e um elemental da terra é invocado nas proximidades do conjurador. Existe 70% de chance de um elemental de 16 dados de vida aparecer e 30% de chance de um elemental de 24 dados de vida aparecer. O elemental obedecerá aos comandos do sacerdote, mas o sacerdote não precisa se concentrar nele para controlá-lo, deixando-o livre para realizar outras ações enquanto o elemental da terra esmaga os inimigos em cascalho. O elemental durará até que a duração do feitiço expire ou até que o elemental seja abatido."
+@13="Conjurar Elemental da Água
+(Conjuração/Invocação)
 
-Level: 6
-Sphere: Elemental (Water), Summoning
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Esfera: Elemental (Água), Invocação
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Upon casting a Conjure Water Elemental spell, the caster opens a special gate to the Elemental Plane of Water, and a water elemental is summoned in the vicinity of the caster. There is a 60% chance that a 12-Hit-Dice elemental appears; a 35% chance that a 16-Hit-Dice elemental appears; and a 5% chance that a 24-Hit-Dice elemental appears. The elemental will obey the commands of the priest, but the priest does not have to concentrate on it to control it, leaving <PRO_HIMHER> free to perform other actions while the water elemental turns its enemies to sodden shreds. The elemental will last until the spell duration expires or the elemental is slain."
-@14="Conjure Air Elemental
-(Conjuration/Summoning)
+Ao lançar o feitiço Conjuramento de Elemental da Água, o conjurador abre um portal especial para o Plano Elemental da Água, e um elemental da água é convocado nas proximidades do conjurador. Há 60% de chance de aparecer um elemental com 12 Hit Dices; 35% de chance de aparecer um elemental com 16 Hit Dices; e 5% de chance de aparecer um elemental com 24 Hit Dices. O elemental obedecerá aos comandos do sacerdote, mas o sacerdote não precisa se concentrar nele para controlá-lo, deixando-o livre para realizar outras ações enquanto o elemental da água desfaz os inimigos em trapos encharcados. O elemental durará até que a duração do feitiço expire ou o elemental seja morto."
+@14="Conjurar Elemental do Ar
+(Conjuração/Invocação)
 
-Level: 7
-Sphere: Elemental (Air), Summoning
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 7
+Esfera: Elemental (Ar), Invocação
+Alcance: Alcance visual do conjurador
+Duração: 1 turno/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Upon casting a Conjure Air Elemental spell, the caster opens a special gate to the Elemental Plane of Air, and an air elemental is summoned in the vicinity of the caster. There is a 70% chance that a 16-Hit-Dice elemental appears and a 30% chance that a 24-Hit-Dice elemental appears. The elemental will obey the commands of the priest, but the priest does not have to concentrate on it to control it, leaving <PRO_HIMHER> free to perform other actions while the air elemental blasts and buffets <PRO_HISHER> enemies to shreds. The elemental will last until the spell duration expires or the elemental is slain."
+Ao conjurar o feitiço Invocar Elemental do Ar, o conjurador abre um portal especial para o Plano Elemental do Ar e um elemental do ar é invocado nas proximidades do conjurador. Existe 70% de chance de aparecer um elemental com 16 dados de vida e 30% de chance de aparecer um elemental com 24 dados de vida. O elemental obedecerá aos comandos do sacerdote, mas o sacerdote não precisa se concentrar nele para controlá-lo, deixando-o livre para realizar outras ações enquanto o elemental do ar ataca e atormenta seus inimigos. O elemental permanecerá até que a duração do feitiço expire ou o elemental seja morto."
 
 
-@15="Greater Air Elemental"
-@16="Greater Earth Elemental"
-@17="Greater Fire Elemental"
-@18="Greater Water Elemental"
+@15="Elemental do Ar Maior"
+@16="Elemental de Terra Maior"
+@17="Elemental de Fogo Maior"
+@18="Elemental da Água Maior"
 
-@19="Elder Air Elemental"
-@20="Elder Earth Elemental"
-@21="Elder Fire Elemental"
-@22="Elder Water Elemental"
+@19="Elemental de Ar Ancião"
+@20="Elemental de Terra Ancião"
+@21="Elemental de Fogo Ancião"
+@22="Elemental da Água Ancião"
 
-@23="Conjure Air Elemental"
-@24="Conjure Water Elemental"
+@23="Conjurar Elemental do Ar"
+@24="Conjurar Elemental da Água"
 
-@25="Elemental Swarm"
-@26="Elemental Swarm
+@25="Enxame Elemental"
+@26="Enxame Elemental
 
-Level: Quest
-Range: 30 ft.
-Duration: 1 turn
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: Missão
+Alcance: 30 pés.
+Duração: 1 turno
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Drawing power from the environment, this spell summons 4 16-HD elementals - one each from earth, air, fire, or water. The elementals stay for 1 turn and will obey the caster as long as they remain summoned."
+Obtendo poder do ambiente, este feitiço convoca 4 elementais de 16 HD - um de cada elemento da terra, ar, fogo ou água. Os elementais permanecem por 1 turno e obedecerão ao conjurador enquanto permanecerem invocados."
 
-@27="Lesser Air Elemental"
-@28="Lesser Earth Elemental"
-@29="Lesser Fire Elemental"
-@30="Wind Blast"
+@27="Elemental do Ar Menor"
+@28="Elemental de Terra Menor"
+@29="Elemental de Fogo Menor"
+@30="Rajada de vento"

@@ -1,0 +1,83 @@
+
+@1=~Praga de insetos~
+@2=~<Invalid Strref -1>~
+@3=~Praga de insetos 
+(Conjuração/Invocação)
+
+Esfera: Combate
+Nível: 5
+Alcance: 360 metros.
+Duração: 6 rodadas
+Tempo de Lançamento: 5
+Área de efeito: raio de 15 metros 
+Jogada de Salvamento: Especial
+
+Quando este feitiço é lançado pelo sacerdote, uma horda de insetos rastejantes, pulantes e voadores se reúne e enxameia. Este enxame salta primeiro para o alvo inimigo, depois para os aliados mais próximos do alvo, afetando até 6 criaturas. Conjurar feitiços dentro do enxame é impossível (100% de chance de falha no feitiço). Criaturas no flagelo de insetos sofrem 1 ponto de dano a cada 2 segundos que permanecem dentro, independentemente de sua Classe de Armadura, devido às mordidas e picadas dos insetos. A invisibilidade não oferece proteção. Devido à natureza sufocante do enxame de insetos retorcidos, cada vítima deve fazer um teste de resistência contra sopro ou fugir com medo por 1 rodada.~
+@4=~<Invalid Strref 9999999>~
+@5=~Pânico~
+@6=~Destruição Rastejante~
+@7=~Destruição Rastejante
+(Conjuração/Invocação)
+
+Nível: 7
+Esfera: Animal, Invocação 
+Alcance: 240 metros.
+Duração: 3 rodadas
+Tempo de Lançamento: 5
+Área de efeito: Especial
+jogada de salvamento: Especial
+
+Quando o conjurador pronuncia a magia Praga Arrastante, ele evoca uma massa de aracnídeos, insetos e miriápodes venenosos, mordedores e picadores. Essa massa semelhante a um tapete se espalha por uma grande área, atingindo todas as criaturas inimigas dentro de 30 pés do alvo. Aquelas que forem capturadas pelos insetos sofrem 2 pontos de dano a cada segundo e uma taxa de falha de feitiço de 100%. Para cada rodada em que a vítima permanecer dentro da nuvem, ela deve fazer um teste de resistência contra magia com uma penalidade de -2 ou fugir em pânico por uma rodada. A vantagem do Praga Arrastante sobre a sua contraparte de 5º nível, Praga de Insetos, é que ele causa o dobro de dano em metade do tempo.~
+@8=~Espada Mágica~
+@9=~Espada Mágica~
+@10=~Atordoar~
+@11=~Atordoado~
+@12=~Dormir~
+@13=~Surdo~
+@14=~Cego~
+@15=~Cego~
+@16=~Petrificado~
+@17=~Doente~
+@18=~Atingido por uma doença repugnante~
+@19=~Dominado~
+@20=~Encantamento Terrível~
+@21=~Encantar~
+@22=~Pânico~
+@23=~Mantido~
+@24=~Pensamento Rígido~
+@25=~Confusão~
+@26=~<NO TEXT>~
+@27=~Espada de Mordenkainen~
+@28=~Espada de Mordenkainen~
+@29=~Veneno~
+@30=~Envenenado~
+@31=~Amuleto~
+@32=~Amuleto de Pedra Verde~
+@33=~Amuletos são geralmente dispositivos mágicos comumente usados ao redor do pescoço, suspensos por uma corrente. O tipo de corrente que acompanha um amuleto geralmente aumenta o valor estético do item, e não suas propriedades mágicas. Apenas um amuleto pode ser pendurado no pescoço de cada vez.
+
+ESTATISTICAS:
+
+Peso: 1~
+@34=~Este amuleto contém uma pedra verde inserida em uma montagem de ouro. Quando ativado, a pedra verde protege o usuário de todos os tipos de ataques mentais, incluindo psíquicos. (Observação: Isso não confere IMUNIDADE COMPLETA aos ataques psíquicos.)
+
+ESTATISTICAS:
+
+Habilidades de carga:
+– Imunidade a encantar pessoa, confusão, medo, dominação, percepção extra-sensorial, detectar alinhamento, imobilização, atordoamento, psíquico, sono e Imbecilidade 
+  Duração: 1 turno
+
+Peso: 1~
+@35=~Devorar cérebro~
+@36=~Modificação de inteligência~
+@37=~Espada de Mordenkainen~
+@38=~Espada de Mordenkainen
+(Evocação)
+
+Nível: 7
+Alcance: 0
+Duração: 1 rodada/nível
+Tempo de Lançamento: 7
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Ao conjurar este feitiço, o mago invoca um plano de força reluzente, semelhante a uma espada, que salta para as mãos do mago. A espada age como uma arma +4 em todos os aspectos e causa 5d4 pontos de dano ao atingir um alvo. Após a conjuração do feitiço, a espada flutuará no ar completamente sob o controle do conjurador. Isso não impede o conjurador de realizar outras ações durante a duração do feitiço.~

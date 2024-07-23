@@ -1,15 +1,15 @@
-@701="Faerie Fire"
-@702="Faerie Fire
-(Alteration)
+@701="Fogo Feérico"
+@702="Fogo Feérico
+(Alteração)
 
-Level: 1
-Sphere: Weather
-Range: Visual range of the caster
-Duration: 4 rounds/level
-Casting Time: 4
-Area of Effect: 1 creature
-Saving Throw: None
+Nível: 1
+Esfera: Clima
+Alcance: Alcance visual do conjurador
+Duração: 4 rodadas/nível
+Tempo de Lançamento: 4
+Área de efeito: 1 criatura
+Teste de resistência: Nenhuma
 
-This spell outlines its target with a pale violet glow, making positions and movements easily visible. Outlined creatures are easier to strike, giving them an Armor Class penalty of -2. Faerie Fire has no effect in full daylight."
+Este feitiço contorna seu alvo com um brilho violeta pálido, tornando suas posições e movimentos facilmente visíveis. As criaturas contornadas são mais fáceis de atingir, recebendo uma penalidade de -2 na Classe de Armadura. O Fogo das Fadas não tem efeito em plena luz do dia."
 
-@705="Faerie Fire is ineffective in daylight."
+@705="O Fogo Feérico é ineficaz durante à luz do dia."

@@ -1,94 +1,94 @@
 
-@1 = "Detect Good"
-@2 = "This spell discovers emanations of good from any creature. Any good creature within the range of the spell will glow green briefly."
+@1 = "Detectar o Bem"
+@2 = "Este feitiço descobre as emanações de bondade de qualquer criatura. Qualquer criatura boa dentro do alcance do feitiço irá brilhar brevemente de cor verde."
 
-@3 = ~Faerie Fire~
-@4 = ~Faerie Fire
-(Alteration)
+@3 = ~Fogo Feérico~
+@4 = ~Fogo Feérico
+(Alteração)
 
-Level: 1
-Sphere: Weather
-Range: Visual range of the caster
-Duration: 4 rounds + 1 round/5 levels
-Casting Time: 4
-Area of Effect: 1 Creature
-Saving Throw: None
+Nível: 1
+Esfera: Clima
+Alcance: Alcance visual do conjurador
+Duração: 4 rodadas + 1 rodada/5 níveis
+Tempo de Lançamento: 4
+Área de efeito: 1 criatura
+Teste de resistência: Nenhuma
 
-Faerie Fire outlines the target creature with a pale glow, making its position and movements easily visible. The net effect is an armor class penalty of -2 to the target.~
+Fogo Feérico destaca a criatura alvo com um brilho pálido, tornando sua posição e movimentos facilmente visíveis. O efeito líquido é uma penalidade de -2 na classe de armadura do alvo.~
 
-@173 = ~Resist Acid and Corrosion~
-@174 = ~Resist Acid and Corrosion
-(Abjuration)
+@173 = ~Resistência a Ácido e Corrosão~
+@174 = ~Resistência a Ácido e Corrosão
+(Abjuração)
 
-Level: 2
+Nível: 2
+Esfera: Proteção
+Alcance: Toque
+Duração: 1 rodada/nível
+Tempo de Lançamento: 5
+Área de efeito: 1 criatura
+Teste de resistência: Nenhuma
+
+Este feitiço proporciona ao alvo uma melhor resistência a ácido, corrosivos e substâncias cáusticas de todos os tipos, como o sopro de dragão negro, a Flecha Ácida de Melf e os ataques naturais de várias poças, limos, baba e geleias. Tais substâncias causam apenas metade do dano normal ao personagem protegido.~
+@175 = ~Força da Pedra~
+@176 = ~Força da Pedra
+(Evocação)
+
+Nível: 1
+Esfera: Elemental (terra)
+Alcance: 0
+Duração: 3 rodadas + 1 rodada/nível
+Tempo de Lançamento: 4
+Área de efeito: O conjurador
+Teste de resistência: Nenhuma
+
+Este feitiço canaliza poder elemental para o conjurador, concedendo a ele um bônus de +4 em força. No entanto, enquanto o feitiço estiver ativo, a velocidade do conjurador é reduzida em 50%.~
+
+@194 = ~Detectar o Bem~
+@195 = ~Detectar o Bem
+(Adivinhação)
+
+Nível: 1
+Esfera: Adivinhação
+Alcance: Alcance visual do Lançador 
+Duração: Instantânea
+Tempo de Lançamento: 2
+Área de efeito: Alcance visual do conjurador
+Teste de resistência: Nenhuma
+
+Este feitiço descobre as emanações de bondade de qualquer criatura. Qualquer criatura boa dentro do alcance do feitiço irá brilhar brevemente de cor verde.~
+@196 = ~Proteção contra o bem~
+@197 = ~Proteção contra o bem
+(Abjuração)
+
+Nível: 1
 Sphere: Protection
-Range: Touch
-Duration: 1 round/level
-Casting Time: 5
-Area of Effect: 1 creature
-Saving Throw: None
+Alcance: Toque
+Duração: 3 rodadas/nível
+Tempo de Lançamento: 1
+Área de efeito: 1 criatura
+Teste de resistência: Nenhuma
 
-This spell provides a subject with a better resistance to acid, corrosives, and caustic substances of all kinds, such as black dragon breath, Melf's Acid Arrow, and the natural attacks of various puddings, oozes, slimes, and jellies. Such substances inflict only half the normal damage on the protected character.~
-@175 = ~Strength of Stone~
-@176 = ~Strength of Stone
-(Evocation)
+Quando esse feitiço é lançado, ele cria uma barreira mágica ao redor do receptor em uma distância de um pé. A barreira se move com o receptor e tem dois efeitos principais: Primeiro, todos os ataques feitos por criaturas boas ou encantadas pelo bem contra o alvo protegido recebem uma penalidade de -2 em cada rolagem de ataque, e, segundo, quaisquer testes de resistência causados por tais ataques são feitos pelo alvo protegido com um bônus de +2..~
+@198 = ~Proteção Contra Bem em Raio de 10~
+@199 = ~Proteção Contra Bem em Raio de 10
+(Abjuração)
 
-Level: 1
-Sphere: Elemental (earth)
-Range: 0
-Duration: 3 rounds + 1 round/level
-Casting Time: 4
-Area of Effect: The caster
-Saving Throw: None
+Nível: 4
+Esfera: Proteção
+Alcance: Toque
+Duração: 1 turno/nível
+Tempo de Lançamento: 7
+Área de efeito: raio de 10 pés
+Teste de resistência: Nenhuma
 
-This spell channels elemental power into the caster, granting <PRO_HIMHER> a +4 bonus to strength. As long as the spell remains active, however, the caster's speed is reduced by 50%.~
+Quando esse feitiço é lançado, todas as criaturas dentro de um raio de 10 pés são afetadas individualmente por "proteção contra o bem". Ele cria uma barreira mágica ao redor dos beneficiários a uma distância de um pé. A barreira se move com o beneficiário e tem dois efeitos principais: Primeiro, todos os ataques feitos por criaturas boas ou encantadas pelo bem contra o ser protegido recebem uma penalidade de -2 em cada rolagem de ataque, e segundo, quaisquer testes de resistência provocados por tais ataques são feitos pelo ser protegido com um bônus de +2.~
 
-@194 = ~Detect Good~
-@195 = ~Detect Good
-(Divination)
+@201 = ~Protegido contra o Bem~
+@208 = ~Protegido contra o Bem~
 
-Level: 1
-Sphere: Divination
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 2
-Area of Effect: Visual range of the caster
-Saving Throw: None
+@209 = "Proteção diabólica"
+@210 = "Protegido por Proteção Diabólica"
+@211 = "Este feitiço só pode ser lançado por personagens malignos."
+@212 = "Este feitiço não pode ser lançado por personagens malignos."
 
-This spell discovers emanations of good from any creature. Any good creature within the range of the spell will glow green briefly.~
-@196 = ~Protection From Good~
-@197 = ~Protection From Good
-(Abjuration)
-
-Level: 1
-Sphere: Protection
-Range: Touch
-Duration: 3 rounds/level
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: None
-
-When this spell is cast, it creates a magical barrier around the recipient at a distance of one foot. The barrier moves with the recipient and has two major effects: First, all attacks made by good or good-enchanted creatures against the protected creature receive a penalty of - 2 to each attack roll, and second, any saving throws caused by such attacks are made by the protected creature with a +2 bonus.~
-@198 = ~Protection From Good 10' Radius~
-@199 = ~Protection From Good 10' Radius
-(Abjuration)
-
-Level: 4
-Sphere: Protection
-Range: Touch
-Duration: 1 turn/level
-Casting Time: 7
-Area of Effect: 10-ft. radius
-Saving Throw: None
-
-When this spell is cast, all creatures within a 10' radius are affected individually by 'protection from good'. It creates a magical barrier around the recipients at a distance of one foot. The barrier moves with the recipient and has two major effects: First, all attacks made by good or good-enchanted creatures against the protected creature receive a penalty of - 2 to each attack roll, and second, any saving throws caused by such attacks are made by the protected creature with a +2 bonus.~
-
-@201 = ~Protected from Good~
-@208 = ~Protected from Good~
-
-@209 = "Fiendish Warding"
-@210 = "Protected by Fiendish Warding"
-@211 = "This spell may only be cast by evil characters."
-@212 = "This spell may not be cast by evil characters."
-
-@2027 = ~^\(Level:\)\( *.+\)~
+@2027 = ~^\(Nível:\)\( *.+\)~

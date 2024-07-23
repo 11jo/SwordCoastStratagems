@@ -1,0 +1,86 @@
+// should be in UTF8 (no need to HANDLE_CHARSETS since we're EE-only)
+
+@1="Abjuração"
+@2="Conjuração"
+@3="Adivinhação"
+@4="Encantamento"
+@5="Ilusão"
+@6="Invocação"
+@7="Necromancia"
+@8="Alteração"
+
+@20="(Abjuração)"
+@21="(Alteração)"
+@22="(Abjuração, Alteração)"
+@23="(Conjuração/Invocação)"
+@24="(Encantamento/Charme)"
+@25="(Adivinhação)"
+@26="(Evocação)"
+@27="(Alteração, Evocação)"
+
+@31="Ar"
+@32="Terra"
+@33="Fogo"
+@34="Água"
+@35="Força"
+@36="Todos os elementos"
+
+@100="Tempo de lançamento" // should exactly match appropriate header in spell descriptions
+@101="Esfera:" // should exactly match appropriate header in spell descriptions
+@102="(Esta é uma versão sacerdotal de um feitiço normalmente restrito a magos.)"
+@103="(Esta é uma versão de feitiço com elementos de magia normalmente restritos aos sacerdotes.)"
+@104="(Esta é uma versão inata de um feitiço normalmente lançado por sacerdotes.)"
+@105="(Esta é uma versão inata de um feitiço normalmente lançado por magos.)"
+
+@111="nível 1º"
+@112="nível 2º"
+@113="nível 3º"
+@114="nível 4º"
+@115="nível 5º "
+@116="nível 6º"
+@117="nível 7º"
+@118="nível 8º"
+@119="nível 9º"
+@120="Vantagens:" // must exactly match string from kit descriptions
+
+@130="Pode aprender os seguintes feitiços como feitiços de sacerdote:"
+@131="Aprende automaticamente os seguintes feitiços:"
+@132="Adiciona os seguintes feitiços ao livro de feitiços <PRO_HISHER>:"
+@499="Pontos restantes"
+@500="Você pode escolher habilidades para o seu personagem a partir desta lista."
+
+@900="Esfera:"
+@901="Pode aprender feitiços de sacerdote dessas esferas: "
+@910="Pode lançar feitiços druídicos" // should be the first few words of the description of spellcasting for, e.g., rangers and druids
+@911="SFO_NOT_IN_USE_WURBLE" // use this as alternatives to @910 if your language doesn't have consistent strings across classes and games
+@912="SFO_NOT_IN_USE_WURBLE"
+@913="SFO_NOT_IN_USE_WURBLE"
+@914="SFO_NOT_IN_USE_WURBLE"
+@915="SFO_NOT_IN_USE_WURBLE"
+@916="SFO_NOT_IN_USE_WURBLE"
+@917="SFO_NOT_IN_USE_WURBLE"
+@918="SFO_NOT_IN_USE_WURBLE"
+@919="SFO_NOT_IN_USE_WURBLE"
+@950="Pode conjurar feitiços de sacerdote" // should be the first few words of the description of spellcasting for, e.g., paladins and clerics
+@951="SFO_NOT_IN_USE_WURBLE" // use this as alternatives to @950 if your language doesn't have consistent strings across classes and games
+@952="SFO_NOT_IN_USE_WURBLE"
+@953="SFO_NOT_IN_USE_WURBLE"
+@954="SFO_NOT_IN_USE_WURBLE"
+@955="SFO_NOT_IN_USE_WURBLE"
+@956="SFO_NOT_IN_USE_WURBLE"
+@957="SFO_NOT_IN_USE_WURBLE"
+@958="SFO_NOT_IN_USE_WURBLE"
+@959="SFO_NOT_IN_USE_WURBLE"
+
+
+@100010="Pode lançar um feitiço adicional por nível." // must be, verbatim, the string used in the description of specialists (e.g., BG2EE string 9564).
+@100011="(exceto em níveis LEVEL_PLACEHOLDER, Na qual não há feitiços desse tipo)" // do not translate LEVEL_PLACEHOLDER
+@100012="Pode lançar uma magia adicional de nível mago por nível. Essa magia adicional deve ser SCHOOL_PLACEHOLDER" // do not translate SCHOOL_PLACEHOLDER
+@100013="Pode lançar um feitiço adicional de mago por nível. Pelo menos NUMBER_PLACEHOLDER Os feitiços memorizados de cada nível devem ser SCHOOL_PLACEHOLDER" // do not translate SPEC_SPELL_PLACEHOLDER and NUMBER_PLACEHOLDER
+@100014=" (exceto no nível LEVEL_PLACEHOLDER, em qual não há feitiço dessa escola)" // do not translate LEVEL_PLACEHOLDER
+@100015="Isso é do LISTNAME escola"
+@100018="Nível: "
+@100019="A lista completa de SCHOOL_PLACEHOLDER_2 Os feitiços de mago são:"
+@100020="Vantagens:" // must be, verbatim, the appropriate string from class/kit descriptions
+@100021="Selecionar pelo menos 1 SCHOOL_PLACEHOLDER feitiço para prosseguir."
+@100022="Selecione pelo menos NUMBER_PLACEHOLDER SCHOOL_PLACEHOLDER feitiços para prosseguir."

@@ -1,1215 +1,1199 @@
 // @1 is just the IWD version of the description
-@1="Magical Stone
-(Enchantment)
+@1="Pedra Mágica
+(Encantamento)
 
-Level: 1
-Sphere: Combat
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 4
-Area of Effect: 1 creature
-Saving Throw: None
+Nível: 1
+Esfera: Combate
+Alcance: Alcance visual do lançador 
+Duração: Instantânea
+Tempo de Lançamento: 4
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Nenhuma
 
-By using this spell, the priest can temporarily enchant a small pebble, which is then hurled or slung at an opponent. The stone deals 3d4 points of crushing damage to whomever it hits except undead creatures, who take 6d4 points of crushing damage instead. The stone is considered a magical weapon, although it does not have an attack or damage bonus."
+Ao usar este feitiço, o sacerdote pode temporariamente encantar um pequeno seixo, que é então arremessado ou atirado contra um oponente. O seixo causa 3d4 pontos de dano de esmagamento a quem quer que seja atingido, exceto criaturas mortas-vivas, que sofrem 6d4 pontos de dano de esmagamento. O seixo é considerado uma arma mágica, embora não tenha bônus de ataque ou dano."
 
 // @2 is just the IWD version of the description
-@2="Call Lightning
-(Alteration)
+@2="Chamar Raio
+(Alteração)
 
-Level: 3
-Sphere: Weather
-Range: Visual range of the caster
-Duration: 1 round/level, up to 11 rounds
-Casting Time: 9
-Area of Effect: Visual range of the caster
-Saving Throw: 1/2
+Nível: 3
+Esfera: Clima
+Alcance: Alcance visual do lançador 
+Duração: 1 rodada/nível, até 11 rodadas
+Tempo de Lançamento: 9
+Área de Efeito: Alcance visual do lançador 
+Jogada de Salvamento: 1/2
 
-A Call Lightning spell must be cast outside; otherwise, it will not work and the spell is wasted. The caster is able to call down 1 bolt per round per caster level (capped at 11 bolts). Each bolt causes 2d8 points of electrical damage, plus an additional 1d8 points per level of the caster. Thus, a 5th-level caster calls down five 7d8 bolts (2d8 + 5d8). The caster only chooses the first target of the spell, but subsequent bolts will only strike <PRO_HISHER> enemies."
+O feitiço Chamar Raio deve ser lançado do lado de fora; caso contrário, não funcionará e o feitiço será desperdiçado. O conjurador é capaz de invocar 1 raio por rodada por nível do conjurador (limitado a 11 raios). Cada raio causa 2d8 pontos de dano elétrico, mais 1d8 pontos adicionais por nível do conjurador. Assim, um conjurador de nível 5 invoca cinco raios de 7d8 (2d8 + 5d8). O conjurador só escolhe o primeiro alvo do feitiço, mas os raios subsequentes atingirão apenas os inimigos dele."
 
-@3="Protection From Fire
-(Abjuration)
+@3="Proteção contra fogo
+(Abjuração)
 
-Level: 3
-Sphere: Protection
-Range: Touch 
-Duration: 1 turn/level
-Casting Time: 6 
-Area of Effect: 1 creature 
-Saving Throw: None 
+Nível: 3
+Esfera: Proteção
+Alcance: Toque 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 6 
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Nenhuma
 
- When the spell is cast, it confers complete invulnerability to normal fires (torches, bonfires, oil fires, and the like) and to exposure to magical fires (fiery dragon breath, hell hound or pyrohydra breath, spells such as Burning Hands, Fireball, Fire Seeds, Fire Storm, Flame Strike, Meteor Swarm, and so on), absorbing 80% of all the damage dealt by such magical sources."
+ Quando o feitiço é lançado, confere invulnerabilidade completa a fogos normais (tochas, fogueiras, incêndios a óleo e similares) e à exposição a fogos mágicos (sopro de dragão de fogo, hálito de cão do inferno ou piroidra, magias como Mãos Flamejantes, Bola de Fogo, Sementes de Fogo, Tempestade de Fogo, Golpe de Chama, Chuva de Meteoros e assim por diante), absorvendo 80% de todo o dano causado por tais fontes mágicas."
 
-@6="Slay Living
-(Necromancy)
+@6="Matar a vida
+(Necromancia)
 
-Level: 5
-Sphere: Combat
-Range: Touch
-Duration: Instant
-Casting Time: 9
-Area of Effect: 1 creature
-Saving Throw: Special
+Nível: 5
+Esfera: Combate
+Alcance: Toque
+Duração: Instantânea
+Tempo de Lançamento: 9
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Especial
 
-This spell forces the target to Save vs. Death or be instantly killed. If the Saving Throw is successful, the target takes 2d6+9 points of magic damage instead. Note that a character struck with a Slay Living spell can still be raised from the dead with a Raise Dead or Resurrection spell."
+Este feitiço força o alvo a fazer uma jogada de salvamento contra a morte ou será instantaneamente morto. Se a Jogada de Salvamento for bem-sucedido, o alvo sofrerá 2d6+9 pontos de dano mágico. Note que um personagem atingido por um feitiço de Matar Monstro ainda pode ser ressuscitado com um feitiço de Ressurreição ou Reviver os Mortos."
 
-@7="Blade Barrier
-(Evocation)
+@7="Barreira de Lâminas
+(Evocação)
 
-Level: 6
-Sphere: Guardian, Creation
-Range: 0
-Duration: 1 turn
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: 1/2
+Nível: 6
+Esfera: Guardião, Criação
+Alcance: 0
+Duração: 1 turno
+Tempo de Lançamento: 9
+Área de Efeito: Especial
+Jogada de Salvamento: 1/2
 
-The priest employs this spell to set up a wall of circling, razor-sharp blades. These whirl and flash around the caster, creating an impenetrable barrier. Any creature attempting to pass through the Blade Barrier suffers 8d8 points of damage, with a saving throw vs. spell for half damage. The barrier remains for 1 turn."
+O sacerdote usa este feitiço para criar uma parede de lâminas circulantes e afiadíssimas. Elas giram e brilham ao redor do conjurador, criando uma barreira impenetrável. Qualquer criatura que tente atravessar a Barreira de Lâminas sofre 8d8 pontos de dano, e pode realizar uma Jogada de Salvamento contra feitiço para reduzir pela metade o dano. A barreira permanece por 1 turno."
 
-@8="Globe of Blades
-(Evocation)
+@8="Globo de Lâminas
+(Evocação)
 
-Level: Quest
-Sphere: Guardian, Creation
-Range: 0
-Duration: 1 turn
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: 1/2
+Nível: Missão
+Esfera: Guardião, Criação
+Alcance: 0
+Duração: 1 turno
+Tempo de Lançamento: 9
+Área de Efeito: Especial
+Jogada de Salvamento: 1/2
 
-The priest employs this spell to set up a globe of razor-sharp blades. These whirl and flash around the caster, creating a dangerous barrier. Any creature attempting to pass through the blade barrier suffers 10d10 points of damage, or half that if they succeed at a Saving Throw vs. Spell at -2. The barrier remains for 1 turn."
+O sacerdote utiliza este feitiço para criar uma esfera de lâminas afiadas. Elas giram e piscam ao redor do conjurador, criando uma barreira perigosa. Qualquer criatura que tente atravessar a barreira de lâminas sofre 10d10 pontos de dano, ou a metade disso se for bem-sucedida em uma Jogada de Salvamento contra feitiço com uma penalidade de -2. A barreira permanece por 1 turno."
 
 // @9 is a verbatim copy of IWD's description
-@9="Sol's Searing Orb
-(Invocation)
+@9="Orbe Ardente de Sol
+(Invocação)
 
-Level: 6
-Sphere: Sun
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 6
-Area of Effect: 1 creature
-Saving Throw: Special
+Nível: 6
+Esfera: Sol
+Alcance: Alcance visual do lançador 
+Duração: Instantânea
+Tempo de Lançamento: 6
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Especial
 
-This spell allows the caster to hurl a brilliant, searing flash at a target. When it hits, it explodes in a flash of light, doing 6d12 points of fire damage to the target and blinding <PRO_HIMHER> for 3 rounds if a Save vs. Spell is failed. If the Saving Throw is made, the target only takes half damage and is not blinded. Undead creatures are particularly vulnerable to this spell, taking double damage."
+Este feitiço permite que o conjurador arremesse um flash brilhante e ardente em um alvo. Quando atinge, ele explode em um piscar de luz, causando 6d12 pontos de dano de fogo no alvo e cegando-o por 3 rodadas se a Jogada de Salvamento contra Feitiço for falhado. Se o teste for bem-sucedido, o alvo só sofre metade do dano e não fica cego. Criaturas mortas-vivas são particularmente vulneráveis a este feitiço, sofrendo o dobro do dano."
 
 // @10 is a verbatim copy of IWD's description
 
-@10="Color Spray
-(Alteration)
+@10="Spray de Cores
+(Alteração)
 
-Level: 1
-Range: 12 ft.
-Duration: Instant
-Casting Time: 1
-Area of Effect: 29-ft. cone with 90-deg. arc
-Saving Throw: Special
+Nível: 1
+Alcance: 12 metros.
+Duração: Instantânea
+Tempo de Lançamento: 1
+Área de Efeito: cone de 29 metros com arco de 90 graus
+Jogada de Salvamento: Especial
 
-This spell creates a vivid, fan-shaped spray of clashing colors to spring forth from the caster's hand. Creatures within the area are affected in order of increasing distance from the wizard. All creatures in the area above the level of the caster or ones that have greater than 6 Hit Dice must make a Save vs. Spell. The spell's effects depend on the caster—creatures with Hit Dice/levels fewer than or equal to the caster are knocked unconscious (do not awaken when struck) for 5 rounds, those with Hit Dice/levels one or two greater than the wizard are blinded for 3 rounds, and any other creatures are stunned for 1 round.
+Este feitiço cria um spray vívido em forma de leque de cores conflitantes que irrompe da mão do conjurador. Criaturas dentro da área são afetadas em ordem de distância crescente do mago. Todas as criaturas na área acima do nível do conjurador ou com mais de 6 dados de vida devem fazer uma Jogada de Salvamento contra magia. Os efeitos do feitiço dependem do conjurador - criaturas com dados de vida/níveis iguais ou inferiores aos do conjurador são nocauteadas (não acordam quando atingidas) por 5 rodadas, aquelas com dados de vida/níveis um ou dois maiores que o do mago ficam cegas por 3 rodadas e todas as outras criaturas ficam atordoadas por 1 rodada.
 
-Blind creatures are unaffected by the color spray."
+Criaturas cegas não são afetadas pelo jato de cores."
 
 // @11 is a verbatim copy of IWD's description
 
-@11="Shocking Grasp
-(Alteration)
+@11="Toque Chocante
+(Alteração)
 
-Level: 1
-Range: Touch
-Duration: Instant
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: None
+Nível: 1
+Alcance: Toque
+Duração: Instantânea
+Tempo de Lançamento: 1
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Nenhum
 
-When the wizard touches a creature while this spell is in effect, an electrical charge will deal 1d8 + 1/level points of damage to the creature. For example, a 5th-level wizard will deal 1d8+5 points of electrical damage. The wizard only has one charge, and once an opponent has been touched, the spell's energies have been used. The spell always hits unless the wizard is disrupted."
+Quando o mago toca em uma criatura enquanto este feitiço está em efeito, uma carga elétrica inflige 1d8 + 1 ponto de dano por nível à criatura. Por exemplo, um mago de 5º nível irá infligir 1d8+5 pontos de dano elétrico. O mago tem apenas uma carga, e uma vez que um oponente é tocado, as energias do feitiço são consumidas. O feitiço sempre acerta, a menos que o mago seja interrompido."
 
-@12="Chromatic Orb
-(Evocation)
+@12="Orbe Cromático
+(Evocação)
 
-Level: 1
-Range: Visual range of the caster
-Duration: Special
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: Special
+Nível: 1
+Alcance: Alcance visual do lançador 
+Duração: Especial
+Tempo de Lançamento: 1
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Especial
 
-This spell creates a 4-inch-diameter sphere that can be hurled unerringly to its target. The orb's effects depend on the level of the wizard:
+Este feitiço cria uma esfera de 4 polegadas de diâmetro que pode ser lançada com precisão em seu alvo. Os efeitos da esfera dependem do nível do mago:
 
-– 1: Inflicts 1d4 magic damage and blinds the target for one round.
-– 2: Inflicts 1d6 fire damage and inflicts pain upon the victim (-1 penalty to Armor Class and THAC0) for one round.
-– 3: Inflicts 1d8 magic damage and burns the victim for 1d3 fire damage.
-– 4: Inflicts 1d10 magic damage and blinds the target for 4 rounds.
-– 5 to 6: Inflicts 1d12 magic damage and stuns the target for 3 rounds.
-– 7 and up: Inflicts 2d8 magic damage and paralyzes the victim for 13 rounds.
+– 1: Causa 1d4 de dano mágico e cega o alvo por uma rodada.
+– 2: Causa 1d6 de dano de fogo e causa dor à vítima (-1 de penalidade na Classe de Armadura e PACA0) por uma rodada.
+– 3: Causa 1d8 de dano mágico e queima a vítima, causando 1d3 de dano de fogo.
+– 4: Causa 1d10 de dano mágico e cega o alvo por 4 rodadas.
+– 5 até 6: Causa 1d12 de dano mágico e atordoa o alvo por 3 rodadas.
+– 7 e acima: Causa 2d8 de dano mágico e paralisa a vítima por 13 rodadas.
 
-There is no saving throw against the damage, but a successful Save vs. Spell negates all other effects."
+Não há resistência contra o dano, mas uma Jogada de Salvamento bem-sucedido contra Magia nega todos os outros efeitos."
 
-@13="Flame Blade
-(Evocation)
+@13="Lâmina de fogo
+(Evocação)
 
-Level: 2
-Sphere: Elemental Fire
-Range: 0
-Duration: 4 rounds + 1 round/level
-Casting Time: 4
-Area of Effect: The caster
-Saving Throw: None
+Nível: 2
+Esfera: Fogo Elemental
+Alcance: 0
+Duração: 4 rodadas + 1 rodada/nível
+Tempo de Lançamento: 4
+Área de efeito: O Lançador
+Jogada de Salvamento: Nenhuma
 
-With this spell, the caster causes a blazing ray of red-hot fire to spring forth from <PRO_HISHER> hand. This blade-like ray is wielded as if it were a scimitar (i.e. it uses the Scimitar proficiency). If the caster successfully hits with the flame blade in melee combat, the creature struck suffers 1d4 points of slashing damage plus 4 points of fire damage, with a further 2 fire damage if the creature is undead. However, it is not a magical weapon in the normal sense of the term, so creatures struck only by magical weapons are not harmed by it."
+Com este feitiço, o conjurador faz uma rajada flamejante de fogo brilhante surgir de sua mão. Esta rajada em forma de lâmina é empunhada como se fosse um cimitarra (ou seja, ela utiliza a proficiência com cimitarras). Se o conjurador acertar com sucesso com a lâmina de chamas no combate corpo a corpo, a criatura atingida sofre 1d4 pontos de dano cortante mais 4 pontos de dano por fogo, com mais 2 pontos de dano por fogo se a criatura for morto-vivo. No entanto, ela não é uma arma mágica no sentido normal do termo, então criaturas atingidas apenas por armas mágicas não são prejudicadas por ela."
 
-@14="Any evil creatures within the area of effect take 1d6 magic damage for every 2 levels of the caster, up to a maximum of 5d6 at level 10; a successful Save vs. Spell halves the damage." // must exactly match the sentence in Holy Smite IWD description
-@15="Any evil creatures within the area of effect take 1d4 magic damage for every level of the caster; a successful Save vs. Spell halves the damage."
-@16="Any creatures of good alignment within the area of effect take 1d6 magic damage for every 2 levels of the caster, up to a maximum of 5d6 at level 10; a successful Save vs. Spell halves the damage." // must exactly match the sentence in Unholy Blight IWD description
-@17="Any creatures of good alignment within the area of effect take 1d4 magic damage for every levels of the caster; a successful Save vs. Spell halves the damage."
-@18="The spell deals 6d8 points of fire damage to the target and any nearby victims, with a Save vs. Spell for half damage." // must exactly match the sentence in Flame Strike IWD description
-@19="The spell deals 1d8 points of fire damage per level of the caster to the target and any nearby victims, with a Save vs. Spell for half damage."
+@14="Quaisquer criaturas maligna dentro da área de efeito sofre 1d6 de dano mágico para cada 2 níveis do conjurador, até um máximo de 5d6 no nível 10; uma Jogada de Salvamento contra Magia bem-sucedido reduz o dano pela metade." // must exactly match the sentence in Holy Smite IWD description
+@15="Quaisquer criaturas malignas dentro da área de efeito sofrem 1d4 de dano mágico para cada nível do conjurador; uma Jogada de Salvamento bem-sucedido contra Magia reduz pela metade o dano."
+@16="Quaisquer criaturas de alinhamento bom dentro da área de efeito sofrem 1d6 de dano mágico para cada 2 níveis do conjurador, até o máximo de 5d6 no nível 10; uma Jogada de Salvamento bem-sucedida contra Magia reduz o dano pela metade." // must exactly match the sentence in Unholy Blight IWD description
+@17="Quaisquer criaturas de alinhamento bom dentro da área de efeito recebem 1d4 de dano mágico para cada nível do conjurador; um teste bem-sucedido contra Magia reduz o dano pela metade."
+@18="O feitiço causa 6d8 pontos de dano de fogo ao alvo e a quaisquer vítimas próximas, com um teste contra magia para receber metade do dano." // must exactly match the sentence in Flame Strike IWD description
+@19="O feitiço causa 1d8 pontos de dano de fogo por nível do conjurador no alvo e em qualquer vítima próxima, com uma Jogada de Salvamento contra magia para metade do dano.."
 
-@20="Ghost Armor
-(Conjuration/Summoning)
+@20="Armadura Fantasma
+(Conjuração/Invocação)
 
-Level: 3
-Range: Touch
-Duration: 1 hour
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: None
+Nível: 3
+Alcance: Toque
+Duração: 1 hora
+Tempo de Lançamento: 1
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Nenhuma
 
-This spell creates a magical field of force with the strength of plate armor (AC 2). It is cumulative with Dexterity effects and, in the case of Fighter/Mages, with the shield bonus. The Ghost Armor spell does not hinder movement, adds no weight or encumbrance, and does not prevent spellcasting. It lasts until dispelled or until the duration runs out."
+Este feitiço cria um campo mágico de força com a resistência de uma armadura de placas (CA 2). Ele é cumulativo com efeitos de Destreza e, no caso de Guerreiros/Magos, com o bônus de escudo. O feitiço Armadura Fantasma não atrapalha o movimento, não adiciona peso ou encargo, e não impede o lançamento de feitiços. Permanece até ser dissipado ou até que a duração acabe."
 
-@21="Ice Storm
-(Evocation)
+@21="Tempestade de gelo
+(Evocação)
 
-Level: 4
-Range: Visual range of the caster
-Duration: 4 rounds
-Casting Time: 4
-Area of Effect: 15-ft. radius
-Saving Throw: None
+Nível: 4
+Alcance: Alcance visual do lançador 
+Duração: 4 rodadas
+Tempo de Lançamento: 4
+Área de Efeito: raio de 15 metros
+Jogada de Salvamento: Nenhuma
 
-When this spell is cast, shards of ice smash down on all creatures in the area of effect, doing 2d8 points of cold damage. The ice storm continues for four rounds, doing the same amount of damage at the beginning of each subsequent round."
+Quando este feitiço é lançado, pedaços de gelo caem sobre todas as criaturas na área de efeito, causando 2d8 pontos de dano de frio. A tempestade de gelo continua por quatro rodadas, causando a mesma quantidade de dano no início de cada rodada subsequente."
 
-@22="3 turns" // must exactly match duration text for IWD Spirit Armor (@22609)
-@23="2 hours"
+@22="3 Turnos" // must exactly match duration text for IWD Spirit Armor (@22609)
+@23="2 horas"
 
-@24="This spell requires a moderate amount of concentration by the caster, so the priest cannot cast any spells for the chant's duration, and <PRO_HISHER> movement is slowed by half." // must exactly match the final sentence of the IWD chant description
-@25="This spell requires a moderate amount of concentration by the caster, so the priest's movement is slowed by half."
+@24="Esta magia requer uma quantidade moderada de concentração pelo conjurador, então o sacerdote não pode lançar nenhum feitiço durante a duração do canto, e o movimento dele é reduzido pela metade." // must exactly match the final sentence of the IWD chant description
+@25="Este feitiço requer uma quantidade moderada de concentração por parte do conjurador, então o movimento do sacerdote é reduzido pela metade."
 
-@26="Slow Poison
-(Necromancy)
+@26="Desacelerar Veneno
+(Necromancia)
 
-Level: 2
-Sphere: Healing
-Range: Touch
-Duration: Instant
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: None
+Nível: 2
+Esfera: Cura
+Alcance: Toque
+Duração: Instantânea
+Tempo de Lançamento: 1
+Área de Efeito: 1 criatura
+Jogada de Salvamento: None
 
-When this spell is placed upon a poisoned individual, it slows the effects of venom. This spell does not neutralize the poison; instead, it just slows it down enough for the recipient to get real healing at a temple or from <PRO_HISHER> party's priest, or for the poison to naturally fade from the recipient's system.
+Quando este feitiço é colocado sobre alguém envenenado, ele retarda os efeitos do veneno. Este feitiço não neutraliza o veneno; em vez disso, apenas o retarda o suficiente para que a pessoa possa receber cura adequada em um templo ou com o sacerdote do grupo, ou para que o veneno se dissipe naturalmente do sistema da pessoa.
 
-This spell also cures intoxication."
+Este feitiço também cura intoxicação."
 
-@27="Larloch's Minor Drain
-(Necromancy)
+@27="Dreno menor de Larloch
+(Necromancia)
 
-Level: 1
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: None
+Nível: 1
+Alcance: Alcance visual do lançador 
+Duração: Instantânea
+Tempo de Lançamento: 1
+Área de Efeito: 1 criatura
+Jogada de Salvamento: Nenhuma
 
-With this spell, the wizard drains the life force from a target and adds it to <PRO_HISHER> own. The target creature suffers 1d4 magic damage, while the wizard gains 1d4 Hit Points. This increases by 1d4 per two levels above first level, to a maximum of 5d4 at 9th level. If the wizard goes over <PRO_HISHER> maximum Hit Point total with this spell, <PRO_HESHE> loses them after 1 turn. This spell has no effect on constructs or undead."
+Com este feitiço, o mago drena a força vital de um alvo e a adiciona à sua própria. A criatura alvo sofre 1d4 de dano mágico, enquanto o mago ganha 1d4 Pontos de Vida. Esse valor aumenta em 1d4 para cada dois níveis acima do primeiro, até um máximo de 5d4 no 9º nível. Se o mago ultrapassar o seu total máximo de Pontos de Vida com este feitiço, ele os perderá após 1 turno. Este feitiço não tem efeito em construtos ou mortos-vivos."
 
-@30="priest"
-@31="wizard"
-@32="Casting time:"
+@30="sacerdote"
+@31="mago"
+@32="Tempo de lançamento:"
 // String 33 must exactly match the description of the Symbol of Pain spell in IWDEE
-@33="All enemies within 15 ft. of the symbol of pain at the moment it is invoked must make a Save vs. Spell. Those who fail their Saving Throws are overwhelmed by pain, suffering a -4 penalty to their attack rolls, a -2 penalty to their Dexterity scores, and a -2 penalty to their Armor Class."
-@34="All enemies within 15 ft. of the symbol of pain at the moment it is invoked are overwhelmed by pain, suffering a -4 penalty to their attack rolls, a -2 penalty to their Dexterity scores, and a -2 penalty to their Armor Class."
+@33="Todos os inimigos dentro de 4,5 metros do símbolo da dor no momento em que é invocado devem fazer uma Jogada de Salvamento contra Magia. Aqueles que falharem em sua resistência são dominados pela dor, sofrendo uma penalidade de -4 em seus ataques, uma penalidade de -2 em sua pontuação de Destreza e uma penalidade de -2 em sua Classe de Armadura."
+@34="Todos os inimigos dentro de 15 metros do símbolo da dor no momento em que é invocado são dominados pela dor, sofrendo uma penalidade de -4 em suas jogadas de ataque, uma penalidade de -2 em seus scores de Destreza e uma penalidade de -2 em sua Classe de Armadura."
 // string 35 must exactly match the saving throw line for the Symbol of Pain spell in IWDEE
-@35="Saving Throw: Neg."
-@36="Saving Throw: None"
-@37="Sphere:"
-@38="Level:"
+@35="Jogada de Salvamento: Anula."
+@36="Jogada de Salvamento: Nenhuma"
+@37="Esfera:"
+@38="Nível:"
 
 // 39 is verbatim copy of first few words of BG2EE Lower Resistance description
-@39="When cast upon a target creature"
-@40="When cast upon a target creature, this spell will lower the Magic Resistance of this creature by 30% + 1% per level of the caster. There is no Saving Throw, and the target's Magic Resistance, if any, does not affect this spell. For example, if a creature has 60% Magic Resistance and this spell is cast on it by a 15th-level Mage, then the target's Magic Resistance would be lowered by 45% automatically. This effect is cumulative for each casting of this spell: If Lower Resistance was cast upon the same creature again, the creature's Magic Resistance would be 60% - 45% (initial casting) - 45% (current casting), which would leave the creature with 0% Magic Resistance (the level cannot drop below 0%). This spell will last until its duration expires and cannot be dispelled."
-@41="Magic resistance lowered by THIS_MUCH%"
+@39="Quando lançado sobre uma criatura-alvo"
+@40="Quando lançado sobre uma criatura-alvo, este feitiço reduzirá a Resistência Mágica desta criatura em 30% + 1% por nível do conjurador. Não há Jogada de Salvamento, e a Resistência Mágica do alvo, se houver, não afeta este feitiço. Por exemplo, se uma criatura tem 60% de Resistência Mágica e este feitiço é lançado sobre ela por um Mago de 15º nível, então a Resistência Mágica do alvo seria reduzida automaticamente em 45%. Este efeito é cumulativo para cada lançamento deste feitiço: se Diminuir Resistência for lançado novamente sobre a mesma criatura, a Resistência Mágica da criatura seria 60% - 45% (lançamento inicial) - 45% (lançamento atual), o que deixaria a criatura com 0% de Resistência Mágica (o nível não pode cair abaixo de 0%). Este feitiço durará até que sua duração expire e não pode ser dissipado."
+@41="Resistência mágica reduzida em THIS_MUCH%"
 
-@43="2 levels of experience" // must be a substring of Energy Drain description
-@44="5 levels of experience"
-@45="Five Levels Drained"
-@46="Iron Body
-(Alteration)
+@43="2 níveis de experiência" // must be a substring of Energy Drain description
+@44="5 níveis de experiência"
+@45="Cinco Níveis Drenados"
+@46="Corpo de ferro
+(Alteração)
 
-Level: 8
-Range: 0
-Duration: 2 turns
-Casting Time: 8
-Area of Effect: The caster
-Saving Throw: None
+Nível: 8
+Alcance: 0
+Duração: 2 turnos
+Tempo de Lançamento: 8
+Área de efeito: O Lançador
+Jogada de Salvamento: Nenhuma
 
-This spell transforms the caster's body into living iron, granting <PRO_HIMHER> several powerful resistances and abilities. While the spell is in effect, the caster is 100% resistant to electricity and poison, 50% resistant to fire and acid, and 75% resistant to physical damage (though the latter cannot be further improved by other effects). Spells that affect respiration or the physiology of the caster are ignored. In addition, the caster's Strength is raised to 25, and the caster can attack twice per round with iron fists for 2d4 points of damage plus appropriate Strength bonuses.
+Este feitiço transforma o corpo do conjurador em ferro vivo, concedendo a ele várias resistências e habilidades poderosas. Enquanto o feitiço estiver em efeito, o conjurador tem resistência de 100% à eletricidade e veneno, resistência de 50% ao fogo e ácido, e resistência de 75% a danos físicos (embora este último não possa ser melhorado por outros efeitos). Feitiços que afetam a respiração ou a fisiologia do conjurador são ignorados. Além disso, a Força do conjurador é aumentada para 25, e o conjurador pode atacar duas vezes por rodada com punhos de ferro causando 2d4 pontos de dano mais os bônus apropriados de Força.
 
-Unfortunately, the caster's movement becomes slow and awkward, setting <PRO_HISHER> movement rate to 25% of <PRO_HISHER> normal, and <PRO_HISHER> spellcasting becomes more sluggish, imposing a -2 penalty on casting times. The spell ends immediately if the caster is affected by any kind of polymorph effect."
+Infelizmente, o movimento do conjurador fica lento e desajeitado, reduzindo sua taxa de movimento para 25% do normal, e a conjuração de feitiços fica mais lenta, impondo uma penalidade de -2 nos tempos de conjuração. O feitiço termina imediatamente se o conjurador for afetado por qualquer tipo de efeito de polimorfia."
 
-@47="1 turn/level" // must exactly match string in description of BG2 Strength
-@48="1 hour/level"
+@47="1 rodada/nível" // must exactly match string in description of BG2 Strength
+@48="1 hora/nível"
 
-@50="Death Spell
-(Necromancy)
+@50="Feitiço da Morte
+(Necromancia)
 
-Level: 6
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 6
-Area of Effect: 15-ft. radius
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do Lançador 
+Duração: Instantânea
+Tempo de Lançamento: 6
+Área de efeito: raio de 15 metros 
+Jogada de Salvamento: Nenhuma 
 
-When a Death Spell is cast, it snuffs out the life force of creatures within the area of effect with 8 hit dice or fewer, instantly and irrevocably. Summoned creatures are especially vulnerable and die if they have 12 hit dice or fewer. Only enemies are affected by this spell."
+Quando um Feitiço da Morte é lançado, ele anula a força vital das criaturas dentro da área de efeito com 8 dados de vida ou menos, instantaneamente e de forma irreversível. Criaturas conjuradas são especialmente vulneráveis e morrem se tiverem 12 dados de vida ou menos. Apenas inimigos são afetados por este feitiço."
 
 
-@100 = ~(It does protect against arrows or bolts that are enchanted to do elemental or poison damage, provided those enchantments do not also convey a bonus to hit.)~
+@100 = ~(Ele protege contra flechas ou setas encantadas para causar dano elemental ou venenoso, desde que esses encantamentos não concedam um bônus adicional para acertar.)~
 
-@120="(Abjuration)"
-@121="(Alteration)"
-@122="(Abjuration, Alteration)"
-@123="(Conjuration/Summoning)"
-@124="(Enchantment/Charm)"
-@125="(Divination)"
-@126="(Evocation)"
-@127="(Alteration, Evocation)"
+@120="(Abjuração)"
+@121="(Alteração)"
+@122="(Abjuração, Alteração)"
+@123="(Conjuração/Invocação)"
+@124="(Encantamento/Charme)"
+@125="(Adivinhação)"
+@126="(Evocação)"
+@127="(Alteração, Evocação)"
 
-@203 = ~Iron Skins, ~
-@204 = ~, and Iron Skins.~
-@205 = ~reduces the target to 1 hit point~
-@206 = ~inflicts 150 hit points of damage on the target, but cannot reduce the target below 1 hit point~
+@203 = ~Pele de Ferro, ~
+@204 = ~e Proteção de Ferro.~
+@205 = ~reduz o alvo a 1 ponto de vida~
+@206 = ~Causa 150 pontos de dano no alvo, mas não pode reduzi-lo abaixo de 1 ponto de vida~
 @207 = ~
-This is the ~
-@208 = ~ version of the spell.~
-@209 = ~per level of the caster (to a maximum of 12d6)~
-@210 = ~per level of the caster~
-@211 = ~This spell will also destroy the anti-magic sphere created by a Protection from Magic scroll.~
-@212 = ~will wear off within 10 turns.~
-@213 = ~will wear off within 10 turns. Until then, only extremely powerful magics (such as the Spellstrike spell) can destroy it.~
+Isto é o ~
+@208 = ~ versão do feitiço.~
+@209 = ~por nível do lançador (até um máximo de 12d6)~
+@210 = ~por nível do lançador~
+@211 = ~Este feitiço também destruirá a esfera antimagia criada por um pergaminho de Proteção contra Magia.~
+@212 = ~Vai expirar em 10 rodadas.~
+@213 = ~Irá expirar em 10 rodadas. Até lá, apenas magias extremamente poderosas (como a magia Golpe de Feitiço) podem destruí-la.~
 
-@216 = ~Power Word, Blind 
-(Conjuration/Summoning) 
+@216 = ~Palavra de Poder, Cega
+(Conjuração/Invocação) 
 
-Level: 8
-Range: Visual range of the caster
-Duration: 6 rounds
-Casting Time: 1
-Area of Effect: 1 creature
-Saving Throw: None
+Nível: 8
+Alcance: Alcance visual do lançador 
+Duração: 6 rodadas
+Tempo de Lançamento: 1
+Área de efeito: 1 criatura
+Jogada de Salvamento: Nenhuma
 
-When a Power Word, Blind spell is cast, the target creature becomes sightless. This lasts for 6 rounds or until dispelled. All of the effects of blindness apply to the victim, such as a penalty to hit and to AC. The visibility range of the afflicted character is also decreased.~
-@217="reducing the target to all but 1d4 Hit Points"
-@218="inflicting 150 hit points of damage on the target, to a minimum of 1 hit point"
-@219="Web does not affect very large creatures like giants or dragons (which brush the webs aside), incorporeal creatures like shadows or wraiths (which pass through them), amorphous creatures like slimes or elementals (which flow around them), or creatures shrouded in magical fire (which burn them away in their vicinity)."
-@220="Entangle does not affect very large creatures like giants or dragons (which brush the entwining plants aside), incorporeal creatures like shadows or wraiths (which pass through them), amorphous creatures like slimes or elementals (which flow around them), or creatures shrouded in magical fire (which burn them away in their vicinity)."
-@221="Grease does not affect incorporeal creatures like shadows or wraiths, or flying creatures like beholders."
+Quando o feitiço Palavra de Poder, Cega é lançado, a criatura alvo fica sem visão. Isso dura por 6 rodadas ou até ser dissipado. Todos os efeitos da cegueira se aplicam à vítima, como penalidade para acertar e para CA. O alcance da visibilidade do personagem afetado também é reduzido.~
+@217="reduzindo o alvo para todos os pontos de vida, exceto 1D4"
+@218="causa 150 pontos de dano no alvo, com um mínimo de 1 ponto de dano."
+@219="A teia não afeta criaturas muito grandes como gigantes ou dragões (que afastam as teias), criaturas incorpóreas como sombras ou espectros (que passam através delas), criaturas amorfas como limos ou elementais (que fluem ao redor delas), ou criaturas envoltas em fogo mágico (que queimam as teias em suas proximidades)."
+@220="Emaranhado não afeta criaturas muito grandes, como gigantes ou dragões (que afastam as plantas que se entrelaçam), criaturas incorpóreas, como sombras ou espectros (que passam por elas), criaturas amorfas, como limos ou elementais (que fluem ao redor delas), ou criaturas envoltas em fogo mágico (que as queimam nas proximidades)."
+@221="A magia 'graxa' não afeta criaturas etéreas como sombras ou espectros, nem criaturas voadoras como beholders."
 
-@222="Symbol, Pain
-(Conjuration/Summoning)
+@222="Símbolo da Dor
+(Conjuração/Invocação)
 
-Level: 7
-Sphere: Guardian
-Range: Visual range of the caster
-Duration: 11 turns
-Casting Time: 3
-Area of Effect: 12-ft. radius
-Saving Throw: None
+Nível: 7
+Esfera: Guardião
+Alcance: Alcance visual do lançador 
+Duração: 11 rodadas 
+Tempo de Lançamento: 3
+Área de efeito: raio de 12 metros 
+Jogada de salvamento: Nenhuma
 
-Symbol, Pain is a powerful enchantment that allows the priest to inscribe a symbol on the ground or any other surface. The symbol will remain there until someone comes too close, at which point it will explode, causing all enemies within the area of effect to be overwhelmed by pain, suffering a -4 penalty to their attack rolls, a -2 penalty to their Dexterity scores, and a -2 penalty to their Armor Class."
+Símbolo da Dor é um poderoso encantamento que permite ao sacerdote inscrever um símbolo no chão ou em qualquer outra superfície. O símbolo permanecerá lá até que alguém se aproxime demais, momento em que ele explodirá, fazendo com que todos os inimigos dentro da área de efeito sejam dominados pela dor, sofrendo uma penalidade de -4 em seus ataques, uma penalidade de -2 em suas pontuações de Destreza, e uma penalidade de -2 em sua Classe de Armadura."
 
-@300 = ~Items cannot be used while polymorphed.~
-@301 = ~Dispel Magic or Remove Curse~
-@302 = ~Dispel Magic~
-@303 = ~The spell also removes the baleful effects of a Polymorph Other spell.~
+@300 = ~Os itens não podem ser usados enquanto estiver sob efeito de polimorfia.~
+@301 = ~Dissipar Magia ou Remover Maldição~
+@302 = ~Dissipar Magia~
+@303 = ~O feitiço também remove os efeitos maléficos de um feitiço Polimorfia em Outro.~
 
-@400 = ~Invulnerable to swarm attacks~
-@401 = ~Swarm destroyed~
+@400 = ~Invulnerável a ataques de enxame~
+@401 = ~Enxame destruído~
 
-@500 = ~someone comes too close~ // note to translators: this must be the exact string used in the Symbol spell description
-@501 = ~an opponent comes too close~
+@500 = ~Alguém está se aproximando demais~ // note to translators: this must be the exact string used in the Symbol spell description
+@501 = ~Um oponente se aproxima demais~
 @502 = ~all those within the area~ // note to translators: this must be the exact string used in the Symbol spell description
-@503 = ~all enemies within the area~
+@503 = ~Todos os inimigos dentro da área~
 
-@504="Death Fog will also instantly kill all summoned creatures, regardless of their Hit Dice and immunities." // must be verbatim from BG2 description of Death Fog
-@505="Creatures with more than 8 Hit Dice are immune to this spell with the exception of summoned creatures, which are automatically slain." // must be verbatim from BG2 description of Death Spell
-@506="Creatures with more than 8 Hit Dice are immune to this spell."
+@504="A Névoa da Morte também irá matar instantaneamente todas as criaturas invocadas, independentemente de seu Nível de Dado (ND) e imunidades." // must be verbatim from BG2 description of Death Fog
+@505="Criaturas com mais de 8 Dados de Vida são imunes a este feitiço, com exceção das criaturas conjuradas, que são automaticamente mortas." // must be verbatim from BG2 description of Death Spell
+@506="Criaturas com mais de 8d10 Pontos de Vida estão imunes a este feitiço."
 
-@600="Greater Yuan-ti" // bg2ee @1385
-@601="Yuan-ti Elite" // bg2ee @72137
+@600="Yuan-ti Maior" // bg2ee @1385
+@601="Yuan-ti de Elite" // bg2ee @72137
 
-@620="With the casting of this spell the wizard summons 1d6 2nd-level monsters." // must be verbatim from IWD description of MS2 - @12157
-@621="With the casting of this spell the wizard summons 2d3 3rd-level monsters."
+@620="Com o lançamento desse feitiço, o mago invoca 1d6 monstros de 2º nível." // must be verbatim from IWD description of MS2 - @12157
+@621="Com o lançamento desse feitiço, o mago invoca 2d3 monstros de nível 3."
 
-@630="With the casting of this spell the wizard summons 1d4 3rd-level monsters." // must be verbatim from IWD description of MS3 - @12158
-@631="With the casting of this spell the wizard summons 2d3 4th- or 5th-level monsters."
+@630="Com o lançamento desse feitiço, o mago convoca 1d4 monstros de 3º nível." // must be verbatim from IWD description of MS3 - @12158
+@631="Com o lançamento desse feitiço, o mago invoca 2d3 monstros de 4º ou 5º nível."
 
-@640="With the casting of this spell the wizard summons 1d3 4th-level monsters." // must be verbatim from IWD description of MS4 - @16165
-@641="With the casting of this spell the wizard summons 2d3 6th-level monsters."
+@640="Com o lançamento desse feitiço, o mago convoca 1d3 monstros de 4º nível." // must be verbatim from IWD description of MS4 - @16165
+@641="Com o lançamento desse feitiço, o mago convoca 2d3 monstros de 6º nível."
 
-@650="With the casting of this spell the wizard summons 1d3 5th-level monsters." // must be verbatim from IWD description of MS5 - @16170
-@651="With the casting of this spell the wizard summons 2d3 7th- or 8th-level monsters."
+@650="Com o lançamento desse feitiço, o mago invoca 1d3 monstros de 5º nível." // must be verbatim from IWD description of MS5 - @16170
+@651="Com o lançamento desse feitiço, o mago invoca 2d3 monstros de 7º ou 8º nível."
 
-@660="With the casting of this spell the wizard summons 1d3 6th-level monsters." // must be verbatim from IWD description of MS6 - @16358
-@661="With the casting of this spell the wizard summons 2d3 9th- or 10th-level monsters."
+@660="Com o lançamento desse feitiço, o mago invoca 1d3 monstros de 6º nível." // must be verbatim from IWD description of MS6 - @16358
+@661="Com o lançamento desse feitiço, o mago convoca 2d3 monstros de 9º ou 10º nível."
 
-@670="With the casting of this spell, the wizard summons 1d2 7th- or 8th-level monsters." // must be verbatim from IWD description of MS7 - @16359
-@671="With the casting of this spell, the wizard summons 2d3 11th- or 12th-level monsters."
+@670="Com o lançamento desse feitiço, o mago conjura 1d2 monstros de 7º ou 8º nível." // must be verbatim from IWD description of MS7 - @16359
+@671="Com o lançamento desse feitiço, o mago invoca 2d3 monstros de nível 11 ou 12."
 @1000 = ~
 
-CONTINGENCY
-Upon gaining the ability to cast 6th level spells, a mage may cast Contingency once per day, designating a spell of up to 1/3 the mage's level that will be cast on the mage automatically if certain conditions apply. Only one Contingency can be active at a time.
+CONTINGÊNCIA
+Ao adquirir a habilidade de lançar feitiços de 6º nível, um mago pode lançar Contingência uma vez por dia, designando um feitiço de até 1/3 do nível do mago que será lançado automaticamente no mago se certas condições se aplicarem. Apenas uma Contingência pode estar ativa por vez.
 
-Once the mage gains the ability to cast 9th level spells, <PRO_HESHE> may also also cast Chain Contingency, which contains three spells of up to 8th level, triggered on the mage or other designated target if certain conditions apply. Only one Chain Contingency can be active at a time.
+Assim que o mago ganha a habilidade de lançar magias de 9º nível, ele também pode lançar Corrente de Contingência, que contém três magias de até 8º nível, acionadas no mago ou em outro alvo designado se certas condições se aplicarem. Apenas uma Corrente de Contingência pode estar ativa por vez.
 
-SEQUENCERS
-Once <PRO_HESHE> learns how to cast 4th level spells, a mage may create a minor Spell Sequencer, which contains two first or second level spells which can be cast later, as an innate ability that takes only an instant to designate. The mage may create a new Minor Sequencer once per day, but only one can be active at a time.
+SEQUÊNCIADORES
+Assim que ele aprende a conjurar magias de 4º nível, um mago pode criar um Sequenciador de Feitiços menor, que contém dois feitiços de primeiro ou segundo nível que podem ser lançados mais tarde, como uma habilidade inata que leva apenas um instante para ser designada. O mago pode criar um novo Sequenciador Menor uma vez por dia, mas apenas um pode estar ativo por vez.
 
-Upon learning how to cast 7th level spells, a mage may also create a full Spell Sequencer, which contains three spells of levels 1-4. Once <PRO_HESHE> learns how to cast 8th level spells, <PRO_HESHE> can create a Spell Trigger, holding three spells of levels 1-6.
+Ao aprender como lançar feitiços de 7º nível, um mago também pode criar um Sequenciador de Feitiços completo, que contém três feitiços de níveis 1-4. Uma vez que aprender como lançar feitiços de 8º nível, poderá criar um Gatilho de Feitiço, contendo três feitiços de níveis 1-6..
 ~
 
 @1001= ~
 
-CONTINGENCY
-Upon gaining the ability to cast 6th level spells, a bard may cast Contingency once per day, designating a spell of up to 1/3 the bard's level that will be cast on the bard automatically if certain conditions apply. Only one Contingency can be active at a time.
+CONTINGÊNCIA
+Ao adquirir a capacidade de lançar magias de 6º nível, um bardo pode lançar uma vez ao dia a magia Contingência, designando uma magia de até 1/3 do nível do bardo que será lançada automaticamente no bardo se certas condições se aplicarem. Apenas uma Contingência pode estar ativa de cada vez.
 
-SEQUENCERS
-Once <PRO_HESHE> learns how to cast 4th level spells, a bard may create a minor Spell Sequencer, which contains two first or second level spells which can be cast later, as an innate ability that takes only an instant to designate. The bard may create a new Minor Sequencer once per day, but only one can be active at a time.
+SEQUÊNCIADORES
+Uma vez que o personagem aprenda a lançar feitiços de 4º nível, um bardo pode criar um Sequenciador de Feitiços Menor, que contém dois feitiços de primeiro ou segundo nível que podem ser lançados mais tarde, como uma habilidade inata que leva apenas um instante para ser designada. O bardo pode criar um novo Sequenciador Menor uma vez por dia, mas apenas um pode estar ativo por vez.
 ~
 
 @1002= ~
-Upon learning how to cast 7th level spells, a bard may also create a full Spell Sequencer, which contains three spells of levels 1-4.~
-@1003= ~ A bard who can cast 8th level spells can create a Spell Trigger, containing three spells of levels 1-6.~
-@1004= ~Prepare~
-@1005= ~Gains Ability~
+Ao aprender a lançar magias de 7º nível, um bardo também pode criar um Sequenciador de Magias completo, contendo três magias de níveis 1-4.~
+@1003= ~ Um bardo que pode conjurar magias de 8º nível pode criar um Gatilho de Magias contendo três magias de níveis 1-6.~
+@1004= ~Preparar~
+@1005= ~Ganha habilidade~
 
 // 1010 and 1011 aren't used by SoM, but we need them to ensure continuing compatibility with SCS
 @1010="
 
-The combat protection spells dispelled by Breach are"
-@1011="and"
+Os feitiços de proteção de combate dissipados por Fender são"
+@1011="e"
 
-@1020=" +1/level (maximum "
+@1020=" +1/nível (máximo "
 @1021="d"
-@1100="This reverses any previous life energy level drain of the creature by a force or monster." // NOTE TO TRANSLATORS: must be exact string from description of 'Lesser Restoration' spell
-@1101="This reverses any previous life energy level drain of the creature by a force or monster." // NOTE TO TRANSLATORS: must be exact string from description of 'Greater Restoration' spell
-@1102="This reverses any previous life energy level drain of the creature by a force or monster, and restores lost ability score points from sources such as the strength-draining touch of a Shadow or the thought-devouring attacks of a Mind Flayer."
+@1100="Isso reverte qualquer dreno de energia vital anterior da criatura por uma força ou monstro." // NOTE TO TRANSLATORS: must be exact string from description of 'Lesser Restoration' spell
+@1101="Isso reverte qualquer dreno de energia vital anterior da criatura por uma força ou monstro." // NOTE TO TRANSLATORS: must be exact string from description of 'Greater Restoration' spell
+@1102="Isso reverte qualquer drenagem prévia do nível de energia vital da criatura por parte de uma força ou monstro e restaura os pontos de habilidade perdidos por fontes como o toque drenador de força de uma Sombra ou os ataques devoradores de intelecto de um Devorador de Mentes."
 
 
 @3700 = ~
 
-Note: This spell may be used to remove magical protections even from creatures which could not normally be targetted by spells because they are invisible. ~ // space at end is intentional, it plays nicer with other description appending
-@5000 = ~Insect Plague
-(Conjuration/Summoning)
+Nota: Este feitiço pode ser usado para remover proteções mágicas, mesmo de criaturas que normalmente não poderiam ser alvo de feitiços por estarem invisíveis.~
+@5000 = ~Praga de insetos
+(Conjuração/Invocação)
 
-Level: 5
-Sphere: Animal
-Range: 240 ft.
-Duration: 6 rounds
-Casting Time: 5
-Area of Effect: Special
-Saving Throw: Special
+Nível: 5
+Esfera: Animal
+Alcance: 240 metros.
+Duração: 6 rodadas
+Tempo de Lançamento: 5
+Área de efeito: Especial
+Jogada de Salvamento: Especial
 
-When this spell is cast, a mass of creeping, hopping, and flying insects gather and swarm, first attacking the target, and then moving on to all enemies of the caster within the spell's radius. Invisibility is no protection.
+Quando este feitiço é lançado, uma massa de insetos rastejantes, saltitantes e voadores se reúne e enxameia, atacando primeiro o alvo e depois passando para todos os inimigos do conjurador dentro do raio do feitiço. A invisibilidade não oferece proteção.
 
-For the duration of the spell, those affected suffer one point of piercing damage per second and fight with a -2 penalty to attack rolls and armor class. In addition, each round, the victim must save vs. breath weapons at -2 or suffer a 100% chance of spell failure, and must save vs. spells at -2 or run in panic. Creatures protected from the damage, such as by the Stoneskin spell, are unaffected by these secondary effects as long as their protection lasts.
+Durante a duração do feitiço, aqueles afetados sofrem um ponto de dano perfurante por segundo e lutam com uma penalidade de -2 nas jogadas de ataque e classe de armadura. Além disso, a cada rodada, a vítima deve realizar um teste contra armas de sopro com uma penalidade de -2 ou sofrer uma chance de 100% de falha no feitiço e deve realizar um teste contra feitiços com uma penalidade de -2 ou fugir em pânico. Criaturas protegidas do dano, como pelo feitiço Pele de Pedra, não são afetadas por esses efeitos secundários enquanto sua proteção durar.
 
-The insects summoned by the spell are not themselves magical creatures. This means that they are not repelled by magical protections such as antimagic; equally, their bites and stings are nonmagical and cannot harm creatures that require magical weapons to injure them. The insects will shun the unnatural flesh of the undead, and cannot penetrate barriers of extreme cold or heat like those created by the Fire Shield spell. Lastly, the Death Spell will destroy all hostile insects in its area of effect.~
-@5001 = ~Creeping Doom
-(Conjuration/Summoning)
+Os insetos invocados pelo feitiço não são eles mesmos criaturas mágicas. Isso significa que eles não são repelidos por proteções mágicas como a antimágica; igualmente, suas picadas e ferroadas não são mágicas e não podem ferir criaturas que requerem armas mágicas para serem feridas. Os insetos evitarão a carne não natural dos mortos-vivos e não conseguem penetrar barreiras de frio extremo ou calor como aquelas criadas pelo feitiço Escudo de fogo. Por último, o feitiço da Morte destruirá todos os insetos hostis em sua área de efeito.~
+@5001 = ~Destruição Rastejante
+(Conjuração/Invocação)
 
-Level: 7
-Sphere: Animal, Summoning
-Range: 240 ft.
-Duration: 3 rounds
-Casting Time: 5
-Area of Effect: Special
-Saving Throw: Special
+Nível: 7
+Esfera: Animal, Invocação
+Alcance: 240 metros.
+Duração: 3 rodadas
+Tempo de Lançamento: 5
+Área de efeito: Especial
+Jogada de salvamento: Especial
 
-When the caster utters the spell Creeping Doom, <PRO_HESHE> calls forth a mass of venomous, biting and stinging arachnids, insects, and myriapods. This carpetlike mass swarms over a large area, spreading to all enemy creatures within 30 ft. of the target. Invisibility is no protection.
+Quando o conjurador pronuncia a magia Destruição Rastejante, ele convoca uma massa de aracnídeos, insetos e miriápodes venenosos, mordazes e picantes. Essa massa forma um tapete que avança sobre uma grande área, atingindo todas as criaturas inimigas dentro de 30 metros do alvo. A invisibilidade não oferece proteção.
 
-For the duration of the spell, those affected suffer two points of piercing damage per second and fight with a -2 penalty to attack rolls and armor class. In addition, each round, the victim must save vs. breath weapons at -2 or suffer a 100% chance of spell failure, and must save vs. spells at -2 or run in panic. Creatures protected from the damage, such as by the Stoneskin spell, are unaffected by these secondary effects as long as their protection lasts.
+Durante a duração do feitiço, aqueles afetados sofrem dois pontos de dano perfurante por segundo e lutam com uma penalidade de -2 nos testes de ataque e classe de armadura. Além disso, a cada rodada, a vítima deve fazer um teste contra armas de sopro com um redutor de -2 ou sofrer uma chance de 100% de falha no feitiço, e deve salvar contra feitiços com um redutor de -2 ou fugir em pânico. Criaturas protegidas do dano, como pelo feitiço de Pele de Pedra, não são afetadas por esses efeitos secundários, desde que sua proteção dure.
 
-The insects summoned by the spell are not themselves magical creatures. This means that they are not repelled by magical protections such as antimagic; equally, their bites and stings are nonmagical and cannot harm creatures that require magical weapons to injure them. The insects will shun the unnatural flesh of the undead, and cannot penetrate barriers of extreme cold or heat like those created by the Fire Shield spell. Lastly, the Death Spell will destroy all hostile insects in its area of effect.~
-@5002 = ~Summon Insects
-(Conjuration/Summoning)
+Os insetos invocados pelo feitiço não são criaturas mágicas. Isso significa que eles não são repelidos por proteções mágicas como a antimágica; igualmente, suas picadas e ferroadas não são mágicas e não podem ferir criaturas que requerem armas mágicas para serem atingidas. Os insetos evitarão a carne não natural dos mortos-vivos e não podem penetrar barreiras de extremo frio ou calor, como aquelas criadas pelo feitiço Escudo de fogo. Por fim, o feitiço da Morte destruirá todos os insetos hostis na sua área de efeito.~
+@5002 = ~Invocar Insetos
+(Conjuração/Invocação)
 
-Level: 3
-Sphere: Animal
-Range: 90 ft.
-Duration: 7 rounds
-Casting Time: 9
-Area of Effect: 1 creature
-Saving Throw: Neg.
+Nível: 3
+Esfera: Animal
+Alcance: 90 metros.
+Duração: 7 rodadas
+Tempo de Lançamento: 9
+Área de efeito: 1 criatura
+Jogada de Salvamento: Anula.
 
-The Summon Insects spell attracts a cloud or swarm of normal insects to attack one enemy of the caster. This swarm gathers at a point chosen by the caster within the spell's range and attacks any single creature the caster points to. The victim may make a Saving Throw vs. Breath Weapon with a -4 penalty to escape the swarm; otherwise, the victim receives 1 point of piercing damage every 2 seconds for the duration of the spell. Moreover, the victim fights with a -2 penalty to <PRO_HISHER> attack roll and a -2 penalty to <PRO_HISHER> Armor Class. The swarm will repeatedly bite the target, making it very difficult to cast spells (50% chance of spell failure, with a saving throw vs. breath weapons each round to avoid for that round). Creatures protected from the damage, such as by the Stoneskin spell, are unaffected by these secondary effects as long as their protection lasts.
+O feitiço Invocar Insetos atrai uma nuvem ou enxame de insetos comuns para atacar um inimigo escolhido pelo conjurador. Este enxame se reúne em um ponto escolhido pelo conjurador dentro do alcance do feitiço e ataca qualquer criatura única apontada pelo conjurador. A vítima pode fazer uma Jogada de Salvamento contra Sopro de Dragão com uma penalidade de -4 para escapar do enxame; caso contrário, a vítima recebe 1 ponto de dano perfurante a cada 2 segundos durante a duração do feitiço. Além disso, a vítima sofre uma penalidade de -2 em seu rolagem de ataque e uma penalidade de -2 em sua Classe de Armadura. O enxame continuará mordendo repetidamente o alvo, tornando muito difícil lançar feitiços (50% de chance de falha no feitiço, com um teste de resistência contra sopro de dragão a cada rodada para evitar a falha naquela rodada). Criaturas protegidas contra o dano, como pelo feitiço Pele de Pedra, não são afetadas por esses efeitos secundários enquanto sua proteção durar.
 
-The insects summoned by the spell are not themselves magical creatures. This means that they are not repelled by magical protections such as antimagic; equally, their bites and stings are nonmagical and cannot harm creatures that require magical weapons to injure them. The insects will shun the unnatural flesh of the undead, and cannot penetrate barriers of extreme cold or heat like those created by the Fire Shield spell. Lastly, the Death Spell will destroy all hostile insects in its area of effect.~
+Os insetos convocados pelo feitiço não são criaturas mágicas. Isso significa que eles não são repelidos por proteções mágicas, como antimagic; igualmente, suas mordidas e ferroadas são não mágicas e não podem ferir criaturas que requerem armas mágicas para serem feridas. Os insetos evitarão a carne não natural dos não mortos e não podem penetrar barreiras de calor ou frio extremos, como aquelas criadas pelo feitiço Fire Shield. Por último, o feitiço Mortalidade destruirá todos os insetos hostis em sua área de efeito.~
 
-@5019 = ~Insects destroyed by fire~
-@5300 = ~Mantle
-(Abjuration)
+@5019 = ~Insetos destruídos pelo fogo~
+@5300 = ~Manto
+(Abjuração)
 
-Level: 7
-Range: 0
-Duration: 4 rounds
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+Nível: 7
+Alcance: 0
+Duração: 4 rodadas
+Tempo de Lançamento: 1
+Área de efeito: O Lançador 
+Jogada de Salvamento: Nenhuma
 
-When the spell is cast it confers complete invulnerability to all weapons except for those of +4 or better enchantment. This spell is incredibly powerful yet has a very short duration, and this combined with the very short casting time makes this spell useful only in the thick of intense combat. It is also important to note that this spell will not work in conjuction with protection from magic weapons. This effect lasts for the duration of the spell or until dispelled.~
-@5301 = ~Improved Mantle
-(Abjuration)
+Quando o feitiço é lançado, confere invulnerabilidade completa a todas as armas, exceto aquelas com encantamento +4 ou superior. Este feitiço é incrivelmente poderoso, porém tem uma duração muito curta, e isso combinado com o tempo de conjuração muito curto torna este feitiço útil apenas no meio de combates intensos. Também é importante observar que este feitiço não funcionará em conjunto com proteção contra armas mágicas. Este efeito dura pela duração do feitiço ou até ser dissipado.~
+@5301 = ~Manto Melhorado
+(Abjuração)
 
-Level: 8
-Range: 0
-Duration: 4 rounds
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+Nível: 8
+Alcance: 0
+Duração: 4 rodadas
+Tempo de Lançamento: 1
+Área de efeito: O Lançador 
+Jogada de Salvamento: Nenhuma
 
-When the spell is cast it confers complete invulnerability to all weapons except for those of +5 or better enchantment. This spell is incredibly powerful hence the duration is so short. However, the casting time is also very short making this spell incredibly useful in the thick of combat where buying a few seconds can mean the difference between life or death. It is important to note that this spell does not work in combination with protection from magic weapons. This spell lasts for the duration or until dispelled.~
-@5302 = ~Absolute Immunity
-(Abjuration)
+Quando o feitiço é lançado, ele confere completa invulnerabilidade a todas as armas, exceto aquelas com encantamento de +5 ou melhor. Este feitiço é incrivelmente poderoso, portanto a duração é tão curta. No entanto, o tempo de conjuração também é muito curto, tornando este feitiço incrivelmente útil no calor da batalha, onde alguns segundos podem significar a diferença entre a vida e a morte. É importante notar que este feitiço não funciona em combinação com proteção contra armas mágicas. Este feitiço dura pelo tempo determinado ou até ser dissipado.~
+@5302 = ~Imunidade Absoluta
+(Abjuração)
 
-Level: 9
-Range: 0
-Duration: 4 rounds
-Casting Time: 1
-Area of Effect: The caster
-Saving Throw: None
+Nível: 9
+Alcance: 0
+Duração: 4 rodadas
+Tempo de Lançamento: 1
+Área de efeito: O Lançador 
+Teste de resistência: Nenhuma
 
-When the spell is cast, it confers complete invulnerability to all weapons, no matter what their level of enchantment. This spell is incredibly powerful, hence the short duration. However the casting time is also very short making this spell incredibly useful in the thick of combat where buying a few seconds can mean the difference between life or death. It is important to note that this spell does not work in combination with protection from magic weapons. This spell lasts for the duration or until dispelled.~
-@14100 = ~(Evocation)~
-@14101 = ~(Invocation/Evocation)~
+Quando o feitiço é lançado, ele confere completa invulnerabilidade a todas as armas, não importa qual seja o seu nível de encantamento. Este feitiço é incrivelmente poderoso, daí a curta duração. No entanto, o tempo de conjuração também é muito curto, o que torna este feitiço incrivelmente útil no auge do combate, onde ganhar alguns segundos pode significar a diferença entre a vida e a morte. É importante notar que este feitiço não funciona em combinação com a proteção contra armas mágicas. Este feitiço dura pelo tempo determinado ou até ser dissipado.~
+@14100 = ~(Evocação)~
+@14101 = ~(Invocação/Evocação)~
 @14102 = ~(Conjuration/Summoning,Invocation/Evocation)~
-@14400 = ~ Finally, the spell also protects the caster from magical blindness for 1 turn after it is cast.~
+@14400 = ~ Finalmente, o feitiço também protege o conjurador contra cegueira mágica por 1 turno após ser lançado.~
 //@16010 vanilla format
-@16010 = ~This arrow is coated in acid so that when it strikes an enemy, it will not only pierce its flesh but also begin to eat away at the wound, enlarging and deepening its severity.
+@16010 = ~Esta flecha está revestida de ácido, de modo que ao atingir um inimigo, não só perfurará a sua carne, mas também começará a corroer a ferida, aumentando e aprofundando sua gravidade.
 
-STATISTICS:
+ESTATISTICAS:
 
-THAC0: +1 bonus
-Damage: 1D6 +1
-Damage Type: missile (piercing)
-Special: 1D3 acid damage
-Weight: 0
-Launcher: Bow
-Not Usable By:
- Cleric
- Druid
- Mage
- Sorcerer
- Monk
+PACA0: +1 bonus
+Dano: 1D6 +1
+Tipo de dano: projétil (perfurante)
+Especial: 1D3 de dano por ácido
+Peso: 0
+Lançador: Arco
+Não utilizável por:
+ Clérigo 
+ Druida
+ Mago
+ Feiticeiro
+ Monge
  Kensai
- Cavalier~
+ Cavaleiro~
 /*
 //@16010 EE format
-@? = ~This arrow is coated in acid. When it strikes an enemy, it not only pierces flesh but also eats it away, enlarging and deepening the wound.
+@? = ~Esta flecha está revestida de ácido. Quando atinge um inimigo, não apenas perfura a carne, mas também a consome, aumentando e aprofundando a ferida.
 
-STATISTICS:
+ESTATISTICAS:
 
-THAC0: +1
-Damage: 1d6+1 (missile), +1d3 acid damage
-Launcher: Bow
+PACA0: +1
+Dano: 1d6+1 (Projétil), +1d3 de dano ácido
+Lançador: Arco
 
-Weight: 0~
+Peso: 0~
 */
 //@16011 vanilla format
-@16011 = ~The Arrow of Fire is a magical arrow that will burst into flames as it is fired at an enemy. The effect is similar to an arrow doused in oil and set aflame.
+@16011 = ~A Flecha de Fogo é uma flecha mágica que irá explodir em chamas ao ser disparada contra um inimigo. O efeito é semelhante a uma flecha encharcada de óleo e incendiada.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage: 1D6
-Damage Type: missile (piercing)
-Special: 1D2 fire damage (save vs. spell for none)
-Weight: 0
-Launcher: Bow
-Not Usable By:
- Cleric
- Druid
- Mage
- Sorcerer
- Monk
+Dano: 1D6
+Tipo de dano: projétil (perfurante)
+Especial: 1D2 de dano de fogo (teste contra magia para resistir)
+Peso: 0
+Lançador: Arco
+Não utilizável por:
+ Clérigo 
+ Druida
+ Mago
+ Feiticeiro
+ Monge 
  Kensai
- Cavalier~
+ Cavaleiro~
 /*
 //@16011 EE format
-@? = ~This is a magical arrow that will burst into flames as it is fired at an enemy. The effect is similar to an arrow doused in oil and set to flame.
+@? = ~Esta é uma flecha mágica que irá explodir em chamas quando disparada contra um inimigo. O efeito é semelhante a uma flecha encharcada de óleo e acesa.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage: 1d6 (missile), +1d2 fire damage (Save vs. Spell for none)
-Launcher: Bow
+Dano: 1d6 (projétil), +1d2 de dano de fogo (Resistência vs. Magia para nenhum)
+Lançador: Arco
 
-Weight: 0~
+Peso: 0~
 */
 //@16012 vanilla format
-@16012 = ~The arrow of ice is magically enhanced so as to burst into a rolling ball of ice and cold when fired. When the arrow strikes its victim, a shock of cold will travel through its body, both burning and numbing to the very core.
+@16012 = ~A seta de gelo é magicamente aprimorada para se transformar em uma bola rolante de gelo e frio ao ser disparada. Quando a flecha atinge sua vítima, um choque de frio percorrerá seu corpo, queimando e entorpecendo até o âmago.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage: 1D6
-Damage Type: missile (piercing)
-Special: 1D2 cold damage
-Weight: 0
-Launcher: Bow
-Not Usable By:
- Cleric
- Druid
- Mage
- Sorcerer
- Monk
+Dano: 1D6
+Tipo de dano: projétil (perfurante)
+Especial: 1D2 de dano por frio
+Peso: 0
+Lançador: Arco
+Não utilizável por:
+ Clérigo 
+ Druida
+ Mago
+ Feiticeiro
+ Monge 
  Kensai
- Cavalier~
+ Cavaleiro~
 /*
 //@16012 EE format
-@? = ~This arrow is magically enhanced so as to burst into a rolling ball of ice and cold when fired. When the arrow strikes its victim, a shock of cold will travel through its body, both burning and numbing to the very core.
+@? = ~Esta flecha é magicamente aprimorada para explodir em uma bola de gelo e frio ao ser disparada. Quando a flecha atinge a vítima, um choque de frio percorre o seu corpo, queimando e amortecendo até o âmago.
 
-STATISTICS:
+ESTATISTICAS:
 
-Damage: 1d6 (missile), +1d2 cold damage
-Launcher: Bow
+Dano: 1d6 (projétil), +1d2 de dano frio
+Lançador: Arco
 
-Weight: 0~
+Peso: 0~
 */
-@32000="Conjure Earth Elemental
-(Conjuration/Summoning)
+@32000="Conjurar Elemental da Terra
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nivel: 6
+Alcance: Alcance visual do lançador 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Upon casting a Conjure Earth Elemental spell, the caster opens a special gate to the Elemental Plane of Earth, and an earth elemental is summoned in the vicinity of the caster. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. The elemental will do the bidding of the caster until it is slain or the duration of the spell runs out. All of the commands given to the elemental are done telepathically, so there is no time lost due to miscommunication and no need to know the language of the summoned creature."
+Ao lançar o feitiço Conjurar Elemental da Terra, o conjurador abre um portal especial para o Plano Elemental da Terra, e um elemental da terra é invocado nas redondezas do conjurador. Existe uma chance de 60% de que um elemental de 12 dados de vida apareça, uma chance de 35% de que um elemental de 16 dados de vida apareça, e uma chance de 5% de que um elemental de 24 dados de vida apareça. O elemental seguirá as ordens do conjurador até ser morto ou até que a duração do feitiço termine. Todos os comandos dados ao elemental são feitos telepaticamente, portanto não há perda de tempo devido a falhas na comunicação e não é necessário conhecer a língua da criatura invocada."
 
-@32001="Conjure Air Elemental
-(Conjuration/Summoning)
+@32001="Conjurar Elemental do Ar
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do lançador 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-Upon casting a Conjure Air Elemental spell, the caster opens a special gate to the Elemental Plane of Air, and an air elemental is summoned in the vicinity of the caster. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. The elemental will do the bidding of the caster until it is slain or the duration of the spell runs out. All of the commands given to the elemental are done telepathically, so there is no time lost due to miscommunication and no need to know the language of the summoned creature."
+Ao lançar um feitiço Evocar Elemental do Ar, o conjurador abre um portão especial para o Plano Elemental do Ar, e um elemental do ar é invocado nas proximidades do conjurador. Há 60% de chance de aparecer um elemental de 12 dados de vida, 35% de chance de aparecer um elemental de 16 dados de vida e 5% de chance de aparecer um elemental de 24 dados de vida. O elemental executará as ordens do conjurador até ser derrotado ou até a duração do feitiço chegar ao fim. Todos os comandos dados ao elemental são feitos telepaticamente, portanto, não há perda de tempo devido a mal-entendidos e não há necessidade de conhecer o idioma da criatura invocada."
 
-@32002="Conjure Fire Elemental
-(Conjuration/Summoning)
+@32002="Conjurar Elemental do Fogo
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do lançador 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Teste de resistência: Nenhuma
 
-Upon casting a Conjure Fire Elemental spell, the caster opens a special gate to the Elemental Plane of Fire, and a fire elemental is summoned in the vicinity of the caster. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. The elemental will do the bidding of the caster until it is slain or the duration of the spell runs out. All of the commands given to the elemental are done telepathically, so there is no time lost due to miscommunication and no need to know the language of the summoned creature."
+Ao lançar o feitiço Invocar Elemental de Fogo, o conjurador abre um portal especial para o Plano Elemental do Fogo, e um elemental de fogo é invocado nas proximidades do conjurador. Há 60% de chance de aparecer um elemental com 12 dados de vida, 35% de chance de aparecer um elemental com 16 dados de vida e 5% de chance de aparecer um elemental com 24 dados de vida. O elemental cumprirá os comandos do conjurador até ser derrotado ou até que a duração do feitiço termine. Todos os comandos dados ao elemental são feitos telepaticamente, portanto, não há tempo perdido devido a mal-entendidos e não é necessário saber o idioma da criatura invocada."
 
-@32003="Conjure Lesser Earth Elemental
-(Conjuration/Summoning)
+@32003="Conjurar Elemental da Terra Menor
+(Conjuração/Invocação)
 
-Level: 5
-Range: 45 ft.
-Duration: 1 turn + 1 round/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 5
+Alcance: 45 metros.
+Duração: 1 turno + 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogadas de Salvamento: Nenhuma
 
-A wizard who casts a Conjure Lesser Earth Elemental spell summons an earth elemental to do <PRO_HISHER> bidding. The elemental has 8 Hit Dice and will serve the caster's every whim until banished back to its home plane, the spell's duration expires, or the elemental dies."
+Um mago que lança o feitiço Conjuramento Menor de Elemental da Terra invoca um elemental da terra para fazer seus lances. O elemental tem 8 dados de vida e servirá a todos os caprichos do conjurador até ser banido de volta para seu plano de origem, a duração do feitiço expirar ou o elemental morrer.."
 
-@32004="Conjure Lesser Air Elemental
-(Conjuration/Summoning)
+@32004="Conjurar Elemental do Ar Menor
+(Conjuração/Invocação)
 
-Level: 5
-Range: 45 ft.
-Duration: 1 turn + 1 round/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 5
+Alcance: 45 metros.
+Duração: 1 turno + 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-A wizard who casts a Conjure Lesser Air Elemental spell summons an air elemental to do <PRO_HISHER> bidding. The elemental has 8 Hit Dice and will serve the caster's every whim until banished back to its home plane, the spell's duration expires, or the elemental dies."
+Um mago que conjura o feitiço Convocar Elemental do Ar Menor invoca um elemental do ar para fazer sua vontade. O elemental tem 8 dados de vida e servirá aos caprichos do conjurador até ser banido para seu plano de origem, o fim da duração do feitiço ou a morte do elemental."
 
-@32005="Conjure Lesser Fire Elemental
-(Conjuration/Summoning)
+@32005="Conjurar Elemental de Fogo Menor
+(Conjuração/Invocação)
 
-Level: 5
-Range: 45 ft.
-Duration: 1 turn + 1 round/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 5
+Alcance: 45 metros.
+Duração: 1 turno + 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-A wizard who casts a Conjure Lesser Fire Elemental spell summons a fire elemental to do <PRO_HISHER> bidding. The elemental has 8 Hit Dice and will serve the caster's every whim until banished back to its home plane, the spell's duration expires, or the elemental dies."
+Um mago que conjura o feitiço de Invocar Elemental de Fogo Menor invoca um elemental de fogo para fazer seus lances. O elemental tem 8 dados de vida e servirá a vontade do conjurador até ser banido de volta para seu plano de origem, a duração do feitiço expirar, ou o elemental morrer."
 
-@32006="Conjure Lesser Water Elemental
-(Conjuration/Summoning)
+@32006="Conjurar Elemental da Água menor 
+(Conjuração/Invocação)
 
-Level: 5
-Range: 45 ft.
-Duration: 1 turn + 1 round/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 5
+Alcance: 45 metros.
+Duração: 1 turno + 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-A wizard who casts a Conjure Lesser Water Elemental spell summons a water elemental to do <PRO_HISHER> bidding. The elemental has 8 Hit Dice and will serve the caster's every whim until banished back to its home plane, the spell's duration expires, or the elemental dies."
+Um mago que conjura um feitiço de Conjurar Elemental da Água Menor invoca um elemental da água para fazer seu bidding. O elemental tem 8 dados de vida e servirá aos caprichos do conjurador até ser banido de volta para o seu plano de origem, até a duração do feitiço expirar ou até o elemental morrer."
 
-@32007="Conjure Water Elemental
-(Conjuration/Summoning)
+@32007="Conjurar Elemental da Água
+(Conjuração/Invocação)
 
-Level: 6
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 6
+Alcance: Alcance visual do Lançador 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma 
 
-Upon casting a Conjure Water Elemental spell, the caster opens a special gate to the Elemental Plane of Water, and a water elemental is summoned in the vicinity of the caster. There is a 60% chance that a 12-Hit-Dice elemental appears, a 35% chance that a 16-Hit-Dice elemental appears, and a 5% chance that a 24-Hit-Dice elemental appears. The elemental will do the bidding of the caster until it is slain or the duration of the spell runs out. All of the commands given to the elemental are done telepathically, so there is no time lost due to miscommunication and no need to know the language of the summoned creature."
+Ao lançar um feitiço de Invocar Elemental da Água, o conjurador abre um portal especial para o Plano Elemental da Água, e um elemental da água é invocado nas proximidades do conjurador. Há 60% de chance de que apareça um elemental com 12 dados de vida, 35% de chance de que apareça um elemental com 16 dados de vida e 5% de chance de que apareça um elemental com 24 dados de vida. O elemental atenderá aos comandos do conjurador até ser morto ou até que a duração do feitiço se esgote. Todos os comandos dados ao elemental são feitos telepaticamente, portanto não há tempo perdido devido a falta de comunicação ou necessidade de conhecer a língua da criatura invocada."
 
-@32008="Lesser Water Elemental"
-@32009="Water Elemental"
-@32010="Greater Water Elemental"
-@32011="Elder Water Elemental"
-@32012="Conjure Lesser Air Elemental"
-@32013="Conjure Lesser Earth Elemental"
-@32014="Conjure Lesser Fire Elemental"
-@32015="Conjure Water Elemental"
+@32008="Elemental da Água Menor"
+@32009="Elemental da Água"
+@32010="Elemental da Água Maior"
+@32011="Elemental da Água Ancião"
+@32012="Invocar Elemental do Ar Menor"
+@32013="invocar Elemental da Terra Menor"
+@32014="Invocar Elemental de Fogo Menor"
+@32015="Invocar Elemental da água"
 
-@32016="Conjure Lesser Air Elemental
-(Conjuration/Summoning)
+@32016="Invocação do Elemental do Ar Menor
+(Conjuração/Invocação)
 
-Level: 5
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nivel: 5
+Alcance: Alcance visual do lançador 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-This spell allows the caster to summon an 8-HD elemental from the Elemental Plane of Air and bind it to <PRO_HISHER> will. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
+Este feitiço permite que o conjurador invoque um elemental de 8 HD do Plano Elemental do Ar e o ligue à sua vontade. Este elemental lutará em nome do conjurador até que a duração do feitiço expire ou o elemental seja destruído."
 
-@32017="Conjure Lesser Earth Elemental
-(Conjuration/Summoning)
+@32017="Invocar Elemental da Terra Menor
+(Conjuração/Invocação)
 
-Level: 5
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 5
+Alcance: Alcance visual do lançador 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Teste de resistência: Nenhuma
 
-This spell allows the caster to summon an 8-HD elemental from the Elemental Plane of Earth and bind it to <PRO_HISHER> will. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
+Essa magia permite ao conjurador invocar um elemental de 8 HD do Plano Elemental da Terra e vinculá-lo à sua vontade. Esse elemental lutará em nome do conjurador até que a duração da magia expire ou o elemental seja destruído."
 
-@32018="Conjure Lesser Fire Elemental
-(Conjuration/Summoning)
+@32018="Conjurar Elemental de Fogo Menor
+(Conjuração/Invocação)
 
-Level: 5
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 5
+Alcance: Alcance visual do lançador 
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-This spell allows the caster to summon an 8-HD elemental from the Elemental Plane of Fire and bind it to <PRO_HISHER> will. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
+Essa magia permite ao conjurador invocar um elemental de 8 HD do Plano Elemental do Fogo e ligá-lo à sua vontade. Esse elemental lutará em nome do conjurador até que a duração do feitiço expire ou o elemental seja destruído."
 
-@32019="Conjure Lesser Water Elemental
-(Conjuration/Summoning)
+@32019="Conjurar Elemental Menor da Água
+(Conjuração/Invocação)
 
-Level: 5
-Range: Visual range of the caster
-Duration: 1 turn/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nível: 5
+Alcance: Alcance visual do conjurador
+Duração: 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
 
-This spell allows the caster to summon an 8-HD elemental from the Elemental Plane of Water and bind it to <PRO_HISHER> will. This elemental will fight on behalf of the caster until the spell duration expires or the elemental is destroyed."
-@32020="Conjure Lesser Water Elemental"
+Essa magia permite que o conjurador invoque um elemental de 8 DV do Plano Elemental da Água e o vincule à sua vontade. Este elemental lutará em nome do conjurador até que a duração da magia expire ou o elemental seja destruído."
+@32020="Conjurar Elemental Menor da Água"
 
 
-@32100 = ~Gate
-(Conjuration/Summoning)
+@32100 = ~Portão
+(Conjuração/Invocação)
 
-Level: 9
-Range: 0
+Nível: 9
+Alcance: 0
+Duração: 33 rodadas
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma 
+
+Por meio deste feitiço, o conjurador invoca uma poderosa criatura extra-planar - um balor ou demônio abissal - para atacar seus inimigos, mas também a si mesmo se não tomar cuidado. O conjurador deve usar um feitiço de Proteção contra o Mal em si mesmo (e em seus companheiros) para que o demônio não o perceba. Se o conjurador falhar em se proteger dessa maneira, o demônio despedaçará o conjurador e seus companheiros, e então se alimentará dos restos.~
+@32101 = ~Portão
+(Conjuração/Invocação)
+
+Nivel: 7
+Esfera: Invocação
+Alcance: 0
 Duration: 33 rounds
-Casting Time: 9
+Tempo de Lançamento: 5
 Area of Effect: Special
-Saving Throw: None
+Jogada de Salvamento: Nenhuma 
 
-By means of this spell, the caster calls a powerful outer-planar creature—a balor or pit fiend —to attack <PRO_HISHER> foes as well as <PRO_HIMHER>self, if <PRO_HESHE>'s not careful. The caster must use a Protection From Evil spell on <PRO_HIMHER>self (and comrades) to keep the fiend from noticing <PRO_HIMHER>. If the caster fails to protect <PRO_HIMHER>self in this manner, the fiend will tear the caster and <PRO_HISHER> companions apart piece by piece, then feast on the remains.~
-@32101 = ~Gate
-(Conjuration/Summoning)
+Por meio desse feitiço, o conjurador invoca uma poderosa criatura extraplanar — um balor ou demônio chefe — para atacar seus inimigos, bem como a si mesmo, se não tiver cuidado. O conjurador deve usar um feitiço de Proteção Contra o Mal em si mesmo (e em seus camaradas) para evitar que a criatura perceba sua presença. Se o conjurador falhar em se proteger dessa maneira, o demônio irá despedaçar o conjurador e seus companheiros pedaço por pedaço, para depois se alimentar dos restos.~
+@32102 = ~Invocar Demônio
+(Conjuração/Invocação)
 
-Level: 7
-Sphere: Summoning
-Range: 0
-Duration: 33 rounds
-Casting Time: 5
-Area of Effect: Special
-Saving Throw: None
+Nivel: 8
+Alcance: 0
+Duração: 15 rodadas
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma 
 
-By means of this spell, the caster calls a powerful outer-planar creature—a balor or pit fiend —to attack <PRO_HISHER> foes as well as <PRO_HIMHER>self, if <PRO_HESHE>'s not careful. The caster must use a Protection From Evil spell on <PRO_HIMHER>self (and comrades) to keep the fiend from noticing <PRO_HIMHER>. If the caster fails to protect <PRO_HIMHER>self in this manner, the fiend will tear the caster and <PRO_HISHER> companions apart piece by piece, then feast on the remains.~
-@32102 = ~Summon Fiend
-(Conjuration/Summoning)
+Mais poderoso do que a variante de 7º nível, conjurar esse feitiço Cacodemonio invoca um demônio ou diabo enlouquecido. Este ser infernal atacará todos na área que não estiverem protegidos por um feitiço Proteção Contra o Mal. Apenas os magos desesperados ou suicidas usam esse feitiço.~
+@32103 = ~Cacodemonio
+(Conjuração/Invocação)
 
-Level: 8
-Range: 0
-Duration: 15 rounds
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Nivel: 7
+Alcance: 0
+Duração: 15 rodadas
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma 
 
-More powerful than the 7th-level variant, casting this Cacofiend spell summons a frenzied demon or devil. This fiend will attack everyone in the area who is not protected by a Protection From Evil spell. Only desperate or suicidal wizards use this spell.~
-@32103 = ~Cacofiend
-(Conjuration/Summoning)
+Quando esse feitiço é lançado, ele invoca um demônio poderoso que entrará em um frenesi e atacará tudo à vista. Qualquer pessoa sob os efeitos de um feitiço de Proteção Contra o Mal ou pergaminho não será alvo do demônio. Esse é um feitiço perigoso, melhor ser usado em momentos desesperadores.~
 
-Level: 7
-Range: 0
-Duration: 15 rounds
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+@40013 = ~Tempestade Ácida 
+(Evocação)
 
-When this spell is cast, it teleports in a powerful fiend that will go on a rampage and attack everything in sight. Anyone under the effects of a Protection From Evil spell or scroll will not be targeted by the fiend. This is a dangerous spell to invoke, best saved for desperate times.~
+Nivel: 7
+Alcance: Alcance visual do lançador 
+Duração: 5 rodada 
+Tempo de Lançamento: 7
+Área de efeito: raio de 12 metros 
+Jogada de Salvamento: Especial
 
-@40013 = ~Acid Storm
-(Evocation)
+Este feitiço desencadeia uma tempestade ácida na área de efeito. A vítima sofre inicialmente 10d6 pontos de dano ácido, sem realizar nenhum teste de resistência. Após o dano inicial, a vítima deve realizar um teste de resistência contra Magia para evitar mais danos. Se falhar, a vítima continuará a sofrer dano ácido nas rodadas seguintes, sofrendo dois dados a menos de dano a cada rodada: isto é, 8d6 de dano com este feitiço no primeiro rodada, 6d6 na segunda rodada, 4d6 no terceiro round, 2d6 na quarta rodada, e o feitiço termina na quinta rodada. Um novo teste de resistência é permitido a cada rodada para anular o efeito. Sair da área de efeito não para o dano.~
 
-Level: 7
-Range: Visual range of the caster
-Duration: 5 rounds
-Casting Time: 7
-Area of Effect: 12-ft. radius
-Saving Throw: Special
+@40014 = ~Esse feitiço também destruirá a esfera antimagia criada por um pergaminho de Proteção contra Magia ou pelo feitiço Concha Antimagia.~
 
-This spell unleashes an acidic downpour on the area of effect. The victim initially suffers 10d6 points of acid damage, with no saving throw. After the initial damage, the victim must save vs. Spell to avoid more damage. If unsuccessful, the victim continues to suffer acid damage in the following rounds, sustaining two fewer dice of damage each round: that is, 8d6 damage with this spell on the first round, 6d6 on the second round, 4d6 on the third round, 2d6 on the fourth round, and the spell ends on the fifth round. Another saving throw is permitted each round to negate the effect. Moving out of the area of effect does not stop the damage.~
+@40100 = "Santidade Impenetrável de Mente
+(Abjuração)
 
-@40014 = ~This spell will also destroy the anti-magic sphere created by a Protection from Magic scroll.~
+Nivel: 7
+Esfera: Proteção
+Alcance: 0
+Duração: 8 horas
+Tempo de Lançamento: 9
+Área de efeito: O Lançador 
+Jogada de Salvamento: Nenhuma
 
-@40015= "Otiluke's Freezing Sphere
-(Alteration, Evocation)
+Este feitiço fortalece a mente do conjurador contra qualquer influência externa. Ele possui três efeitos. Primeiramente, o conjurador fica imune a encantamento, confusão, medo, Imbecilidade, paralisia, sono, labirinto, fúria e intoxicação enquanto este feitiço estiver em efeito. Em segundo lugar, a concentração do conjurador é aprimorada, de forma que ele não terá chance de falha ao conjurar por efeitos como Magia Descontrolada (seus feitiços ainda podem ser interrompidos por danos). Por fim, através de uma vontade fortalecida, o conjurador pode proteger suas defesas mágicas e proteções de um único ataque mágico, como Fender ou Explosão de Feitiço."
 
-Level: 6
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 6
-Area of Effect: 1 creature
-Saving Throw: 1/2
+@40200 = "Mísseis da Força de Mordenkainen
+(Invocação)
 
-This spell fires an orb of cold at a creature that inflicts 1d4+2 points of cold damage per level of the caster, with a saving throw vs. spell for half damage."
+Nivel: 4
+Alcance: Alcance visual do lançador 
+Duração: Instantânea
+Tempo de Lançamento: 4
+Área de efeito: raio de 5 metros 
+Jogada de Salvamento: Especial
 
-@40016="Saving Throw:" // must be formatted as in spell descriptions
-@40017="Saving Throw: 1/2"
+Este feitiço cria uma esfera brilhante de energia mágica que disparada da mão do conjurador para atingir seu alvo com precisão, similar ao feitiço Míssil Mágico. O mago cria um míssil no 7º nível e um míssil adicional a cada terceiro nível depois do 7º, até um máximo de quatro mísseis — ou seja, dois mísseis no 10º nível, três no 13º e quatro no 16º. Cada míssil causa 2d4 pontos de dano ao alvo e depois explode em um raio concussivo de 1 ponto de dano por nível do conjurador, até um máximo de 15 pontos — por exemplo, um mago de 12º nível poderia conjurar dois mísseis de força, cada um causando 2d4+12 pontos de dano mágico. Criaturas que sofram dano podem tentar um Teste contra Magia para anular o dano concussivo, mas o impacto do próprio míssil não permite nenhum teste de resistência. O feitiço de 1º nível Escudo absorverá os mísseis de força sem causar dano, incluindo o dano concussivo."
 
+@40300="Proteção Divina"
+@40301="Proteção Divina Maior"
+@40302="Proteção Divina
+(Conjuração)
 
-@40100 = "Impervious Sanctity of Mind
-(Abjuration)
+Nivel: 5
+Esfera: Guardião
+Alcance: Toque 
+Duração: 3 rodadas
+Tempo de Lançamento: 3
+Área de efeito: O conjurador
+Jogada de Salvamento: Nenhuma 
 
-Level: 7
-Sphere: Protection
-Range: 0
-Duration: 8 hours
-Casting Time: 9
-Area of Effect: The caster
-Saving Throw: None
+Este feitiço concede ao conjurador imunidade a danos físicos (cortantes, contundentes, perfurantes ou de projéteis) durante a duração do feitiço."
+@40303="Proteção Divina Maior 
+(Conjuração)
 
-This spell steels the caster's mind against any outside influence. It has three effects. Firstly, the caster is immune to charm, confusion, fear, feeblemindedness, hold, sleep, maze, berserk, and intoxication as long as this spell is in effect. Secondly, the caster's concentration is enhanced, so that <PRO_HESHE> has no chance of casting failure from effects like Miscast Magic (<PRO_HISHER> spells can still be disrupted by damage). Finally, through enhanced force of will the caster can protect <PRO_HISHER> magical defenses and protections from a single magical attack, such as Breach or Spell Thrust."
+Nivel: 7
+Esfera: Guardião
+Alcance: Toque 
+Duração: 3 rodadas
+Tempo de Lançamento: 3
+Área de efeito: O conjurador
+Jogada de Salvamento: Nenhuma 
 
-@40200 = "Mordenkainen's Force Missiles
-(Invocation)
+Este feitiço concede ao conjurador 100% de Resistência Mágica e imunidade a danos físicos (cortantes, contundentes, perfurantes ou de projéteis) durante a duração do feitiço."
 
-Level: 4
-Range: Visual range of the caster
-Duration: Instant
-Casting Time: 4
-Area of Effect: 5-ft. radius
-Saving Throw: Special
+@40400="Criar Guarda-ósseo "
+@40401="Criar Guarda-ósseo 
+(Necromancia)
 
-This spell creates a brilliant globe of magical energy that streaks forth from the caster's hand to unerringly strike its target, much like a Magic Missile spell. The wizard creates one missile at 7th level and an additional missile at every third level after 7th, to a maximum of four missiles — in other words, two missiles at 10th level, three at 13th, and four at 16th. Each missile inflicts 2d4 points of damage to the target and then bursts in a 5-ft. radius concussive blast that inflicts 1 point of damage per level of the caster, to a maximum of 15 points — for example, a 12th-level wizard could conjure two force missiles, each of which strikes for 2d4+12 points of magic damage. Creatures taking damage can attempt a Save vs. Spell to negate the concussion damage, but the impact of the missile itself allows no Saving Throw. The 1st-level wizard spell Shield will absorb the force missiles harmlessly, including the concussion damage."
+Nivel: 9
+Alcance: 20 metros.
+Duração: 8 rodadas + 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma 
 
-@40300="Divine Protection"
-@40301="Greater Divine Protection"
-@40302="Divine Protection
-(Conjuration)
+Com a conjuração deste feitiço, o mago convoca 1d2 guardiões de ossos. Essas monstruosidades mortas-vivas aparecem dentro do alcance do feitiço e podem ser comandadas para atacar os oponentes do conjurador até que a duração do feitiço termine ou os monstros sejam destruídos."
+@40402="Guarda-ósseo"
 
-Level: 5
-Sphere: Guardian
-Range: Touch
-Duration: 3 rounds
-Casting Time: 3
-Area of Effect: The caster
-Saving Throw: None
+@40500="Rajada de Espinhos
+(Alteração)
 
-This spell grants the caster immunity to physical (slashing, crushing, piercing, or missile) damage for the duration of the spell."
-@40303="Greater Divine Protection
-(Conjuration)
+Nivel: 4
+Esfera: Planta
+Alcance: 30 metros.
+Duração: Instantânea
+Tempo de Lançamento: 3
+Área de efeito: cone de 17 metros com arco de 90 graus.
+Jogada de Salvamento: 1/2
 
-Level: 7
-Sphere: Guardian
-Range: Touch
-Duration: 3 rounds
-Casting Time: 3
-Area of Effect: The caster
-Saving Throw: None
+Por meio desse feitiço, o conjurador pode fazer com que uma chuva de farpas, espinhos e agulhas apareça em sua mão. A chuva de espinhos cobre um cone de 17 metros de comprimento, infligindo 4d12 pontos de dano perfurante a todas as criaturas dentro da área de efeito. O dano aumenta para 5d12 no 9º nível e para um máximo de 6d12 no 11º nível. Uma Jogada de Salvamento bem-sucedida contra Morte reduz pela metade o dano."
 
-This spell grants the caster 100% Magic Resistance and immunity to physical (slashing, crushing, piercing, or missile) damage for the duration of the spell."
+@40600="Círculo de Ossos
+(Necromancia)
 
-@40400="Create Boneguard"
-@40401="Create Boneguard
-(Necromancy)
+Nivel: 3
+Esfera: Guardião, Criação
+Alcance: 0
+Duração: 1 rodada/nível
+Tempo de Lançamento: 3
+Área de efeito: raio de 3 metros 
+Jogada de Salvamento: Nenhuma 
 
-Level: 9
-Range: 20 ft.
-Duration: 8 rounds + 1 round/level
-Casting Time: 9
-Area of Effect: Special
-Saving Throw: None
+Este feitiço conjura uma barreira de ossos flutuantes que giram rapidamente em torno do conjurador. Qualquer criatura que entrar no caminho dos ossos sofrerá 1d6 de dano contundente e 1d6 de dano cortante por rodada. O Círculo de Ossos não pode ser conjurado por personagens de tendência boa.."
 
-With the casting of this spell, the wizard calls forth 1d2 boneguards. These undead monstrosities appear within spell range and can be commanded to attack the caster's opponents until the spell duration expires or the monsters are destroyed."
-@40402="Boneguard"
-
-@40500="Thorn Spray
-(Alteration)
-
-Level: 4
-Sphere: Plant
-Range: 30 ft.
-Duration: Instant
-Casting Time: 3
-Area of Effect: 17-ft. cone with 90-deg. arc
-Saving Throw: 1/2
-
-By means of this spell, the caster can cause a spray of barbs, spikes, thorns, and spines to spring forth from <PRO_HISHER> hand. The thorn spray covers a 17-ft.-long cone, inflicting 4d12 points of piercing damage to all creatures within the area of effect. The damage increases to 5d12 at 9th level and to a maximum of 6d12 at 11th level. A successful Saving Throw vs. Death halves the damage."
-
-@40600="Circle of Bones
-(Necromancy)
-
-Level: 3
-Sphere: Guardian, Creation
-Range: 0
-Duration: 1 round/level
-Casting Time: 3
-Area of Effect: 3-ft. radius
-Saving Throw: None
-
-This spell conjures forth a barrier of floating bones that spin rapidly around the caster. Any creature entering the path of the bones takes 1d6 crushing damage and 1d6 slashing damage per round. Circle of Bones cannot be cast by good-aligned characters."
-
-@40700=" Finally, the priest is protected from several abjuration magic, such as Breach, Remove Magic, and Imprisonment (but not from abjuration spells that target the entropy shield itself, such as Secret Word or Ruby Ray of Reversal)."
+@40700=" Finalmente, o sacerdote está protegido de várias magias de abjuração, como Quebrar Magia, Remover Magia e Prisão (mas não de magias de abjuração que visam o próprio escudo de entropia, como Palavra Secreta ou Raio Rubi de Reversão)."
 
 @40800="NO_CHANGE" // NOTE TO TRANSLATORS: replace this string with the complete description for the spell 'Abi-Dalzim's Horrid Wilting'. Do so only if that description is altered as a consequence of the 'Abi-Dalzim's Horrid Wilting does not affect undead, constructs, and (non-water) elementals' spell tweak.
 // If you're unsure, *assume you don't need to change this line*. (It's a favor for the French translation.)
 
-@40900="Defensive Harmony
-(Enchantment/Charm)
+@40900="Harmonia Defensiva
+(Encantamento/Charme)
 
-Level: 4
-Sphere: Divine
-Range: 0
-Duration: 6 rounds
-Casting Time: 1
-Area of Effect: 15-ft. radius
-Saving Throw: None
+Nivel: 4
+Esfera: Divina
+Alcance: 0
+Duração: 6 rodadas
+Tempo de Lançamento: 1
+Área de efeito: raio de 15 metros 
+Jogada de Salvamento: Nenhuma
 
-Defensive Harmony grants affected creatures a defensive bonus by bestowing an enchanted coordination on their attacks and defenses. This allows a group of creatures to act as a single unit for a single battle or encounter. The effect is always centered on the caster, but affects all allies within a 15-ft. radius. Those affected can move outside of this area after the spell is cast and still enjoy the benefits of the harmony. While the spell is in effect, each affected creature gains a +4 bonus to <PRO_HISHER> Armor Class. This lasts for 6 rounds or until dispelled."
+A Harmonia Defensiva concede às criaturas afetadas um bônus defensivo, conferindo uma coordenação encantada em seus ataques e defesas. Isso permite que um grupo de criaturas atue como uma única unidade por uma única batalha ou encontro. O efeito está sempre centrado no conjurador, mas afeta todos os aliados dentro de um raio de 15 pés. Os afetados podem se mover para fora desta área após a conjuração do feitiço e ainda desfrutar dos benefícios da harmonia. Enquanto o feitiço estiver em efeito, cada criatura afetada ganha um bônus de +4 em sua Classe de Armadura. Isso dura por 6 rodadas ou até ser dissipado."
 
-@41000="It cannot be cast by evil-aligned characters." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Cure Critical Wounds
-@41001="It cannot be cast by evil-aligned characters." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Mass Cure Light Wounds
-@41002="It cannot be cast by evil-aligned characters." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Heal
-@41003="It can only be cast by evil-aligned characters." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Harm
+@41000="Não pode ser conjurado por personagens de tendência maligna." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Cure Critical Wounds
+@41001="Não pode ser conjurado por personagens de tendência maligna." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Mass Cure Light Wounds
+@41002="Não pode ser conjurado por personagens de tendência maligna." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Heal
+@41003="Só pode ser conjurado por personagens de tendência maligna." // NOTE TO TRANSLATORS: Must match the exact string in the description of IWDEE Harm
 
-@41004="Healing Mist" // renamed from "Mist of Eldath" iwdee @21474
+@41004="Névoa Curativa" // renamed from "Mist of Eldath" iwdee @21474
 
 @41005="Balor" // bg2ee @8449
-@41006="Bone Fiend" // bg2ee @70638
-@41007="Demon Fear" // bg2ee @39397
-
-@41008="Favor of the Martyr"
-
-@50000="Spellbook of Awesome Awesomeness" // NOTE TO TRANSLATORS: don't bother translating this and the next string, it's just a testing item
-@50001="Even a glance at this tome suffices to give its reader knowledge of every spell known to exist, as well as the godlike intellect required to comprehend them all. It disappears after a single use.
-
-STATISTICS:
-
-Special: The book is consumed upon use
-Usage: Place into quick item slot
+@41006="Demônio de Ossos" // bg2ee @70638
+@41007="Medo Demoníaco" // bg2ee @39397
+
+@41008="Favor do Martyr"
+
+@50000="Livro de Feitiços da Incrível Incríveldade" // NOTE TO TRANSLATORS: don't bother translating this and the next string, it's just a testing item
+@50001="Até mesmo um olhar neste tomo é suficiente para dar ao seu leitor o conhecimento de todos os feitiços conhecidos, bem como a inteligência divina necessária para compreendê-los. Ele desaparece após um único uso.
+
+ESTATISTICAS:
+
+Especial: O livro é consumido ao ser utilizado
+Uso: Coloque no slot de item rápido
 
-Weight: 25"
+Peso: 25"
 
-@50043="Shapechange: Mind Flayer"
-@50044="Shapechange: Mind Flayer
+@50043="Transformar-se: Devorador de Mentes"
+@50044="Transformar-se: Devorador de Mentes
 
-Strength: 10
-Dexterity: 10
+Força: 10
+Destreza: 10
 
-Base Armor Class: 5
-Number of Attacks: 4
-Base THAC0: 11
-Attack Damage: 1d2 (crushing), -5 Intelligence, strikes as a +2 weapon
+Classe de armadura base: 5
+Número de ataques: 4
+Base PACA0: 11
+Dano de Ataque: 1d2 (esmagamento), -5 Inteligência, ataca como uma arma +2
 
-Special Abilities:
- – Magic Resistance: 90%
- – Psionic Blast once per round (stuns all enemies in a small area for 10 rounds unless they make a successful Save vs. Spell)
- – Can cast spells in this form"
+Habilidades especiais:
+ – Resistência mágica: 90%
+ – Explosão Psíquica uma vez por rodada (atordoa todos os inimigos em uma pequena área por 10 rodadas, a menos que façam uma jogada de salvamento bem-sucedida contra Magia)
+ – Pode lançar feitiços nesta forma"
 
-@50045="Shapechange: Iron Golem"
-@50046="Shapechange: Iron Golem
+@50045="Transformar-se: Golem de Ferro"
+@50046="Transformar-se: Golem de Ferro
 
-Strength: 24
-Dexterity: 9
+Força: 24
+Destreza: 9
 
-Base Armor Class: 3
-Number of Attacks: 1
-Base THAC0: 3
-Attack Damage: 4d10 (crushing), strikes as a +4 weapon
+Classe de armadura base: 3
+Número de ataques: 1
+Base PACA0: 3
+Dano de Ataque: 4d10 (esmagamento), ataca como uma arma +4
 
-Special Abilities:
- – Gas Cloud once per 3 rounds (anyone exposed to it must Save vs. Poison at -2 once per round or be poisoned)
- – Fire Resistance: 125%
- – Cold Resistance: 100%
- – Electrical Resistance: 100%
- – Acid Resistance: 100%
- – Magic Resistance: 100% (cannot be lowered)
- – Magic Fire Resistance: 125%
- – Magic Cold Resistance: 100%
- – Slashing Resistance: 20%
- – Crushing Resistance: 20%
- – Piercing Resistance: 20%
- – Missile Resistance: 20%
- – Immune to backstab, weapons of +2 enchantment or less, sleep, fear, hold, charm, paralysis, poison"
+Habilidades especiais:
+ – Nuvem de Gás uma vez a cada 3 rodadas (qualquer um exposto a ela deve salvar contra Veneno com -2 uma vez por rodada ou será envenenado)
+ – Resistência ao fogo: 125%
+ – Resistência ao frio: 100%
+ – Resistência elétrica: 100%
+ – Resistência ácida: 100%
+ – Resistência à Magia: 100% (não pode ser reduzida)
+ – Resistência mágica ao fogo: 125%
+ – Resistência mágica ao frio: 100%
+ – Resistência ao corte: 20%
+ – Resistência ao esmagamento: 20%
+ – Resistência à perfuração: 20%
+ – Resistência a projétil: 20%
+ – Imune a ataque pelas costas, armas com encantamento de +2 ou menos, sono, medo, imobilização, charme, paralisia, veneno"
 
-@50047="Shapechange: Giant Troll"
-@50048="Shapechange: Giant Troll
+@50047="Transformar-se: Troll Gigante"
+@50048="Transformar-se: Troll Gigante
 
-Strength: 22
-Dexterity: 18
+Força: 22
+Destreza: 18
 
-Base Armor Class: 4
-Number of Attacks: 3
-Base THAC0: 8
-Attack Damage: 2d6 (piercing), strikes as a +2 weapon
+Classe de armadura base: 4
+Número de ataques: 3
+Base PACA0: 8
+Dano de Ataque: 2d6 (perfurante), ataca como uma arma +2
 
-Special Abilities:
- – Immune to stun, sleep, hold, paralysis
- – Regenerates 5 Hit Points per second
- – Can cast spells in this form"
+Habilidades especiais:
+ – Imune a atordoamento, sono, imobilização, paralisia
+ – Regenera 5 pontos de vida por segundo
+ – Pode lançar feitiços nesta forma"
 
-@50049="Shapechange: Marilith"
-@50050="Shapechange: Marilith
+@50049="Transformar-se: Marilith"
+@50050="Transformar-se: Marilith
 
-Strength: 19
-Dexterity: 18
+Força: 19
+Destreza: 18
 
-Base Armor Class: -6
-Number of Attacks: 5
-Base THAC0: 6
-Attack Damage: 1d8 (slashing), +1d6 fire, acid, cold, electricity, magic, or poison damage, at random, strikes as a +4 weapon
+Classe de armadura base: -6
+Número de ataques: 5
+Base PACA0: 6
+Dano de Ataque: 1d8 (cortante), +1d6 de fogo, ácido, gelo, eletricidade, mágico ou dano de veneno, aleatoriamente, atinge como uma arma +4
 
-Special Abilities:
- – Teleport Without Error once per round (may disappear and instantly reappear at any point within visual range)
- – Immunity to charm, fear, poison, and disease
- – Magic resistance: 85%
- – Fire resistance: 100%
- – Electricity resistance: 100%
- – Cold resistance: 50%
- – Can cast spells in this form"
+Habilidades especiais:
+ – Teleporte sem erro uma vez por rodada (pode desaparecer e aparecer instantaneamente em qualquer ponto dentro do alcance visual)
+ – Imunidade a encanto, medo, veneno e doença
+ – Resistência à Magia: 85%
+ – Resistência ao fogo: 100%
+ – Resistência elétrica: 100%
+ – Resistência ao frio: 50%
+ – Pode lançar feitiços nesta forma"
 
-@50051="Shapechange: Greater Basilisk"
-@50052="Shapechange: Greater Basilisk
+@50051="Transformar-se: Basilisco Maior"
+@50052="Transformar-se: Basilisco Maior
 
-Strength: 18
-Dexterity: 10
+Força: 18
+Destreza: 10
 
-Base Armor Class: 2
-Number of Attacks: 3
-Base THAC0: 11
-Damage: 1d8 (piercing), poison (3 damage per second for 6 seconds; Save vs. Poison negates), strikes as a +2 weapon
+Classe de armadura base: 2
+Número de ataques: 3
+Base PACA0: 11
+Dano: 1d8 (perfurante), veneno (3 de dano por segundo por 6 segundos; salvar vs. veneno nega), ataca como uma arma +2
 
-Special Abilities:
- – Petrifying gaze (target must save vs. petrification at -4 or be turned to stone permanently) once per round"
+Habilidades especiais:
+ – Olhar petrificante (o alvo deve salvar contra petrificação com -4 ou será convertido permanentemente em pedra) uma vez por rodada"
 
-@50053="Petrifying Gaze"
-@50054="Petrifying Gaze
+@50053="Olhar Petrificante"
+@50054="Olhar Petrificante
 
-The basilisk can turn any creature on which it gazes to stone unless the creature makes a save vs. petrification at -4. The greater basilisk may use this ability once per round."
+O basilisco pode transformar qualquer criatura em pedra com seu olhar, a menos que a criatura tenha sucesso em um teste de resistência contra petrificação com -4. O basilisco maior pode usar essa habilidade uma vez por rodada."
 
-@50055="Psionic Blast
+@50055="Explosão Psiônica
 
-The mind flayer can release a blast of psionic energy which stuns all enemies in a small area for 10 rounds unless they make a successful save vs. spells. The mind flayer may use this ability once per round."
+O devorador de mentes pode liberar uma explosão de energia psíquica que atordoa todos os inimigos em uma pequena área por 10 rodadas, a menos que façam uma jogada de salvamento bem-sucedida contra magias. O devorador de mentes pode usar essa habilidade uma vez por rodada."
 
-@50056="Teleport Without Error
+@50056="Teletransporte sem Erros
 
-The marilith may disappear and instantly reappear at any point within visual range. The marilith may use this ability once per round."
+A marilith pode desaparecer e reaparecer instantaneamente em qualquer ponto dentro do alcance visual. A marilith pode usar essa habilidade uma vez por rodada."
 
-@50057="Gas Cloud
+@50057="Nuvem gasosa 
 
-The iron golem breathes out a cloud of poisonous gas around itself. The cloud lasts for 10 seconds, and anyone exposed to it must save vs. poison at -2 once per round or be poisoned. Poisoned creatures take three hit point of damage per second for 3 rounds. The iron golem may use this ability once every three rounds."
+O golem de ferro exala uma nuvem de gás venenoso ao seu redor. A nuvem dura 10 segundos, e qualquer um exposto a ela deve realizar um salvamento contra veneno com -2 uma vez por rodada ou será envenenado. Criaturas envenenadas recebem três pontos de dano por segundo durante 3 rodadas. O golem de ferro pode usar essa habilidade a cada três rodadas."
 
-@50058="Shapechange: Invisible Stalker"
-@50059="Shapechange: Invisible Stalker
+@50058="Transformar-se: Espreitador invisível"
+@50059="Transformar-se: Espreitador invisível
 
-Strength: 18/10
-Dexterity: 17
+Força: 18/10
+Destreza: 17
 
-Base Armor Class: -3
-Number of Attacks: 1
-Base THAC0: 11
-Atack Damage: 2d8 (crushing), strikes as a +2 weapon
+Classe de armadura base: -3
+Número de ataques: 1
+Base PACA0: 11
+Dano de Ataque: 2d8 (esmagamento), ataca como uma arma +2
 
-Special Abilities:
- – Automatically becomes Improved Invisible once per round (unless suppressed by True Seeing, Glitterdust or similar)
- – Immunity to poison and disease
- – Magic Resistance: 30%
- – Fire Resistance: 30%
- – Cold Resistance: 30%
- – Acid Resistance: 30%
- – Electricity Resistance: 30%
- – Missile Resistance: 30%
- – Can cast spells in this form"
+Habilidades especiais:
+ – Automaticamente torna-se Invisível Aprimorado uma vez por rodada (a menos que seja suprimido por Visão Verdadeira, Poeira Brilhante ou algo similar).
+ – Imunidade a venenos e doenças
+ – Resistência à Magia: 30%
+ – Resistência ao fogo: 30%
+ – Resistência ao frio: 30%
+ – Resistência ácida: 30%
+ – Resistência elétrica: 30%
+ – Resistência a projétil: 30%
+ – Pode lançar feitiços nesta forma"
 
-@50060="Shapechange
-(Alteration)
+@50060="Mudanças de Forma 
+(Alteração)
 
-Level: 9
-Range: 0
-Duration: 1 hour
-Casting Time: 9
-Area of Effect: The caster
-Saving Throw: None
+Nivel: 9
+Alcance: 0
+Duração: 1 hora
+Tempo de Lançamento: 9
+Área de efeito: O Lançador 
+Jogada de Salvamento: Nenhuma 
 
-With this spell, a wizard is able to assume the form of a powerful creature. The spellcaster becomes the creature <PRO_HESHE> wishes and has almost all of its abilities. Thus, <PRO_HESHE> can change into a mind flayer to stun <PRO_HISHER> opponents and then become an iron golem to crush <PRO_HISHER> foes. These creatures have whatever Hit Points the wizard had at the time of the shapechange. Each alteration in form requires only a second, and no system shock is incurred.
+Com este feitiço, um mago é capaz de assumir a forma de uma criatura poderosa. O conjurador se torna a criatura que deseja e tem quase todas as suas habilidades. Assim, ele pode se transformar em um devorador de mentes para atordoar seus oponentes e depois se tornar um golem de ferro para esmagar seus inimigos. Essas criaturas possuem a quantidade de Pontos de Vida que o mago tinha no momento da transformação. Cada alteração de forma requer apenas um instante, e nenhum choque de sistema é incorrido.
 
-The caster may choose between these six forms:
- – Iron Golem: immune to most magic and elemental damage, powerful crushing attacks, Gas Cloud once per 3 rounds
- – Mind Flayer: 90% magic resistance, 50% physical damage resistance, intelligence-drain attack, Psionic Blast once per round
- – Giant Troll: regenerates 5 hp per second, powerful piercing attacks
- – Marilith: 5 attacks per round, 85% magic resistance, immune to electrical and fire damage, 50% cold resistance, Teleport Without Error once per round
- – Greater Basilisk: Petrifying Gaze once per round, powerful poisonous attacks
- – Invisible Stalker: 30% magic resistance, fairly powerful crushing attacks, becomes improved-invisible automatically once per round
+O conjurador pode escolher entre estas seis formas:
+ – Golem de Ferro: imune à maioria dos danos mágicos e elementais, poderosos ataques esmagadores, Nuvem de Gás uma vez a cada 3 rodadas
+ – Devorador de Mentes: 90% de resistência mágica, 50% de resistência a dano físico, ataque que drena inteligência, Explosão Psíquica uma vez por rodada
+ – Troll Gigante: regenera 5 pontos de vida por segundo, ataques poderosos perfurantes
+ – Marilith: 5 Ataques por rodada, resistência mágica de 85%, imune a dano elétrico e de fogo, resistência de 50% ao dano causado pelo frio, Teleporte sem Erro uma vez por rodada
+ – Basilisco Maior: Olhar Petrificante uma vez por rodada, ataques venenosos poderosos
+ – Espreitador Invisível: 30% de resistência à magia, ataques esmagadores bastante poderosos, torna-se automaticamente melhorado-invisível uma vez por rodada
 
-The caster may use spells normally in all forms except the Iron Golem and Greater Basilisk forms (which cannot speak the words of a spell)."
+O conjurador pode usar feitiços normalmente em todas as formas, exceto nas formas de Golem de Ferro e Basilisco Maior (que não podem pronunciar as palavras de um feitiço)."
 
-@50061="Shapeshift: Hill Giant Barbarian"
-@50062="Shapeshift: Hill Giant Barbarian
+@50061="Transformar-se: Bárbaro Gigante das Colinas"
+@50062="Transformar-se: Bárbaro Gigante das Colinas
 
-Strength: 19
-Dexterity: 10
+Força: 19
+Destreza: 10
 
-Base Armor Class: 3
-Number of Attacks: 1
-Attack Damage: 2d8 (piercing), strikes as a +1 weapon
+Classe de armadura base: 3
+Número de ataques: 1
+Dano de Ataque: 2d8 (perfurante), ataca como uma arma +1
 
-Special Abilities:
- – Barbarian Rage once per day (+4 bonus to Strength and Constitution, -2 penalty to Armor Class, +2 bonus to Saving Throws vs. Spell, immunity to charm, hold, paralysis, fear, morale failure, maze, stun, sleep, confusion, and level drain spells for 5 rounds)"
+Habilidades especiais:
+ – Fúria do Bárbaro uma vez por dia (+4 de bônus para Força e Constituição, -2 de penalidade na Classe de Armadura, +2 de bônus nos Testes de Resistência contra Magias, imunidade a encantamento, imobilização, paralisia, medo, falha de moral, labirinto, atordoamento, sono, confusão e drenagem de nível por 5 rodadas)"
 
-@50063="Shapeshift: Ogre Mage"
-@50064="Shapeshift: Ogre Mage
+@50063="Transformar-se: Ogro Mago"
+@50064="Transformar-se: Ogro Mago
 
-Strength: 18/00
-Dexterity: 12
+Força: 18/00
+Destreza: 12
 
-Base Armor Class: 4
-Number of Attacks: 1
-Attack Damage: 1d10 (slashing), strikes as a +1 weapon
+Classe de armadura base: 4
+Número de ataques: 1
+Dano de Ataque: 1d10 (cortante), ataca como uma arma +1
 
-Special Abilities:
- – Can cast spells in this form"
+Habilidades especiais:
+ – Pode lançar feitiços nesta forma"
 
-@50065="Shapeshift: Spider
+@50065="Transformar-se: Aranha
 
-Strength: 15
-Dexterity: 17
+Força: 15
+Destreza: 17
 
-Base Armor Class: 4
-Number of Attacks: 2
-Attack Damage: 1d4 (piercing), poison (1 damage per 2 seconds for 5 rounds; Save vs. Poison at +1 negates), strikes as a +1 weapon
+Classe de armadura base: 4
+Número de ataques: 2
+Dano de Ataque: 1d4 (perfurante), veneno (1 dano a cada 2 segundos por 5 rodadas; Teste de Resistência contra Veneno em +1 nega), ataca como uma arma +1
 
-Special Abilities:
- – Immunity to web
- – Increased movement rate
- – Web Tangle once per 2 rounds (target must Save vs. Breath or be webbed for 2 rounds)"
+Habilidades especiais:
+ – Imunidade à Teia 
+ – Aumento da taxa de movimento
+ – Emaranhado de teias uma vez a cada 2 rodadas (o alvo deve salvar contra o sopro ou ficará preso na teia por 2 rodadas)"
 
-@50066="Web Tangle"
-@50067="Web Tangle
+@50066="Emaranhado de teias"
+@50067="Emaranhado de teias
 
-The spider shoots a stream of webbing which entangles and immobilizes its target for 2 rounds (Save vs. Breath negates). The spider may use this ability once per 2 rounds."
+A aranha dispara um jato de teia que enreda e imobiliza seu alvo por 2 rodadas (Salve vs. Respiração nega). A aranha pode usar essa habilidade uma vez a cada 2 rodadas."
 
-@50068="Shapeshift: Hell Hound"
-@50069="Shapeshift: Hell Hound
+@50068="Transformar-se: Cão do Inferno"
+@50069="Transformar-se: Cão do Inferno
 
-Strength: 18
-Dexterity: 15
+Força: 18
+Destreza: 15
 
-Base Armor Class: 4
-Number of Attacks: 1
-Attack Damage: 1d10 (piercing), +1d6 fire damage, strikes as a +1 weapon
+Classe de armadura base: 4
+Número de ataques: 1
+Dano de Ataque: 1d10 (perfurante), +1d6 de dano de fogo, ataca como uma arma +1
 
-Special Abilities:
- – Fire Resistance: 100%
- – Cold Resistance: -50%
- – Hell Hound Fiery Breath once per 3 rounds (all creatures caught in a cone of flame take 3d6 fire damage, Save vs. Breath for half damage)"
+Habilidades especiais:
+ – Resistência ao fogo: 100%
+ – Resistência ao frio: -50%
+ – Hálito Flamejante de Cão do Inferno uma vez a cada 3 rodadas (todas as criaturas pegas em um cone de chamas sofrem 3d6 de dano de fogo, com teste de resistência vs. Hálito para metade do dano)"
 
-@50070="Hell Hound Fiery Breath"
-@50071="Hell Hound Fiery Breath
+@50070="Hálito Flamejante de Cão"
+@50071="Hálito Flamejante de Cão
 
-The hell hound breathes a cone of flame that inflicts 3d6 fire damage to any creature caught in the cone (Save vs. Breath for half damage). The hell hound may use this ability once per 3 rounds."
+O cão do inferno exala um cone de chamas que inflige 3d6 de dano de fogo a qualquer criatura pega pelo cone (Salve vs. Sopro para metade do dano). O cão do inferno pode usar essa habilidade uma vez a cada 3 rodadas."
 
-@50072="Shapeshift: Rat"
-@50073="Shapeshift: Rat
+@50072="Transformar-se: Rato"
+@50073="Transformar-se: Rato
 
-Strength: 10
-Dexterity: 20
+Força: 10
+Destreza: 20
 
-Base Armor Class: 4
-Number of Attacks: 1
-Attack Damage: 1d2 (piercing), strikes as a +1 weapon
+Classe de armadura base: 4
+Número de ataques: 1
+Dano de Ataque: 1d2 (perfurante), ataca como uma arma +1
 
-Special Abilities:
- – Hide once per round (invisibility, cannot be used in combat)"
+Habilidades especiais:
+ – Esconder uma vez por turno (invisibilidade, não pode ser usada em combate)"
 
-@50074="Hide"
-@50075="Hide
+@50074="Esconder"
+@50075="Esconder
 
-The rat hides from view, effectively becoming invisible. This cannot be done in combat. The rat may use this ability once per round."
+O rato se esconde da vista, efetivamente tornando-se invisível. Isso não pode ser feito em combate. O rato pode usar esta habilidade uma vez por rodada."
 
-@50076="Polymorph Self
-(Alteration)
+@50076="Transmutar Lançador 
+(Alteração)
 
-Level: 4
-Range: 0
-Duration: 1 turn + 3 rounds/level
-Casting Time: 4
-Area of Effect: The caster
-Saving Throw: None
+Nivel: 4
+Alcance: 0
+Duração: 1 turno + 3 rodadas/nível
+Tempo de Lançamento: 4
+Área de efeito: O Lançador 
+Jogada de Salvamento: Nenhuma 
 
-When this spell is cast, the wizard is able to assume the form of several creatures. For the duration of the spell, the caster can transform into any of the new forms at any time and as many times as <PRO_HESHE> wishes. The caster gains the natural attacks of the new form in some cases and may use weapons in others. The mental attributes of the wizard remain the same, but all physical attributes are obtained from the new form. Also, any natural protections that the new form offers are conferred to the wizard, such as the resistance to missile and crushing weapons possessed by the slime form.
+Quando este feitiço é lançado, o mago é capaz de assumir a forma de várias criaturas. Durante a duração do feitiço, o conjurador pode se transformar em qualquer uma das novas formas a qualquer momento e quantas vezes ela desejar. O conjurador adquire os ataques naturais da nova forma em alguns casos e pode usar armas em outros. Os atributos mentais do mago permanecem os mesmos, mas todos os atributos físicos são obtidos a partir da nova forma. Além disso, quaisquer proteções naturais que a nova forma oferece são conferidas ao mago, como a resistência a armas perfurantes e de impacto possuída pela forma de slime.
 
-The possible forms given by Polymorph Self are:
- – Hill Giant Barbarian: powerful piercing attacks, Barbarian Rage once per day
- – Ogre Mage: powerful slashing attacks, can cast spells in this form
- – Mustard Jelly: capable of poisoning or slowing opponents
- – Spider: powerful poisonous attacks, Web Tangle once per 2 rounds
- – Hell Hound: immune to fire, Hell Hound Fiery Breath once per 3 rounds
- – Rat: difficult to hit, Hide once per round"
+As possíveis formas concedidas por Transmutar Lançador  são:
+ – Bárbaro Gigante das Colinas: poderosos ataques perfurantes, Fúria Bárbara uma vez por dia
+ – Ogre Mago: poderosos ataques de corte, pode conjurar feitiços nessa forma
+ – Geleia Mostarda: capaz de envenenar ou retardar adversários
+ – Aranha: ataques poderosos e venenosos, Armadilha de Teia uma vez a cada 2 rodadas
+ – Hálito Flamejante de Cão: Imune ao fogo, Sopro Flamejante do Cão do Inferno uma vez a cada 3 rodadas.
+ – Rato: difícil de acertar, Esconder uma vez por rodada"
 
-@50077="Hidden"
+@50077="Escondido"
 
-@51000="at half the level of the caster" // NOTE TO TRANSLATORS: this string must be present, exactly, in the spell description of Mordenkainen's Force Blade (the IWD version of 'Mordenkainen's sword'.)
-@51001="at the same level of the caster" // NOTE TO TRANSLATORS: this string is substituted for the previous string. The goal is to replace 'fighter of half the level' with 'fighter of the level'
+@51000="A metade do nível do conjurador" // NOTE TO TRANSLATORS: this string must be present, exactly, in the spell description of Mordenkainen's Force Blade (the IWD version of 'Mordenkainen's sword'.)
+@51001="No mesmo nível do conjurador." // NOTE TO TRANSLATORS: this string is substituted for the previous string. The goal is to replace 'fighter of half the level' with 'fighter of the level'
 
-@52000="Haste cancelled by Slow"
-@52001="Slow cancelled by Haste"
+@52000="Aceleração cancelada por Lentidão."
+@52001="Lentidão cancelado por Aceleração"
 
 @100404 = ~
 
-This creature may use this power once per 99999 seconds.~
+Esta criatura pode usar este poder uma vez a cada 99999 segundos.~
 @100405 = ~
 
-This creature may use this power at will.~
+Essa criatura pode usar esse poder à vontade.~

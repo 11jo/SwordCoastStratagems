@@ -1,0 +1,201 @@
+// encode in UTF-8
+
+// SCS leftover, convenient to leave
+@1="Criar Guarda-ósseo"
+@2="Criar Guarda-ósseo
+(Necromancia)
+
+Nível: 9
+Alcance: 20 metros.
+Duração: 8 rodadas + 1 rodada/nível
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Com a invocação desse feitiço, o mago convoca 1d2 guardas ósseos. Essas monstruosidades mortas-vivas aparecem dentro do alcance do feitiço e podem ser comandadas para atacar os oponentes do conjurador até que a duração do feitiço expire ou os monstros sejam destruídos."
+
+@3 = "Conjurar Elemental de Terra
+(Conjuração/Invocação)
+
+Nível: 6
+Alcance: Alcance visual do Lançador 
+Duração: 1 rodada/nível 
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Ao lançar um feitiço de Conjurar Elemental de Terra, o conjurador abre um portal especial para o Plano Elemental da Terra, e um elemental de terra é invocado nas proximidades do conjurador. Existe uma chance de 60% de que um elemental de 12 dados de vida apareça, uma chance de 35% de que um elemental de 16 dados de vida apareça e uma chance de 5% de que um elemental de 24 dados de vida apareça. O elemental executará os comandos do conjurador até ser morto ou até que a duração do feitiço termine. Todos os comandos dados ao elemental são feitos telepaticamente, portanto não há perda de tempo devido a má comunicação e não é necessário conhecer o idioma da criatura invocada."
+@4 = "Conjurar Elemental de Fogo
+(Conjuração/Invocação)
+
+Nível: 6
+Alcance: Alcance visual do Lançador 
+Duração: 1 rodada/nível 
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Ao lançar um feitiço de Conjurar Elemental de Fogo, o conjurador abre um portal especial para o Plano Elemental do Fogo, e um elemental de fogo é invocado nas proximidades do conjurador. Há 60% de chance de aparecer um elemental de 12 dados de vida, 35% de chance de aparecer um elemental de 16 dados de vida e 5% de chance de aparecer um elemental de 24 dados de vida. O elemental fará a vontade do conjurador até ser morto ou até que a duração do feitiço termine. Todos os comandos dados ao elemental são realizados telepaticamente, portanto, não há perda de tempo devido a falhas na comunicação e não é necessário conhecer o idioma da criatura invocada."
+@5 = "Conjurar Elemental do Ar
+(Conjuração/Invocação)
+
+Nível: 6
+Alcance: Alcance visual do lançador
+Duração: 1 rodada/nível 
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Ao lançar o feitiço Invocar Elemental de Ar, o conjurador abre um portal especial para o Plano Elemental do Ar, e um elemental do ar é invocado nas proximidades do conjurador. Há 60% de chance de aparecer um elemental com 12 dados de vida, 35% de chance de aparecer um elemental com 16 dados de vida, e 5% de chance de aparecer um elemental com 24 dados de vida. O elemental cumprirá os comandos do conjurador até ser derrotado ou até o término da duração do feitiço. Todos os comandos dados ao elemental são transmitidos telepaticamente, portanto não há perda de tempo devido a problemas de comunicação e não é necessário conhecer o idioma da criatura invocada."
+@6 = "Conjurar Elemental da Água
+(Conjuração/Invocação)
+
+Nível: 6
+Alcance: Alcance visual do Lançador 
+Duração: 1 rodada/nível 
+Tempo de Lançamento: 9
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Ao lançar o feitiço Convocar Elemental da Água, o conjurador abre um portal especial para o Plano Elemental da Água, e um elemental da água é invocado nas proximidades do conjurador. Existe uma chance de 60% de que um elemental de 12 Hit Dice apareça, 35% de que um elemental de 16 Hit Dice apareça, e 5% de que um elemental de 24 Hit Dice apareça. O elemental obedecerá aos comandos do conjurador até ser morto ou até que a duração do feitiço expire. Todos os comandos dados ao elemental são feitos telepaticamente, portanto não há perda de tempo devido a má comunicação e não é necessário conhecer o idioma da criatura invocada."
+@7="Conjurar Elemental da água menor"
+@8="Elemental da Água Ancião"
+@9="Elemental da água menor"
+@10="Lâmina de Força de Mordenkainen"
+@11="Guerreiro Orc"
+@12="Arqueiro Orc"
+@13="Guerreiro Hobgoblin"
+@14="Arqueiro Hobgoblin"
+@15="Ettin"
+@16="Yuan-Ti"
+@17="Troll gigante"
+@18="E assim por diante, com um máximo de sete projétils no nível 25" // TO TRANSLATORS: must be verbatim from IWD 'Mordenkainen's Force Missiles' description
+@19="para um máximo de cinco projétils no 19º nível"
+
+// encode in UTF-8
+
+@101="Canto
+(Conjuração/Invocação)
+
+Nível: 2
+Esfera: Combate
+Alcance: Alcance visual do conjurador
+Duração: 1 turno
+Tempo de Lançamento: 9
+Área de efeito: raio de 60 metros 
+Jogada de Salvamento: Nenhuma
+
+Através do feitiço Canto, o sacerdote traz um favor especial a si mesmo e a seu grupo e causa dano aos inimigos. Quando o feitiço Canto é completado, todos os aliados do sacerdote dentro da área de efeito ganham um bônus de +1 em jogadas de ataque, rolagens de dano mínimo e testes de resistência. Além disso, os dados de dano para todos os efeitos além do dano básico da arma são reduzidos em 1. Por exemplo, uma bola de fogo 6d6 causará 6d5 de dano e uma espada longa flamejante que causa 1d8+2 de dano cortante mais 1d3 de dano de fogo causará 1d8+2 de dano cortante mais 1d2 de dano de fogo, ao invés. Os inimigos do sacerdote sofrem os efeitos opostos.
+
+Várias entoações não são cumulativas. Este feitiço requer uma quantidade moderada de concentração por parte do lançador, então ele tem o movimento reduzido pela metade."
+
+@110=""
+
+// encode in UTF-8
+
+@201="Pode usar a habilidade Canção dos Bardos. Enquanto ativada, a Canção dos Bardos tem os seguintes efeitos:" // 1-4 must exactly match the appropriate strings from the BG2 description of the bard song (other than replacing '.' with '\.')
+@202="Restaure a moral para o seu valor médio"
+@203="Remova o medo"
+@204="Proteção contra o medo"
+
+
+
+@210="Você pode tocar habilidade da Canção dos Bardos para tocar qualquer música do seu repertório."
+@211="Você pode tocar a Balada dos Três Heróis começando no 1º nível."
+@212="Você pode tocar a Lenda de Curran Coração Forte começando no 3º nível."
+@213="Você pode tocar a Melodia de Tymora a partir do 5º nível."
+@214="Você pode tocar a Canção de Kaudies a partir do 7º nível."
+@215="Você pode tocar o Anseio da Sereia a partir do 9º nível."
+@216="Você pode tocar o Canto da⁵ Guerra dos Sith a partir do nível 11."
+
+@220="Não conhece automaticamente as canções disponíveis para bardos comuns."
+@221="Nenhuma" // must match the string used in kit descriptions to indicate that there are no disadvantages; see, e.g., Jester
+@222="Desvantagens:" // must match appropriate string from kit descriptions
+@223="Esta habilidade substitui a atual Canção do Bardo." // must exactly match string from description of spcl920.spl
+// 224 and 225 can also be used to remove text from the description of the Enhanced Bard Song (spcl920) if non_English installs need it
+@224="NULL_NOT_IN_USE_WURBLE"
+@225="NULL_NOT_IN_USE_WURBLE"
+@226=~Símbolo da dor
+(Conjuração/Invocação)
+Nível: 7
+Esfera: Guardião
+Alcance: Alcance visual do Lançador 
+Duração: 11 turno 
+Tempo de Lançamento: 3
+Área de efeito: raio de 12 metros 
+Jogada de Salvamento: Nenhuma 
+
+Símbolo da Dor é um encantamento poderoso que permite ao sacerdote inscrever um símbolo no chão ou em qualquer outra superfície. O símbolo permanecerá lá até que alguém se aproxime demais, momento em que explodirá, fazendo com que todos dentro da área de efeito façam um Teste de Resistência contra Feitiço. Aqueles que falharem em seu Teste de Resistência são dominados pela dor, sofrendo uma penalidade de -4 em seus ataques, uma penalidade de -2 em suas pontuações de Destreza e uma penalidade de -2 em suas Classes de Armadura..~
+
+//@300 & @301 are reserved for Spell Revisions mod and must use its format
+
+@300="Conjurar Elemental Menor da Água
+Nível: 5
+Escola: Conjuração
+Alcance: Médio
+Duração: 1 turno + 1 rodada/nível
+Tempo de Lançamento: 8
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Ao conjurar o feitiço Invocar Elemental Menor da Água, o conjurador abre um portal especial para o Plano Elemental da Água, e um elemental da água é invocado nas imediações do conjurador. O elemental tem 8 dados de vida e servirá aos caprichos do conjurador até ser banido de volta para o seu plano de origem, o fim da duração do feitiço, ou até a morte do elemental. É particularmente difícil manter um portal para os Planos Interiores - há 15% de chance de que o portal aberto pelo conjurador se feche antes que o elemental entre no Plano Material Primário..
+
+Elemental de Água Menor (8 Dados de Vida):
+FOR 18/76, DES 17, CON 16, INT 6, SAB 11, CAR 11; AL Neutro
+HP 80, CA 2, PACA0 9, Testes de resistência 10/12/11/11/13
+2 Ataques por Rodada, 2d6+6 de Dano Esmagador (Punho +2)
+
+Qualidades especiais:
+Imune a armas normais
+Imune a efeitos de segurar, envenenar, dormir e atordoar
+Resistência a cortes, esmagamentos, projéteis e perfurações 20%; Resistência ao frio e ao fogo 50%"
+
+@301="Conjurar Elemental da Água
+Nível: 6
+Escola: Conjuração
+Alcance: Médio
+Duração: 1 turno + 1 rodada/nível
+Tempo de Lançamento: 1 rodada
+Área de efeito: Especial
+Jogada de Salvamento: Nenhuma
+
+Ao conjurar um feitiço de Invocar Elemental da Água, o conjurador abre um portal especial para o Plano Elemental da Água, e um elemental da água é invocado nas proximidades do conjurador. Normalmente, um elemental com 12 dados de vida será invocado. No décimo quinto nível ou superior, porém, o conjurador será capaz de invocar um elemental com 16 dados de vida. O elemental obedecerá aos comandos do conjurador até ser derrotado ou até a duração do feitiço expirar. Todos os comandos dados ao elemental são feitos telepaticamente, portanto não há perda de tempo devido a má comunicação, e não é necessário conhecer a língua da criatura invocada. É particularmente difícil manter um portal para os Planos Interiores - há uma chance de 15% de que o portal aberto pelo conjurador entrará em colapso antes que o elemental entre no Plano Material Primário.
+
+Elemental da Água (12 Dados de Vida):
+FOR 19, DES 18, CON 17, INT 6, SAB 11, CAR 11; AL Neutro
+PV 126, CA 1, PACA0 5, Testes de Resistência 7/9/8/8/10
+2 Ataques por Rodada, 2d8+10 de Dano Esmagador (Punho +3)
+
+Elemental de Água Maior (16 Dados de Vida):
+FOR 21, DES 19, CON 18, INT 6, SAB 11, CAR 11; AL Neutro
+PV 152, CA 0, PACA0 1, Testes de Resistência 4/6/5/4/7
+2 Ataques por Rodada, 2d10+12 de Dano Esmagador (Punho +3)
+
+Qualidades Especiais (12 e 16 Dados de Vida):
+Imune a armas normais
+Imune a efeitos de segurar, envenenar, polimorfar, dormir e atordoar
+Resistência a cortes, esmagamentos, mísseis e perfurações 20%; Resistência ao frio e ao fogo 50%"
+
+
+// note to translators: any sentence containing any of strings 10001-10020 is deleted from the spell description. Use these to remove good/evil alignment restrictions from the spell descriptions. (Use 10007 and later if you need more than 6 strings to do this in your language)
+
+@10001="só pode ser lançado por personagens de alinhamento bom"
+@10002="só pode ser lançado por personagens de alinhamento maligno"
+@10003="só pode ser lançado por personagens de alinhamento bom"
+@10004="só pode ser lançado por personagens de alinhamento maligno"
+@10005="só pode ser lançado por personagens de alinhamento bom"
+@10006="não pode ser lançado por personagens de alinhamento maligno"
+@10007="NULL_NOT_IN_USE_WURBLE"
+@10008="NULL_NOT_IN_USE_WURBLE"
+@10009="NULL_NOT_IN_USE_WURBLE"
+@10010="NULL_NOT_IN_USE_WURBLE"
+@10011="NULL_NOT_IN_USE_WURBLE"
+@10012="NULL_NOT_IN_USE_WURBLE"
+@10013="NULL_NOT_IN_USE_WURBLE"
+@10014="NULL_NOT_IN_USE_WURBLE"
+@10015="NULL_NOT_IN_USE_WURBLE"
+@10016="NULL_NOT_IN_USE_WURBLE"
+@10017="NULL_NOT_IN_USE_WURBLE"
+@10018="NULL_NOT_IN_USE_WURBLE"
+@10019="NULL_NOT_IN_USE_WURBLE"
+@10020="NULL_NOT_IN_USE_WURBLE"
