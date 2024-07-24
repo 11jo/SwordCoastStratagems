@@ -6,7 +6,7 @@ french		fr_fr
 italian		it_it
 korean		ko_kr
 polish		pl_pl
-portugese	pt_br
+portugues	pt_br
 russian		ru_ru
 tchinese	tr_tr
 zchinese	zh_cn

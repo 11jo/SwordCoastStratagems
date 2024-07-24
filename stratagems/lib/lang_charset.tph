@@ -6,6 +6,6 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY lang_charset BEGIN
           italian=>CP1252
           korean=>CP949
           russian=>CP1251
+          portugues=>CP1252
           english=>CP1252
-          portuges=>CP1252
 END
